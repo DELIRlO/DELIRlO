@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
  </a></td></tr></table>
 <div align="center">
-  <a href="https://github.com/ysneshy">
+  <a href="https://github.com/delirlo">
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
@@ -36,23 +36,23 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <table><tr><td>
     
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ysneshy&theme=gotham&hide_border=true&area=true)</td></tr></table>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table>
 
   <a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&logo=youtube&logoColor=00FFC8" target="_blank"></a>
   <a href="https://instagram.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23141321?style=for-the-badge&logo=instagram&logoColor=00FFC8" target="_blank"></a>
   <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23141321?style=for-the-badge&logo=linkedin&logoColor=00FFC8" target="_blank"></a> 
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
-<a href="https://github.com/ysneshy"> <img src="https://img.shields.io/static/v1?&label=Reload&message=ysneshy&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
+<a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=ysneshy&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
 [![Linkedin: ysneshy](https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/6aae6342-d099-49ca-a83b-c276c6bd7669.svg)](https://wakatime.com/@6aae6342-d099-49ca-a83b-c276c6bd7669)
 [![acesso](https://komarev.com/ghpvc/?username=ysneshy&color=%23ff0000)](https://github.com/ysneshy/)
-[![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/ysneshy/)
+[![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
-![Snake animation](https://github.com/ysneshy/ysneshy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DELIRlO/DELIRlO/blob/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
@@ -133,7 +133,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ysneshy/ysneshy/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/DELIRlO/DELIRlO/main/charts/bar_graph.png) 
 
 
  Last Updated on 22/10/2022 01:54:58 UTC
