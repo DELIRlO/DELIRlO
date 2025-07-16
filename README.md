@@ -52,7 +52,10 @@
 [![GitHub ysneshy]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
-![Snake animation](https://github.com/mari4souza/mari4souza/blob/output/github-contribution-grid-snake.svg)
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
