@@ -1,0 +1,65 @@
+.code {
+  counter-reset: line;
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+
+.line::before {
+  content: counter(line);
+  counter-increment: line;
+  margin-right: 1rem;
+  color: grey;
+}
+
+.code a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+.code a:hover {
+  text-decoration: line-through;
+}
+
+/*transicao de cor */
+.line:hover {
+  cursor: pointer;
+  color: rgb(191, 64, 64);
+  -webkit-transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
+  transition: all 1s ease-out;
+  transition: color 2s;
+
+}
+
+/*transicao de cor */
+.code a:hover {
+  cursor: pointer;
+  color: #1d92d5;
+  -webkit-transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
+  transition: all 1s ease-out;
+  transition: color 2s;
+
+}
+.className {
+  color: var(--accent-color);
+}
+
+/*transicao de cor */
+.className:hover {
+  cursor: pointer;
+  color: rgb(191, 64, 64);
+  -webkit-transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
+  transition: all 1s ease-out;
+  transition: color 2s;
+
+}
+
+@media screen and (max-width: 600px) {
+  .code {
+    font-size: 0.85rem;
+    line-height: 1.5rem;
+  }
+}

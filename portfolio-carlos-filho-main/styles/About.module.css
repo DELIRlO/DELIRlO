@@ -1,0 +1,213 @@
+.cointainer p {
+  line-height: 1.5;
+  margin: 1rem 0;
+  font-weight: lighter;
+  position: relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+
+.cointainer b {
+  position: relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+
+.cointainer h1{
+  position:relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+} 
+
+.containerSkills {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+  max-width: 50vw;
+  position: relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+
+.skill {
+  max-width: 30vw;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+
+.illustration {
+  height: 18vh;
+  display: flex;
+  gap: 2rem;
+  width: 300px;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.illustration {
+  width: 190px;
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateX(0)
+  }
+
+  50% {
+    transform: translateX(-50px)
+  }
+
+  100% {
+    transform: translateX(0)
+  }
+}
+
+.skill h4 {
+  font-size: 1.5rem;
+  text-decoration: underline;
+  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.illustration span{
+  background: linear-gradient(#1497be, #1c2aec);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  animation: text 5s linear infinite;
+}
+
+@keyframes text {
+  0% {
+    filter: hue-rotate(0deg);
+
+  }
+
+
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+.cointainer h2 {
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+
+/* Phone */
+@media screen and (max-width: 600px) {
+
+  .skill {
+    max-width: 100vw;
+    text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+    -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  }
+
+  .skill ul {
+    margin-right: 4.7rem;
+    width: 100%;
+    text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+    -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  }
+
+  .skill li {
+    font-size: 0.8rem;
+    text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+    -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  }
+
+  .skill h4 {
+    text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  }
+
+  .cointainer h2 {
+    font-size: 1.1rem;
+    text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+    -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  
+    -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+  }
+
+}

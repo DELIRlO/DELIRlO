@@ -1,0 +1,31 @@
+.container {
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+  position:relative;
+}
+
+.container h3 {
+  position:relative;
+}
+
+.container span {
+  position:relative;
+}
+
+/* Phone */
+@media screen and (max-width: 600px) {
+
+  .container {
+    position:relative;
+  }
+
+  .container h3 {
+    position:relative;
+  }
+  
+  .h3 {
+    position:relative;
+  }  
+}

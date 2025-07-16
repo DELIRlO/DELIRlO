@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "portfolio Basico",
+    "image": "https://imgur.com/fEPiCo5.png",
+    "description": "Um portfolio basico para programador.",
+    "tags": [
+      "react",
+      "sass",
+      "html",
+      "css"
+    ],
+    "source_code": "https://github.com/ysneshy/port-react",
+    "demo": "https://react-yxk.vercel.app"
+  },
+  {
+    "id": 2,
+    "name": "whatszap_clone",
+    "image": "https://imgur.com/OlHHdoi.png",
+    "description": "whatszap_clone em TypeScript + react.",
+    "tags": [
+      "react",
+      "typescript",
+      "css"
+    ],
+    "source_code": "https://github.com/ysneshy/whatszap_clone",
+    "demo": "https://whatszapclone.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "crypt_coin",
+    "image": "https://imgur.com/QdzT3b6.png",
+    "description": "veja as cripto moedas em alta.",
+    "tags": [
+      "next",
+      "javascript",
+      "css",
+      "html"
+    ],
+    "source_code": "https://github.com/ysneshy/crypt-react",
+    "demo": "https://crypt-react.vercel.app/"
+  },
+  {
+    "id": 4,
+    "name": "Cafe-juju",
+    "image": "https://imgur.com/1VLltf1.jpg",
+    "description": "cafe-shop basico page.",
+    "tags": [
+      "react",
+      "javascript",
+      "css",
+      "html"
+    ],
+    "source_code": "https://github.com/ysneshy/cafe-juju",
+    "demo": "https://cafe-juju.vercel.app/"
+  },
+  {
+    "id": 5,
+    "name": "Tempo-Agora",
+    "image": "https://imgur.com/oCVIIuA.png",
+    "description": "previsao do tempo.",
+    "tags": [
+      "react",
+      "javascript",
+      "sass",
+      "html"
+    ],
+    "source_code": "https://github.com/ysneshy/app-weather",
+    "demo": "https://app-weather-theta.vercel.app/"
+  },
+  {
+    "id": 6,
+    "name": "Calculadora-IMC",
+    "image": "https://imgur.com/c7k8Fes.png",
+    "description": "Calcula seu peso pi ideal.",
+    "tags": [
+      "typescript",
+      "css",
+      "html"
+    ],
+    "source_code": "https://github.com/ysneshy/calc-imc",
+    "demo": "https://calc-imc-yxk.vercel.app"
+  }
+]
