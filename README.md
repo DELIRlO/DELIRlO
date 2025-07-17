@@ -12,13 +12,14 @@
 <div align="center">
   <a href="https://github.com/delirlo">
 
+<img height="170em"
   ### 🛠️ Tech Stack  
 
 | **Categoria**  | **Tecnologias** |  
 |---------------|----------------|  
 | Frontend      | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> |  
 | Backend       | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> |  
-| Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |  
+| Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |  />
 
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
