@@ -16,32 +16,43 @@
 
 
 
-<!-- -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
- <!--sdsdf -->
-    <td width="25%" valign="top" style="padding: 0 10px;">
-      <h3>🛠️ Tech Stack</h3>
-      <table>
-        <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
-        <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
-        <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
-        <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
-      </table>
+    <!-- Tech Stack (18%) -->
+    <td width="18%" valign="top" style="padding: 0; border: none;">
+      <h3>Tech Stack</h3>
+      <p><strong>Categoria</strong></p>
+      <p>Tecnologias</p>
+      <p>Frontend</p>
+      <p>React</p>
+      <p>Backend</p>
+      <p>Node.js</p>
+      <p>Database</p>
+      <p>MongoDB</p>
     </td>
-    <td width="37%" valign="top" align="center" style="padding: 0 10px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    <td width="50%" valign="top" align="center" style="padding: 0; border: none;">
+      <h3>CARLOS FILHO'S GitHub Stats</h3>
+      <p>Total Stars Earned: 5</p>
+      <p>Total Commits (2023): 116</p>
+      <p>Total PRs: 0</p>
+      <p>Total Issues: 0</p>
+      <p>Contributed to (last year): 0</p>
     </td>
-    <td width="37%" valign="top" align="center" style="padding: 0 10px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    <td width="32%" valign="top" style="padding: 0; border: none;">
+      <h3>Most Used Languages</h3>
+      <p>Python 62.89%</p>
+      <p>PHP 4.56%</p>
+      <p>JavaScript 14.60%</p>
+      <p>HTML 3.77%</p>
+      <p>C 11.92%</p>
+      <p>CSS 2.23%</p>
     </td>
   </tr>
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
-
 
 
 
