@@ -44,7 +44,7 @@
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-</div></table></div>tr></div>td>
+</div></table></div>tr></div>
   <div style="display: inline_block">
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
