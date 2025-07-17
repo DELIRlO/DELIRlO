@@ -12,14 +12,44 @@
 <div align="center">
   <a href="https://github.com/delirlo">
 
-<img height="170em"
-  ### 🛠️ Tech Stack  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      ### CARLOS AUGUSTO DINIZ FILHO's GitHub Stats  
+      - **Total Stars Earned:** 5  
+      - **Total Commits (2025):** 66  
+      - **Total PRs:** 0  
+      - **Total Issues:** 0  
+      - **Contributed to (last year):** 0  
+    </td>
+    <td valign="top" width="50%">
+      ### Most Used Languages  
+      - Python 62.89%  
+      - PHP 4.56%  
+      - JavaScript 14.60%  
+      - HTML 3.77%  
+      - C 11.92%  
+      - CSS 2.25%  
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Tech Stack  
 
 | **Categoria**  | **Tecnologias** |  
 |---------------|----------------|  
 | Frontend      | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> |  
 | Backend       | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> |  
-| Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |  />
+| Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |  
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
 
   
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
