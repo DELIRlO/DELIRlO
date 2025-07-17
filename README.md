@@ -14,48 +14,41 @@
 
 
 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- Tech Stack -->
-      <td align="center" valign="top" width="25%">
-        <h3>🛠️ Tech Stack</h3>
-        <table>
-          <tr><td><strong>Categoria</strong></td><td><strong>Tecnologias</strong></td></tr>
-          <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
-          <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
-          <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
-        </table>
-      </td>
-      
-      <!-- GitHub Stats -->
-      <td align="center" valign="top" width="25%">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
-      </td>
-      
-      <!-- Top Languages -->
-      <td align="center" valign="top" width="25%">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
-      </td>
-
-      <!-- Quarto Elemento (adicione o que você precisa) -->
-      <td align="center" valign="top" width="25%">
-        <h3>🌟 Extra</h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li>- ⚡ Fun fact: I love coding</li>
-          <li>- 📫 How to reach me: example@email.com</li>
-          <li>- 😄 Pronouns: He/Him</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <!-- Coluna 1: Tech Stack -->
+    <td valign="top" width="33.33%">
+      ### 🛠️ Tech Stack
+      <table>
+        <tr><td><strong>Categoria</strong></td><td><strong>Tecnologias</strong></td></tr>
+        <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
+        <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
+        <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
+      </table>
+    </td>
+    
+    <!-- Coluna 2: GitHub Stats -->
+    <td valign="top" width="33.33%">
+      <div align="center">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+      </div>
+    </td>
+    
+    <!-- Coluna 3: Top Languages -->
+    <td valign="top" width="33.33%">
+      <div align="center">
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
-
-
 
 
 
