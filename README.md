@@ -19,7 +19,7 @@
   <tr>
     <td width="5%" valign="bottom" style="padding: 0 10px;">
       <table>
-        <table><tr><td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td><td>
+        <tr><td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td><td>
         <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td>
     <td width="52%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
