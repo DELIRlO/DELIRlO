@@ -54,7 +54,15 @@
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
 <!--profile -->
-[![Visit My Stats Page](https://img.shields.io/badge/📊_View_Full_Stats-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000&color=00000000)](https://delirlo.github.io/delirio/)
+
+<div align="center">
+  <a href="https://delirlo.github.io/delirio/" style="background-color: transparent; border: none;">
+    <img src="https://img.shields.io/badge/📊_Full_Stats-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000" alt="Stats" style="opacity: 0.8; transition: opacity 0.3s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.8'"/>
+  </a>
+</div>
+
+
+[![Stats](https://img.shields.io/badge/📊_Stats-FFFFFF?style=flat&logo=github&logoColor=white&labelColor=00000000&color=00000000)](https://delirlo.github.io/delirio/)
 
 [![Visit My Stats Page](https://img.shields.io/badge/📊_View_Full_Stats-000000?style=for-the-badge&logo=github&logoColor=white)](https://delirlo.github.io/delirio/)
 
