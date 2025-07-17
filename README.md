@@ -34,10 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
 
-
-
+<!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- Linha 1: Tech Stack + GitHub Cards -->
   <tr>
     <!-- Coluna Tech Stack (30%) -->
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
@@ -56,8 +54,7 @@
       </table>
     </td>
   </tr>
-
-
+<!-- fim -->
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
@@ -80,19 +77,6 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-
-<!--profile -->
-
-### 🛠️ Tech Stack  
-
-| **Categoria**  | **Tecnologias** |  
-|---------------|----------------|  
-| Frontend      | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> |  
-| Backend       | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> |  
-| Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |  
-
-
-
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
