@@ -18,18 +18,18 @@
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="5%" valign="bottom" style="padding: 0 10px;">
       <table>
+         <td width="5%" valign="bottom" style="padding: 0 10px;">
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
         <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="55%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="52%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-    <td width="45%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="48%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
