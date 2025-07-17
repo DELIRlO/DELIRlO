@@ -20,7 +20,7 @@
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="5%" valign="top" style="padding: 0 10px;">
+    <td width="5%" valign="bottom" style="padding: 0 10px;">
       <h3>🛠️ Tech Stack</h3>
       <table>
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
@@ -29,7 +29,7 @@
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="50%" valign="bot" align="center" style="padding: 0 10px;">
+    <td width="50%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
     <td width="60%" valign="bottom" align="center" style="padding: 0 10px;">
