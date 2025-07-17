@@ -52,9 +52,8 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?DELIRlO&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?DELRlO&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true)
+![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
