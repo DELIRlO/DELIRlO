@@ -20,7 +20,6 @@
   <tr>
     <!-- Coluna Tech Stack (5%) -->
     <td width="5%" valign="top" style="padding: 0 10px; border: none;">
-      <h3>🛠️ Tech Stack</h3>
       <table style="border: none;">
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
@@ -28,10 +27,10 @@
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="45%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
+    <td width="55%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-    <td width="50%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
+    <td width="45%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
