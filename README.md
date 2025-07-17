@@ -54,6 +54,8 @@
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
 <!--profile -->
+[![Visit My Stats Page](https://img.shields.io/badge/📊_View_Full_Stats-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=00000000&color=00000000)](https://delirlo.github.io/delirio/)
+
 [![Visit My Stats Page](https://img.shields.io/badge/📊_View_Full_Stats-000000?style=for-the-badge&logo=github&logoColor=white)](https://delirlo.github.io/delirio/)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=000000&hide_border=true)](https://github.com/delirlo)
