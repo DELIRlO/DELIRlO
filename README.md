@@ -29,21 +29,6 @@
       </table>
     </td>
   </tr>
-  <!-- Segunda linha: Informações do perfil -->
-  <tr>
-    <td colspan="2" style="padding: 10px; border: none;">
-      <strong>DELIRIO (CARLOS FILHO)</strong>
-      <ul style="margin-top: 5px; margin-bottom: 5px;">
-        <li>[ ] 170 Contributions in 2025</li>
-        <li>[x] 20 Public Repos</li>
-        <li>[ ] Joined GitHub 1 day ago</li>
-        <li>[ ] ynieshy@gmail.com</li>
-      </ul>
-      <strong>Administration in the last year</strong><br>
-      AUT | AUB | AÜN | BÖR | BAB | BARS | BART
-    </td>
-  </tr>
-</table>
 
 
 
