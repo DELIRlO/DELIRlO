@@ -30,7 +30,7 @@
     <td width="55%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-    <td width="46%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
+    <td width="50%" valign="bottom" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
