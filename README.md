@@ -52,7 +52,6 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square) 
 
 <!--profile -->
 
