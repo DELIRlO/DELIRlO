@@ -17,38 +17,37 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
-<table width="100%">
+<table>
   <tr>
-    <!-- Coluna 1: Tech Stack -->
-    <td valign="top" width="33%">
-      ### 🛠️ Tech Stack  
-      | **Categoria**  | **Tecnologias** |  
-      |---------------|----------------|  
-      | Frontend      | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> |  
-      | Backend       | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> |  
-      | Database      | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |
+    <td width="33%" valign="top">
+      
+### 🛠️ Tech Stack  
+
+| Categoria | Tecnologias |  
+|----------|------------|  
+| Frontend | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/> |  
+| Backend  | <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/> |  
+| Database | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> |
+
     </td>
-    
-    <!-- Coluna 2: GitHub Stats -->
-    <td valign="top" width="33%">
-      <div align="center">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-      </div>
+    <td width="33%" valign="top">
+      
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+</p>
+
     </td>
-    
-    <!-- Coluna 3: Top Languages -->
-    <td valign="top" width="34%">
-      <div align="center">
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-      </div>
+    <td width="34%" valign="top">
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+</p>
+
     </td>
   </tr>
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
-
-
-
 
 
 
