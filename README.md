@@ -29,13 +29,13 @@
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="60%" valign="top" align="center" style="padding: 0 10px;">
+    <td width="50%" valign="top" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
     <td width="60%" valign="top" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-  </tr>tr>
+  </tr>
 </table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
