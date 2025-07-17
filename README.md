@@ -16,10 +16,10 @@
 
 
 <table width="100%" style="border-collapse: collapse; border: none;">
+  <!-- Primeira linha: Tech Stack + GitHub Stats -->
   <tr>
-    <!-- Coluna Tech Stack (5%) -->
-    <td width="5%" valign="top" style="padding: 0 10px; border: none;">
-      <h3>🛠️ Tech Stack</h3>
+    <!-- Coluna Tech Stack (30%) -->
+    <td width="30%" valign="top" style="padding: 10px; border: none;">
       <table style="border: none;">
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
@@ -27,14 +27,33 @@
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="45%" valign="top" align="center" style="padding: 0 10px; border: none;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    <!-- Coluna GitHub Cards (70%) -->
+    <td width="70%" valign="top" style="padding: 10px; border: none;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
+          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top" align="center" style="padding: 0 10px; border: none;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+  </tr>
+  <!-- Segunda linha: Informações do perfil -->
+  <tr>
+    <td colspan="2" style="padding: 10px; border: none;">
+      <strong>DELIRIO (CARLOS FILHO)</strong>
+      <ul style="margin-top: 5px; margin-bottom: 5px;">
+        <li>[ ] 170 Contributions in 2025</li>
+        <li>[x] 20 Public Repos</li>
+        <li>[ ] Joined GitHub 1 day ago</li>
+        <li>[ ] ynieshy@gmail.com</li>
+      </ul>
+      <strong>Administration in the last year</strong><br>
+      AUT | AUB | AÜN | BÖR | BAB | BARS | BART
     </td>
   </tr>
 </table>
+
+
 
   
 
