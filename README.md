@@ -16,26 +16,25 @@
 
 
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <!-- Linha 1: Tech Stack + GitHub Cards -->
   <tr>
-    <!-- Coluna Tech Stack (30%) -->
-    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+    <!-- Coluna Tech Stack (5%) -->
+    <td width="5%" valign="top" style="padding: 0 10px; border: none;">
       <h3>🛠️ Tech Stack</h3>
       <table style="border: none;">
-        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
-        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
+        <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
+        <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
+        <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
+        <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
-        </tr>
-      </table>
+    <td width="45%" valign="top" align="center" style="padding: 0 10px; border: none;">
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    </td>
+    <td width="50%" valign="top" align="center" style="padding: 0 10px; border: none;">
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
-
+</table>
 
   
 
