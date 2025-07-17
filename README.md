@@ -15,12 +15,10 @@
 
 
 
-eu consegui ajeita manualmente pelo codigo agora queria ver se voce consegue coloca na mesma altura o o segundo elemento  pois ele esta menor que os outros o github stats neste codigo 
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="5%" valign="bottom" style="padding: 0 10px;">
-      <h3>🛠️ Tech Stack</h3>
       <table>
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
@@ -28,10 +26,10 @@ eu consegui ajeita manualmente pelo codigo agora queria ver se voce consegue col
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="50%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="55%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-    <td width="60%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="45%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
