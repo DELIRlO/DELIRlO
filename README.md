@@ -52,8 +52,10 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/ysneshy?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/ysneshy?style=social)
 
-![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square)
+<!-- ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square) -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=delirlo&color=red&style=flat)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
