@@ -50,11 +50,12 @@
 [![wakatime](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d.svg)](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d)
 ![Profile Views](https://komarev.com/ghpvc/?username=delirlo&color=red&style=flat)
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
-![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
+![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square) 
 
 <!--profile -->
- ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-![Commits](https://img.shields.io/github/commit-activity/y/delirlo/REPO?style=flat-square) 
+
 
 
 
