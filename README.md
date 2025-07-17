@@ -19,7 +19,6 @@
   <tr>
     <td width="5%" valign="bottom" style="padding: 0 10px;">
       <table>
-        <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td>
     <td width="52%" valign="bottom" align="center" style="padding: 0 10px;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
