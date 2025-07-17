@@ -13,48 +13,6 @@
   <a href="https://github.com/delirlo">
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
-
-<table width="100%">
-  <tr>
-    <!-- Coluna 1: Tech Stack -->
-    <td valign="top" width="33%">
-      <h3>Tech Stack</h3>
-      <table>
-        <tr><td><strong>Categoria</strong></td><td><strong>Tecnologias</strong></td></tr>
-        <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
-        <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
-        <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
-      </table>
-    </td>
-    
-    <!-- Coluna 2: GitHub Stats -->
-    <td valign="top" width="33%">
-      <h3>CARLOS AUGUSTO DINIZ FILHO's GitHub Stats</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>- <strong>Total Stars Earned:</strong> 5</li>
-        <li>- <strong>Total Commits (2025):</strong> 66</li>
-        <li>- <strong>Total PRs:</strong> 0</li>
-        <li>- <strong>Total Issues:</strong> 0</li>
-        <li>- <strong>Contributed to (last year):</strong> 0</li>
-      </ul>
-    </td>
-    
-    <!-- Coluna 3: Most Used Languages -->
-    <td valign="top" width="34%">
-      <h3>Most Used Languages</h3>
-      <ul style="list-style-type: none; padding-left: 0;">
-        <li>- Python 62.89%</li>
-        <li>- PHP 4.56%</li>
-        <li>- JavaScript 14.60%</li>
-        <li>- HTML 3.77%</li>
-        <li>- C 11.92%</li>
-        <li>- CSS 2.25%</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
