@@ -18,8 +18,8 @@
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
+    <td width="5%" valign="bottom" style="padding: 0 10px;">
       <table>
-         <td width="5%" valign="bottom" style="padding: 0 10px;">
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
         <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
