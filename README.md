@@ -20,7 +20,7 @@
   <table>
     <tr>
       <!-- Tech Stack -->
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="25%">
         <h3>🛠️ Tech Stack</h3>
         <table>
           <tr><td><strong>Categoria</strong></td><td><strong>Tecnologias</strong></td></tr>
@@ -31,19 +31,30 @@
       </td>
       
       <!-- GitHub Stats -->
-      <td align="center" valign="top" width="33%">
+      <td align="center" valign="top" width="25%">
         <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
       </td>
       
       <!-- Top Languages -->
-      <td align="center" valign="top" width="34%">
+      <td align="center" valign="top" width="25%">
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+      </td>
+
+      <!-- Quarto Elemento (adicione o que você precisa) -->
+      <td align="center" valign="top" width="25%">
+        <h3>🌟 Extra</h3>
+        <ul style="list-style-type: none; padding-left: 0;">
+          <li>- ⚡ Fun fact: I love coding</li>
+          <li>- 📫 How to reach me: example@email.com</li>
+          <li>- 😄 Pronouns: He/Him</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
+
 
 
 
