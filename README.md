@@ -56,7 +56,7 @@
 <!--profile -->
 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=2596be&hide_border=true)](https://github.com/delirlo)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 
 <picture align="center">
