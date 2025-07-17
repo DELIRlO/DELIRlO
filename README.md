@@ -15,21 +15,39 @@
 
 
 
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="5%" valign="bottom" style="padding: 0 10px;">
-      <table>
-        <img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/>
-        <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td>
-    <td width="52%" valign="bottom" align="center" style="padding: 0 10px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    <!-- Primeira coluna - GitHub Stats -->
+    <td width="33%" valign="top" style="padding: 5px;">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&hide_border=true"/>
     </td>
-    <td width="48%" valign="bottom" align="center" style="padding: 0 10px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
+    <td width="33%" valign="top" style="padding: 5px;">
+      <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&hide_border=true"/>
+    </td>
+    <td width="33%" valign="top" style="padding: 5px;">
+      <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077&hide_border=true"/>
+      <br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
     </td>
   </tr>
 </table>
 
+---
+
+### 📊 GitHub Stats Summary
+- **Total Stars Earned:** 5
+- **Total Commits (2025):** 116
+- **Total PRs:** 0
+- **Total Issues:** 0
+- **Contributed to (last year):** 0
+
+### 💻 Most Used Languages
+- Python 62.89%
+- JavaScript 14.60%
+- C 11.82%
+- PHP 4.56%
+- HTML 3.77%
+- CSS 2.25%
 
 
 
