@@ -36,7 +36,7 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <table><tr><td>
     
-![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table>
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
 
   <a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&logo=youtube&logoColor=00FFC8" target="_blank"></a>
   <a href="https://instagram.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23141321?style=for-the-badge&logo=instagram&logoColor=00FFC8" target="_blank"></a>
