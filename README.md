@@ -16,23 +16,22 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
-
-<table width="100%" style="border-collapse: collapse;">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="5%" valign="bottom" style="padding: 0 10px;">
+    <!-- Coluna Tech Stack (5%) -->
+    <td width="5%" valign="top" style="padding: 0 10px; border: none;">
       <h3>🛠️ Tech Stack</h3>
-      <table>
+      <table style="border: none;">
         <tr><th align="left">Categoria</th><th align="left">Tecnologias</th></tr>
         <tr><td>Frontend</td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
         <tr><td>Backend</td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
         <tr><td>Database</td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
       </table>
     </td>
-    <td width="50%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="45%" valign="top" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
-    <td width="60%" valign="bottom" align="center" style="padding: 0 10px;">
+    <td width="50%" valign="top" align="center" style="padding: 0 10px; border: none;">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321"/>
     </td>
   </tr>
