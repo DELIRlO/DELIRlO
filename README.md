@@ -12,8 +12,8 @@
 <div align="center">
   <a href="https://github.com/delirlo">
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DELIRlO&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DELIRlO&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
 </div>
   <div style="display: inline_block">
 
@@ -29,11 +29,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
 
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td><td>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DELIRlO&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysneshy&theme=2077"/></td></tr></table>
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DELIRlO&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DELIRlO&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DELRlO&theme=2077"/></td></tr></table>
     <table><tr><td>
     
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
