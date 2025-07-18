@@ -11,15 +11,23 @@
  </a></td></tr></table>
     
 <!-- tabela 1 em evidencia -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
+<!-- COLUMNA DIRECTA (STATS) -->
+<td width="70%" valign="top">
+    <!-- TABELA DE STATS PERFEITAMENTE ALINHADA -->
+    <table width="100%" style="border-collapse: collapse; margin: 0 auto;"> 
         <tr>
-          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
-          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-           <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
-          </td>
-      </table>
-  </tr>
+            <td width="33%" style="text-align: center; padding: 10px;">
+                <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=github" alt="Productive Time">
+            </td>
+            <td width="33%" style="text-align: center; padding: 10px;">
+                <img height="150" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
+            </td>
+            <td width="33%" style="text-align: center; padding: 10px;">
+                <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=151515" alt="Top Languages">
+            </td>
+        </tr>
+    </table>
+</td>
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
