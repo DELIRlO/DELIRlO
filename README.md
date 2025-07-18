@@ -51,7 +51,7 @@
           <td>&nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
       </table>
     </td>
-  </tr>
+ 
 <!-- fim -->
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
