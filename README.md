@@ -36,8 +36,9 @@
 
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
     <!-- Coluna Tech Stack (30%) -->
-    <td width="40%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <h3>🛠️ Tech Stack</h3>
       <table style="border: none;">
         <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
@@ -46,10 +47,13 @@
       </table>
     </td>
     <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-          &nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/>
-     
-
- 
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 <!-- fim -->
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
