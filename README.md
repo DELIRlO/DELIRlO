@@ -46,11 +46,9 @@
       </table>
     </td>
     <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-          <td>&nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
-         <table><tr><td>
-      </table>
-    </td>
+          &nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/>
+     
+
  
 <!-- fim -->
 
