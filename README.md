@@ -36,7 +36,6 @@
 
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
     <!-- Coluna Tech Stack (30%) -->
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <h3>🛠️ Tech Stack</h3>
