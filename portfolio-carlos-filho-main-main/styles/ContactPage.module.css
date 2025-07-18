@@ -1,0 +1,146 @@
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  
+}
+
+.container > * {
+  flex: 1;
+  position: relative;
+  
+}
+
+.container > div:first-child {
+  border-right: 1px solid var(--accent-color);
+  
+}
+
+.container h1 {
+  margin-bottom: 2em;
+  font-size: 1.5em;
+}
+.container h3{
+  position:relative;
+  text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -webkit-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -moz-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -ms-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+
+  -o-text-shadow: 0px 0px 10px rgb(58, 150, 255);
+}
+/*transicao de cor */
+.container h3:hover {
+  cursor: pointer;
+  color: rgb(58, 150, 255);
+  -webkit-transition: all 1s ease-out;
+  -moz-transition: all 1s ease-out;
+  transition: all 1s ease-out;
+  transition: color 2s;
+  position:relative;
+}
+
+/*.illustration {
+  height: 17vh;
+  display: flex;
+  gap: 2rem;
+  bottom: 0;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.illustration {
+  width: 190px;
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0)
+}
+50% {
+    transform: translateY(-50px)
+
+}
+100% {
+    transform: translateY(0)
+  }
+}  */
+
+.flex {
+  display: flex;
+  gap: 1em;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.8rem;
+  border-radius: 40px;
+}
+
+.form input,
+.form textarea {
+  font-family: 'JetBrains Mono';
+  margin-bottom: 1.5em;
+  background: var(--article-bg);
+  color: var(--text-color);
+  border: none;
+  font-size: 1rem;
+  padding: 0.75rem;
+  width: 100%;
+  resize: none;
+  border-radius: 40px;
+}
+
+.form input:focus,
+.form textarea:focus {
+  outline: 1px solid var(--accent-color);
+  border-radius: 40px;
+}
+
+.form button {
+  background: var(--accent-color);
+  color: var(--main-bg);
+  border: none;
+  cursor: pointer;
+  padding: 0.5em 1rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+.heading {
+  margin-bottom: 1.5rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    display: block;
+    position:relative;
+  }
+  .container > div:first-child {
+    border-right: none;
+    margin-bottom: 2.5rem;
+    position:relative;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .flex {
+    display: block;
+  }
+  .form input {
+    font-size: 0.85rem;
+    position:relative;
+  }
+
+}
+
