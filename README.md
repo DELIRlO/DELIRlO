@@ -12,12 +12,20 @@
 <div align="center">
   <a href="https://github.com/delirlo">
 
+<div align="center">
+  <a href="https://github.com/ysneshy">
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+</div>
+  <div style="display: inline_block">
+    
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
           <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
-          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
       </table>
   </tr>
 <!-- tabela 1 em evidencia -->
