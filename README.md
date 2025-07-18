@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
-
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
@@ -48,16 +47,22 @@
       </table>
     </td>
     <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <img height="154" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="width: 100%;"/>
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+         <td>&nbsp;&nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>
+<!-- fim -->
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <table><tr><td>
     
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
+
   <a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&logo=youtube&logoColor=00FFC8" target="_blank"></a>
   <a href="https://instagram.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23141321?style=for-the-badge&logo=instagram&logoColor=00FFC8" target="_blank"></a>
   <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a>
@@ -110,3 +115,62 @@
 🌆 Daytime    90 commits     ████████████░░░░░░░░░░░░░   50.85% 
 🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.86% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Wednesday    59 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+Thursday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Friday       42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Belem
+
+💬 Programming Languages: 
+JavaScript               11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.42% 
+Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
+Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+
+🔥 Editors: 
+VS Code                  20 hrs 20 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    20 hrs 20 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
+PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/DELIRlO/DELIRlO/main/charts/bar_graph.png) 
+
+
+ Last Updated on 22/10/2022 01:54:58 UTC
+<!--END_SECTION:waka-->
+
+  </details>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
+</div>
