@@ -13,7 +13,6 @@
             padding: 16px;
             line-height: 1.5;
         }
-
         .container {
             max-width: 896px;
             margin: 0 auto;
@@ -21,7 +20,6 @@
             flex-direction: column;
             gap: 16px;
         }
-
         .top-section {
             background-color: #161b22;
             border: 1px solid #30363d;
@@ -29,7 +27,6 @@
             padding: 24px;
             min-height: 300px; /* Fixed height to match image proportion */
         }
-
         .bottom-section {
             background-color: #161b22;
             border: 1px solid #30363d;
@@ -37,25 +34,21 @@
             padding: 24px;
             min-height: 400px; /* Fixed height to match image proportion */
         }
-
         .bullet-points {
             padding-left: 20px;
             margin: 0;
         }
-
         .bullet-points li {
             margin-bottom: 12px;
             list-style-type: '- ';
             padding-left: 4px;
         }
-
         .skills {
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
             margin: 12px 0;
         }
-
         .skill {
             background-color: #238636;
             color: white;
@@ -64,7 +57,6 @@
             font-size: 0.85rem;
             white-space: nowrap;
         }
-
         .portfolio-link {
             color: #2f81f7;
             text-decoration: none;
@@ -73,65 +65,55 @@
             align-items: center;
             gap: 4px;
         }
-
         .commit-info {
             color: #7d8590;
             font-size: 0.85rem;
             margin-top: 16px;
         }
-
         .stats-title {
             font-size: 1.1rem;
             font-weight: 600;
             margin-bottom: 16px;
             color: #e6edf3;
         }
-
         .stats-grid {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             gap: 16px;
             margin-bottom: 24px;
         }
-
         .stat-item {
             background-color: #0d1117;
             border: 1px solid #30363d;
             border-radius: 6px;
             padding: 12px;
         }
-
         .stat-value {
             font-size: 1.2rem;
             font-weight: 600;
             color: #2f81f7;
             margin-top: 4px;
         }
-
         .languages-title {
             font-size: 1.1rem;
             font-weight: 600;
             margin-bottom: 16px;
             color: #e6edf3;
         }
-
         .language-item {
             margin-bottom: 8px;
         }
-
         .language-name {
             display: flex;
             justify-content: space-between;
             margin-bottom: 4px;
             font-size: 0.9rem;
         }
-
         .language-bar {
             height: 8px;
             background-color: #238636;
             border-radius: 4px;
         }
-
         .additional-skills {
             margin-top: 24px;
             font-size: 0.9rem;
@@ -140,16 +122,13 @@
             flex-wrap: wrap;
             gap: 8px;
         }
-
         /* Specific adjustments to match the image exactly */
         .bullet-points li:nth-child(3) {
             margin-bottom: 0;
         }
-        
         .skills {
             margin-top: 8px;
-        }
-        
+        } 
         .portfolio-link {
             margin-left: -20px;
         }
