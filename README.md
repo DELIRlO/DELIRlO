@@ -87,6 +87,105 @@
 | 🎨 CSS         |            |          | Estilização      | Layouts responsivos |
 
 
+
+<div style="background-color: #0D1117; border-radius: 10px; padding: 20px; font-family: 'Segoe UI', sans-serif;">
+<h3 style="color: #58A6FF; margin-top: 0;">DELIRIO (CARLOS FILHO)</h3>
+
+<table style="width: 100%; border-collapse: collapse; color: white;">
+<tr style="border-bottom: 1px solid #30363D;">
+<th style="text-align: left; padding: 8px 0; color: #58A6FF;">Linguagens</th>
+<th style="text-align: left; padding: 8px 0;">Frameworks</th>
+<th style="text-align: left; padding: 8px 0;">Sistema / S.O</th>
+<th style="text-align: left; padding: 8px 0;">Finalidade</th>
+<th style="text-align: left; padding: 8px 0;">Uso Típico</th>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #F1E05A;">JS</span></td>
+<td>⚛️ React</td>
+<td>🐧 Arch Linux</td>
+<td>Web full-stack</td>
+<td>SPAs, APIs</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #3178C6;">TS</span></td>
+<td>🟩 Vue</td>
+<td>💼 Power BI</td>
+<td>Tipagem escalável</td>
+<td>Apps complexos</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #3572A5;">Py</span></td>
+<td>🔴 Laravel</td>
+<td></td>
+<td>IA/dados</td>
+<td>Django, automação</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #4F5D95;">PHP</span></td>
+<td>🔵 Flutter</td>
+<td></td>
+<td>Backend web</td>
+<td>WordPress</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #00B4AB;">Dart</span></td>
+<td>🟦 Quasar</td>
+<td></td>
+<td>Mobile</td>
+<td>Apps cross-platform</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #A97BFF;">Kotlin</span></td>
+<td>🟢 Node</td>
+<td></td>
+<td>Android</td>
+<td>Apps nativos</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #F05138;">Swift</span></td>
+<td></td>
+<td></td>
+<td>iOS/macOS</td>
+<td>Apps Apple</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0;"><span style="color: #E34C26;">HTML</span></td>
+<td></td>
+<td></td>
+<td>Estrutura web</td>
+<td>Páginas estáticas</td>
+</tr>
+
+<tr>
+<td style="padding: 8px 0;"><span style="color: #563D7C;">CSS</span></td>
+<td></td>
+<td></td>
+<td>Estilização</td>
+<td>Layouts responsivos</td>
+</tr>
+</table>
+
+<div style="margin-top: 15px; font-size: 14px; color: #8B949E;">
+📌 335 Contributions in 2025<br>
+📍 29 Public Repos<br>
+📎 Joined GitHub a days ago
+</div>
+</div>
+
+
+
+
+
+
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
