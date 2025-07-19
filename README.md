@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
-<table width="1360px">
+<table width="1380px">  <!-- Aumentei de 1360px para 1380px (+20px) -->
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
@@ -11,12 +11,14 @@
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Technologies I work with:**  
   ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React```  
 
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:** <a href="https://carlosfilho.vercel.app" target="_blank">
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:**  
+  <a href="https://carlosfilho.vercel.app" target="_blank">
     <img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif" width="21" target="_blank"/>
   </a>
   <a href="https://carlosfilho.vercel.app" alt="Portfolio">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>   &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
   </a>
+
 </td>
 </tr>
 </table>
