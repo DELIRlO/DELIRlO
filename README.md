@@ -35,42 +35,6 @@
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
 
 
-## 🚀 Tech Stack 
-
-|               |               |               |
-|---------------|---------------|---------------|
-| **Frontend**  | **Backend**   | **Mobile**    |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-
-
-
-## 🌈 Minha Stack Tecnológica
-
-### 🔵 Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-
-### 🟢 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
-
-### 🟣 Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-
-
-<div align="center">
-  
-| ![Web Development](https://img.shields.io/badge/-WEB-000000?style=for-the-badge) | ![Mobile](https://img.shields.io/badge/-MOBILE-000000?style=for-the-badge) |
-|--------------------------------------------------------------------------------|---------------------------------------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
-
-</div>
-
 
 
 
