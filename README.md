@@ -87,10 +87,6 @@
 | 🎨 CSS         |            |          | Estilização      | Layouts responsivos |
 
 
-
-<div style="background-color: #0D1117; border-radius: 10px; padding: 20px; font-family: 'Segoe UI', sans-serif;">
-<h3 style="color: #58A6FF; margin-top: 0;">DELIRIO (CARLOS FILHO)</h3>
-
 <table style="width: 100%; border-collapse: collapse; color: white;">
 <tr style="border-bottom: 1px solid #30363D;">
 <th style="text-align: left; padding: 8px 0; color: #58A6FF;">Linguagens</th>
@@ -172,13 +168,6 @@
 <td>Layouts responsivos</td>
 </tr>
 </table>
-
-<div style="margin-top: 15px; font-size: 14px; color: #8B949E;">
-📌 335 Contributions in 2025<br>
-📍 29 Public Repos<br>
-📎 Joined GitHub a days ago
-</div>
-</div>
 
 
 
