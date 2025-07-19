@@ -15,7 +15,7 @@
     <img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif" width="21" target="_blank"/>
   </a>
   <a href="https://carlosfilho.vercel.app" alt="Portfolio">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>$~~~~~~~~~~~$ 
+    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>$~~~~~~~~~~~$
   </a>
 </td>
 </tr>
