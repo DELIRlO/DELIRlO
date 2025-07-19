@@ -166,6 +166,17 @@ C#                       1 repo              █░░░░░░░░░░�
 
  Last Updated on 22/10/2022 01:54:58 UTC
 <!--END_SECTION:waka-->
+| Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros |
+|--------------------------|--------------------------|-------------------|
+| JavaScript               | NodeJS                   | Arch Linux        |
+| TypeScript               | React                    | Power BI          |
+| Python                   | Vue                      |                   |
+| PHP                      | Laravel                  |                   |
+| Dart                     | Flutter                  |                   |
+| Kotlin                   | Quasar                   |                   |
+| Swift                    |                          |                   |
+| HTML5                    |                          |                   |
+| CSS3                     |                          |                   |
 
   </details>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
