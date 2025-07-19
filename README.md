@@ -79,6 +79,19 @@
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
 
+
+### 🎨 Tech Stack (Cores via Badges)
+
+| Linguagens       | Frameworks     | Sistemas       | Finalidade          | Uso Típico          |
+|------------------|----------------|----------------|---------------------|---------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) | Web Full-Stack | SPAs, APIs |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black) | Tipagem Escalável | Apps Complexos |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |  | IA/Dados | Django, Automação |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |  | Backend Web | WordPress |
+| ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) | ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white) |  | Mobile | Apps Cross-Platform |
+
+
+
 <div style="background-color: #141321; border-radius: 10px; padding: 20px; font-family: 'Segoe UI', sans-serif;">
 <table style="width: 100%; border-collapse: collapse; color: #00ffc8;">
 <tr style="border-bottom: 1px solid #30363D;">
