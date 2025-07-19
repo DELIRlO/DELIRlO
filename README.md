@@ -1,7 +1,10 @@
-<!--$~~~~~~~~~~~$ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
-<table style="width: 100%; margin-left: -15px; border: none !important; border-collapse: collapse; border-spacing: 0;">
+
+<!--$~~~~~~~~~~~$ -->
+<div style="width: 100%; overflow: hidden; margin-left: -20px;">
+<table style="width: 100%; border: none; border-collapse: collapse; margin: 0; padding: 0;">
 <tr>
+<td style="vertical-align: top; border: none; padding: 0; margin: 0;">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**  
@@ -13,10 +16,15 @@
   </a>
   <a href="https://carlosfilho.vercel.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
-  </a>  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
+  </a>
+
+</td>
+<td style="vertical-align: top; border: none; padding: 0; margin: 0; text-align: right;">
+  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="float: right;">
 </td>
 </tr>
 </table>
+</div>
 
 
 
