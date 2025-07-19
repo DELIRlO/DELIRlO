@@ -18,37 +18,6 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
   </a>
 </div>
-
-<!-- Imagem alinhada à direita -->
-<div style="float: right; width: 20%; margin: 0; padding: 0;">
-  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
-</div>
-
-<div style="clear: both;"></div>
-
-<!-- Tabela de estatísticas (exatamente como na referência) -->
-## Table of Contents
-
-| Commits (UTC +0.00)    | Carlos Augusto Diniz Filho's GitHub Stats |
-|---|---|
-|    | ☆ Total Stars Earned:    7    |
-|    | ☐ Total Commits (2022):    0    |
-|    | 💬 Total PRs:    0    |
-|    | ☐ Total Issues:    1    |
-|    | ☐ Contributed to (last year):    0    |
-
-## Most Used Languages
-
-- PHP 39.31%  
-- TypeScript 6.88%  
-- C# 35.72%  
-- HTML 4.17%  
-- JavaScript 10.11%  
-- Twig 3.85%
-
-</td>
-</tr>
-</table>
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
