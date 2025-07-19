@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
 <!--$~~~~~~~~~~~$ -->
-<table style="width: 100%; border: none; border-collapse: collapse; margin-left: -10px;">
+<table style="width: 100%; margin-left: -15px; border: none !important; border-collapse: collapse; border-spacing: 0;">
 <tr>
-<td style="vertical-align: top; width: 75%; border: none; padding: 0;">
+<td style="vertical-align: top; width: 78%; border: none !important; padding: 0 !important; margin: 0 !important;">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**  
@@ -18,8 +18,8 @@
   </a>
 
 </td>
-<td style="vertical-align: top; width: 25%; border: none; padding: 0; text-align: right;">
-  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador">
+<td style="vertical-align: top; width: 22%; border: none !important; padding: 0 !important; margin: 0 !important;">
+  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
 </td>
 </tr>
 </table>
