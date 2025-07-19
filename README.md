@@ -74,29 +74,17 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
-| Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros |
-|--------------------------|--------------------------|-------------------|
-| JavaScript 🟨           | Node.js 🟢              | Arch Linux 🐧    |
-| TypeScript 🔵           | React ⚛️               | Power BI 💼      |
-| Python 🐍              | Vue.js 🟩               |                   |
-| PHP 🐘                 | Laravel 🔴              |                   |
-| Dart 💙                | Flutter 🔵              |                   |
-| Kotlin 🟪              | Quasar 🟦              |                   |
-| Swift 🍏               |                          |                   |
-| HTML5 📄               |                          |                   |
-| CSS3 🎨                |                          |                   |
-
-| Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros | Finalidade Principal         | Exemplo de Uso                 |
-|--------------------------|--------------------------|-------------------|------------------------------|--------------------------------|
-| 🟨 JavaScript           | ⚛️ React               | 🐧 Arch Linux    | Web frontend/backend        | SPAs, APIs Node.js             |
-| 🔵 TypeScript           | 🟩 Vue                 | 💼 Power BI      | Tipagem escalável           | Apps empresariais             |
-| 🐍 Python               | 🔴 Laravel             |                   | IA/dados/automação          | Django, análise de dados       |
-| 🐘 PHP                  | 🔵 Flutter             |                   | Backend web                 | WordPress, e-commerces        |
-| 💙 Dart                 | 🟦 Quasar              |                   | Mobile multiplataforma      | Apps iOS/Android               |
-| 🟪 Kotlin               | 🟢 Node.js             |                   | Android/backend JVM         | Apps nativos Android          |
-| 🍏 Swift                |                         |                   | Desenvolvimento Apple       | Apps macOS/iOS                |
-| 📄 HTML5                |                         |                   | Estrutura web               | Páginas estáticas             |
-| 🎨 CSS3                 |                         |                   | Estilização web             | Animações, layouts responsivos|
+| Langs      | Frameworks | Sistemas | Finalidade       | Uso Típico          |
+|------------|------------|----------|------------------|---------------------|
+| 🟨 JS      | ⚛️ React  | 🐧 Arch  | Web full-stack   | SPAs, APIs          |
+| 🔵 TS      | 🟩 Vue     | 💼 PBI   | Tipagem escalável| Apps complexos      |
+| 🐍 Py      | 🔴 Laravel |          | IA/dados         | Django, automação   |
+| 🐘 PHP     | 🔵 Flutter |          | Backend web      | WordPress           |
+| 💙 Dart    | 🟦 Quasar  |          | Mobile           | Apps cross-platform |
+| 🟪 Kotlin  | 🟢 Node    |          | Android          | Apps nativos        |
+| 🍏 Swift   |            |          | iOS/macOS        | Apps Apple          |
+| 📄 HTML    |            |          | Estrutura web    | Páginas estáticas   |
+| 🎨 CSS     |            |          | Estilização      | Layouts responsivos |
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
