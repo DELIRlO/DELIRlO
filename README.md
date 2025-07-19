@@ -1,46 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
+<table width="1260px">
+<tr>
+<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
-<!-- PRIMEIRA TABELA (SEM BORDAS) -->
-<div style="width: 100%; margin-left: -15px;">
-<table style="width: 100%; border: none !important; border-collapse: collapse; margin: 0; padding: 0;">
-<tr style="border: none !important;">
-<td style="vertical-align: top; border: none !important; padding: 0 !important; margin: 0 !important;">
-
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**  
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Technologies I work with:** ```NodeJS | JavaScript | CSS3 | Power BI | Laravel | Flutter | Python | React```  
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:**  
-  <a href="https://carlosfilho.vercel.app" target="_blank">
-    <img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif" width="21"/>
-  </a>
-  <a href="https://carlosfilho.vercel.app">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
-  </a>
-
-</td>
-<td style="vertical-align: top; border: none !important; padding: 0 !important; margin: 0 !important;">
-  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="float: right;">
-</td>
-</tr>
-</table>
-</div>
-
-<!-- TABELAS ABAIXO (COM ALINHAMENTO CORRETO) -->
-<div style="width: 100%; margin-left: 15px;"> <!-- Compensa a margem negativa da primeira tabela -->
-
-<!-- tabela 1 em evidencia -->
-<table width="100%" style="border-collapse: collapse; border: none; margin-top: 20px;">
-  <tr>
-    <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
-    <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
-    <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
-  </tr>
-</table>
-
-<!-- Seu conteúdo original continua abaixo... -->
-![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
-[... resto do seu conteúdo ...]
-
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| Power BI| Laravel| Godot| Flutter| php| Python| React| ```**
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
+ </a></td></tr></table>
+    
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
@@ -121,9 +90,11 @@
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-red)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-580-red)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-red)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-580-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
