@@ -1,29 +1,50 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
-<table width="1380px" style="margin-left: 0; padding-left: 0;">
+<table width="100%" style="margin: 0; padding: 0; border-collapse: collapse;">
 <tr>
-<td valign="top" width="30%" style="padding-left: 0;">
+<td style="padding: 0; margin: 0;">
 
-<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" align="right" alt="Computador">
-
-<div style="margin-left: 0; padding-left: 0;">
-
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
-
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**  
-
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Technologies I work with:**  
-  ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React```  
-
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:**  
+<!-- Conteúdo principal alinhado à esquerda -->
+<div style="float: left; width: 70%; margin-left: 0; padding-left: 0;">
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷<br>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**<br>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Technologies I work with:**<br>
+  ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React```<br>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:**<br>
   <a href="https://carlosfilho.vercel.app" target="_blank">
     <img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif" width="21"/>
   </a>
   <a href="https://carlosfilho.vercel.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
   </a>
-
 </div>
+
+<!-- Imagem alinhada à direita -->
+<div style="float: right; width: 20%; margin: 0; padding: 0;">
+  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
+</div>
+
+<div style="clear: both;"></div>
+
+<!-- Tabela de estatísticas (exatamente como na referência) -->
+## Table of Contents
+
+| Commits (UTC +0.00)    | Carlos Augusto Diniz Filho's GitHub Stats |
+|---|---|
+|    | ☆ Total Stars Earned:    7    |
+|    | ☐ Total Commits (2022):    0    |
+|    | 💬 Total PRs:    0    |
+|    | ☐ Total Issues:    1    |
+|    | ☐ Contributed to (last year):    0    |
+
+## Most Used Languages
+
+- PHP 39.31%  
+- TypeScript 6.88%  
+- C# 35.72%  
+- HTML 4.17%  
+- JavaScript 10.11%  
+- Twig 3.85%
 
 </td>
 </tr>
