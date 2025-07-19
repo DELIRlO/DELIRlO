@@ -1,21 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
-
-<!-- TABELA PRINCIPAL (APENAS REMOVI A LINHA VERTICAL) -->
-<table width="1260px" style="border-collapse: collapse; border: none;">
+<table width="1260px">
 <tr>
-<td valign="top" width="30%" style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
+<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| Power BI| Laravel | Flutter | Python | Vue | PHP | React | Arch Linux | Typescript | Quasar | ```**
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
  </a></td></tr></table>
     
-<!-- RESTANTE DO SEU CÓDIGO ORIGINAL (SEM ALTERAÇÕES) -->
+<!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
-
+        <tr>
+          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
+          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+           <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
+          </td>
+      </table>
+  </tr>
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
@@ -37,15 +41,15 @@
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <h3>🛠️ Tech Stack</h3>
       <table style="border: none;">
-        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/></td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/></td></tr>
-        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td></tr>
+        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
       </table>
     </td>
     <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-         <td>&nbsp;&nbsp<img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
         </tr>
       </table>
     </td>
