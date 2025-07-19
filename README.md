@@ -78,6 +78,94 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
+
+<div style="background-color: #141321; border-radius: 10px; padding: 20px; font-family: 'Segoe UI', sans-serif;">
+<table style="width: 100%; border-collapse: collapse; color: #00ffc8;">
+<tr style="border-bottom: 1px solid #30363D;">
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Linguagens</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Frameworks</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Sistema / S.O</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Finalidade</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Uso Típico</th>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #F1E05A;">JS</span></td>
+<td style="background-color: #141321;">⚛️ React</td>
+<td style="background-color: #141321;">🐧 Arch Linux</td>
+<td style="background-color: #141321;">Web full-stack</td>
+<td style="background-color: #141321;">SPAs, APIs</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #3178C6;">TS</span></td>
+<td style="background-color: #141321;">🟩 Vue</td>
+<td style="background-color: #141321;">💼 Power BI</td>
+<td style="background-color: #141321;">Tipagem escalável</td>
+<td style="background-color: #141321;">Apps complexos</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #3572A5;">Py</span></td>
+<td style="background-color: #141321;">🔴 Laravel</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">IA/dados</td>
+<td style="background-color: #141321;">Django, automação</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #4F5D95;">PHP</span></td>
+<td style="background-color: #141321;">🔵 Flutter</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Backend web</td>
+<td style="background-color: #141321;">WordPress</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #00B4AB;">Dart</span></td>
+<td style="background-color: #141321;">🟦 Quasar</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Mobile</td>
+<td style="background-color: #141321;">Apps cross-platform</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #A97BFF;">Kotlin</span></td>
+<td style="background-color: #141321;">🟢 Node</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Android</td>
+<td style="background-color: #141321;">Apps nativos</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #F05138;">Swift</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">iOS/macOS</td>
+<td style="background-color: #141321;">Apps Apple</td>
+</tr>
+
+<tr style="border-bottom: 1px solid #30363D;">
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #E34C26;">HTML</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Estrutura web</td>
+<td style="background-color: #141321;">Páginas estáticas</td>
+</tr>
+
+<tr>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #563D7C;">CSS</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Estilização</td>
+<td style="background-color: #141321;">Layouts responsivos</td>
+</tr>
+</table>
+</div>
+
+
+
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
