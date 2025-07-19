@@ -74,18 +74,6 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
-| **Linguagens** | Frameworks | Sistemas | Finalidade       | Uso Típico          |
-|----------------|------------|----------|------------------|---------------------|
-| 🟨 JS          | ⚛️ React  | 🐧 Arch  | Web full-stack   | SPAs, APIs          |
-| 🔵 TS          | 🟩 Vue     | 💼 PBI   | Tipagem escalável| Apps complexos      |
-| 🐍 Py          | 🔴 Laravel |          | IA/dados         | Django, automação   |
-| 🐘 PHP         | 🔵 Flutter |          | Backend web      | WordPress           |
-| 💙 Dart        | 🟦 Quasar  |          | Mobile           | Apps cross-platform |
-| 🟪 Kotlin      | 🟢 Node    |          | Android          | Apps nativos        |
-| 🍏 Swift       |            |          | iOS/macOS        | Apps Apple          |
-| 📄 HTML        |            |          | Estrutura web    | Páginas estáticas   |
-| 🎨 CSS         |            |          | Estilização      | Layouts responsivos |
-
 
 <table style="width: 100%; border-collapse: collapse; color: white;">
 <tr style="border-bottom: 1px solid #30363D;">
