@@ -1,3 +1,4 @@
+<!-- tabela demoniaca -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
 <!--$~~~~~~~~~~~$ -->
@@ -23,10 +24,7 @@
 </tr>
 </table>
 </div>
-
-
-
-    
+<!-- tabela demoniaca -->
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
