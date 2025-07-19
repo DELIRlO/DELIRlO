@@ -35,6 +35,21 @@
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
 
 
+## 🛠 Tech Stack Consolidada
+
+| Área        | Linguagem       | Framework/Tool    | Sistema       | Finalidade          | Uso Típico          |
+|-------------|-----------------|-------------------|---------------|---------------------|---------------------|
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | Web Interativa | SPAs |
+|             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) | - | Tipagem Escalável | Apps Complexos |
+| **Backend**  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=arch-linux&logoColor=white) | IA/Dados | APIs |
+|             | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) | - | Backend Web | Microserviços |
+| **Mobile**   | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | - | Cross-Platform | Apps iOS/Android |
+|             | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | - | - | Android Nativo | Apps Performáticos |
+| **Data/BI**  | - | - | ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) | Análise de Dados | Dashboards |
+| **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | Estrutura Web | Páginas Estáticas |
+|             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | Estilização | Layouts Responsivos |
+
+
 
 ## 🚀 Tech Stack Completa
 
