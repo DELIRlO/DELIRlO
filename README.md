@@ -4,16 +4,14 @@
 <table width="1260px" style="border-collapse: collapse; border: none;">
 <tr>
 <td valign="top" width="30%" style="border: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
-
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| Power BI| Laravel | Flutter | Python | Vue | React | Arch Linux | Typescript | Quasar | ```**
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS| JavaScript| CSS3| HTML5| Power BI| Laravel | Flutter | Python | React | Arch Linux | Typescript | Quasar | ```**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
  </a></td></tr></table>
 <!-- RESTANTE DO SEU CÓDIGO ORIGINAL (SEM ALTERAÇÕES) -->
 <table width="100%" style="border-collapse: collapse; border: none;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
     
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
