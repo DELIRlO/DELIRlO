@@ -77,7 +77,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
-| Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
+| Área        | Linguagem       | Framework    | Sistema / SO  | Nível  | Finalidade          | Uso Típico          |
 |-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
 |             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Tipagem Escalável | Apps Complexos |
