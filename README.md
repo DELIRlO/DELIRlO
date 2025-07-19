@@ -18,6 +18,8 @@
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
   </a>
 </div>
+</td>
+</tr>
 </table>
 <!-- tabela 1 em evidencia -->
 <table width="100%" style="border-collapse: collapse; border: none;">
