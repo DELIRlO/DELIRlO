@@ -30,6 +30,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
 
+| Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros |
+|--------------------------|--------------------------|-------------------|
+| JavaScript 🟨           | Node.js 🟢              | Arch Linux 🐧    |
+| TypeScript 🔵           | React ⚛️               | Power BI 💼      |
+| Python 🐍              | Vue.js 🟩               |                   |
+| PHP 🐘                 | Laravel 🔴              |                   |
+| Dart 💙                | Flutter 🔵              |                   |
+| Kotlin 🟪              | Quasar 🟦              |                   |
+| Swift 🍏               |                          |                   |
+| HTML5 📄               |                          |                   |
+| CSS3 🎨                |                          |                   |
+
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
