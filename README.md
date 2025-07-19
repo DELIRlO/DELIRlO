@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 
-<table width="1380px">
+<table width="1380px" style="margin-left: 0; padding-left: 0;">
 <tr>
-<td valign="top" width="30%">
-  
-<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
+<td valign="top" width="30%" style="padding-left: 0;">
 
-<div style="margin-left: 20px;">  <!-- Espaçamento organizado com div -->
+<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" align="right" alt="Computador">
+
+<div style="margin-left: 0; padding-left: 0;">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
 
