@@ -9,7 +9,7 @@
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif" width="21"/> **I'm a computer engineer Front end developer. I'm from Brasil** 🇧🇷  
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif" width="21"/> **I'm here to learn and my interests are programming and data reading**  
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Technologies I work with:**  
-  ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React```  
+  ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Flutter | PHP | Python | React```  
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif" width="21"/> **Meu Portfólio:**  
   <a href="https://carlosfilho.vercel.app" target="_blank">
     <img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif" width="21"/>
