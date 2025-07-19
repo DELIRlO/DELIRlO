@@ -15,7 +15,7 @@
 <!-- RESTANTE DO SEU CÓDIGO ORIGINAL (SEM ALTERAÇÕES) -->
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
-[... todo o resto do seu conteúdo original ...]
+
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
