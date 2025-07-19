@@ -179,17 +179,6 @@ C#                       1 repo              █░░░░░░░░░░�
 | ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) |  |  |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  |  |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |  |  |
-| Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros |
-|--------------------------|--------------------------|-------------------|
-| JavaScript               | NodeJS                   | Arch Linux        |
-| TypeScript               | React                    | Power BI          |
-| Python                   | Vue                      |                   |
-| PHP                      | Laravel                  |                   |
-| Dart                     | Flutter                  |                   |
-| Kotlin                   | Quasar                   |                   |
-| Swift                    |                          |                   |
-| HTML5                    |                          |                   |
-| CSS3                     |                          |                   |
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
 </div>
