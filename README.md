@@ -16,8 +16,7 @@
   </a>
   <a href="https://carlosfilho.vercel.app" alt="Portfolio">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
-  </a>
-<!--$~~~~~~~~~~~$ -->
+  </a>$~~~~~~~~~~~$ 
 </td>
 </tr>
 </table>
