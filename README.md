@@ -73,6 +73,7 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+
 | Linguagens & Tecnologias | Frameworks & Ferramentas | Sistemas & Outros |
 |--------------------------|--------------------------|-------------------|
 | JavaScript 🟨           | Node.js 🟢              | Arch Linux 🐧    |
@@ -84,6 +85,7 @@
 | Swift 🍏               |                          |                   |
 | HTML5 📄               |                          |                   |
 | CSS3 🎨                |                          |                   |
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
