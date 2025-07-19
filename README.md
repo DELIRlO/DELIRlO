@@ -76,9 +76,7 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-
-## 🛠 Tech Stack Consolidada
-
+<!-- coluna de linguagem -->
 | Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
 |-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
@@ -90,7 +88,7 @@
 | **Data/BI**  | - | - | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) | ⭐⭐⭐☆☆ | Análise de Dados | Dashboards |
 | **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
 |             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
-
+<!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
