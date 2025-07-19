@@ -86,6 +86,27 @@
 | HTML5 📄               |                          |                   |
 | CSS3 🎨                |                          |                   |
 
+| Nome           | Categoria        | Linguagem Principal | Finalidade                     | Exemplo de Uso                 |
+|----------------|------------------|----------------------|--------------------------------|--------------------------------|
+| JavaScript     | Linguagem        | -                    | Desenvolvimento web full-stack | Frontend (React/Vue) e backend (Node.js) |
+| TypeScript     | Linguagem        | JavaScript           | Tipagem estática para JS       | Projetos escaláveis (Angular, NestJS) |
+| Python         | Linguagem        | -                    | IA, dados e backend           | Scripts, Django, Flask, análise de dados |
+| PHP            | Linguagem        | -                    | Backend web                   | Sites dinâmicos (WordPress, Laravel) |
+| Dart           | Linguagem        | -                    | Mobile e multiplataforma      | Apps com Flutter              |
+| Kotlin         | Linguagem        | -                    | Android e backend             | Apps nativos Android (Jetpack Compose) |
+| Swift          | Linguagem        | -                    | iOS/macOS                     | Apps Apple (SwiftUI)          |
+| HTML5          | Linguagem        | -                    | Estrutura web                 | Páginas estáticas             |
+| CSS3           | Linguagem        | -                    | Estilização web               | Animações, layouts responsivos |
+| Node.js        | Runtime          | JavaScript           | Backend JavaScript            | APIs, servidores web          |
+| React          | Framework        | JavaScript           | UI interativa                 | SPAs (Single Page Apps)       |
+| Vue            | Framework        | JavaScript           | UI progressiva                | PWA (Progressive Web Apps)    |
+| Laravel        | Framework        | PHP                  | Backend MVC                   | E-commerces (Eloquent ORM)    |
+| Flutter        | Framework        | Dart                 | Apps multiplataforma          | Apps iOS/Android com um código |
+| Quasar         | Framework        | JavaScript/Vue       | Apps híbridos                 | Desktop/mobile com Vue        |
+| Arch Linux     | Sistema          | -                    | SO personalizável             | Workstation para devs         |
+| Power BI       | Ferramenta       | -                    | Análise de dados              | Dashboards empresariais       |
+
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
