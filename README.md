@@ -75,88 +75,89 @@
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 
 
-<table style="width: 100%; border-collapse: collapse; color: white;">
+<div style="background-color: #141321; border-radius: 10px; padding: 20px; font-family: 'Segoe UI', sans-serif;">
+<table style="width: 100%; border-collapse: collapse; color: #00ffc8;">
 <tr style="border-bottom: 1px solid #30363D;">
-<th style="text-align: left; padding: 8px 0; color: #58A6FF;">Linguagens</th>
-<th style="text-align: left; padding: 8px 0;">Frameworks</th>
-<th style="text-align: left; padding: 8px 0;">Sistema / S.O</th>
-<th style="text-align: left; padding: 8px 0;">Finalidade</th>
-<th style="text-align: left; padding: 8px 0;">Uso Típico</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Linguagens</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Frameworks</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Sistema / S.O</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Finalidade</th>
+<th style="text-align: left; padding: 8px 0; color: #ff0055;">Uso Típico</th>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #F1E05A;">JS</span></td>
-<td>⚛️ React</td>
-<td>🐧 Arch Linux</td>
-<td>Web full-stack</td>
-<td>SPAs, APIs</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #F1E05A;">JS</span></td>
+<td style="background-color: #141321;">⚛️ React</td>
+<td style="background-color: #141321;">🐧 Arch Linux</td>
+<td style="background-color: #141321;">Web full-stack</td>
+<td style="background-color: #141321;">SPAs, APIs</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #3178C6;">TS</span></td>
-<td>🟩 Vue</td>
-<td>💼 Power BI</td>
-<td>Tipagem escalável</td>
-<td>Apps complexos</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #3178C6;">TS</span></td>
+<td style="background-color: #141321;">🟩 Vue</td>
+<td style="background-color: #141321;">💼 Power BI</td>
+<td style="background-color: #141321;">Tipagem escalável</td>
+<td style="background-color: #141321;">Apps complexos</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #3572A5;">Py</span></td>
-<td>🔴 Laravel</td>
-<td></td>
-<td>IA/dados</td>
-<td>Django, automação</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #3572A5;">Py</span></td>
+<td style="background-color: #141321;">🔴 Laravel</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">IA/dados</td>
+<td style="background-color: #141321;">Django, automação</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #4F5D95;">PHP</span></td>
-<td>🔵 Flutter</td>
-<td></td>
-<td>Backend web</td>
-<td>WordPress</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #4F5D95;">PHP</span></td>
+<td style="background-color: #141321;">🔵 Flutter</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Backend web</td>
+<td style="background-color: #141321;">WordPress</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #00B4AB;">Dart</span></td>
-<td>🟦 Quasar</td>
-<td></td>
-<td>Mobile</td>
-<td>Apps cross-platform</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #00B4AB;">Dart</span></td>
+<td style="background-color: #141321;">🟦 Quasar</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Mobile</td>
+<td style="background-color: #141321;">Apps cross-platform</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #A97BFF;">Kotlin</span></td>
-<td>🟢 Node</td>
-<td></td>
-<td>Android</td>
-<td>Apps nativos</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #A97BFF;">Kotlin</span></td>
+<td style="background-color: #141321;">🟢 Node</td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Android</td>
+<td style="background-color: #141321;">Apps nativos</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #F05138;">Swift</span></td>
-<td></td>
-<td></td>
-<td>iOS/macOS</td>
-<td>Apps Apple</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #F05138;">Swift</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">iOS/macOS</td>
+<td style="background-color: #141321;">Apps Apple</td>
 </tr>
 
 <tr style="border-bottom: 1px solid #30363D;">
-<td style="padding: 8px 0;"><span style="color: #E34C26;">HTML</span></td>
-<td></td>
-<td></td>
-<td>Estrutura web</td>
-<td>Páginas estáticas</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #E34C26;">HTML</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Estrutura web</td>
+<td style="background-color: #141321;">Páginas estáticas</td>
 </tr>
 
 <tr>
-<td style="padding: 8px 0;"><span style="color: #563D7C;">CSS</span></td>
-<td></td>
-<td></td>
-<td>Estilização</td>
-<td>Layouts responsivos</td>
+<td style="padding: 8px 0; background-color: #141321;"><span style="color: #563D7C;">CSS</span></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;"></td>
+<td style="background-color: #141321;">Estilização</td>
+<td style="background-color: #141321;">Layouts responsivos</td>
 </tr>
 </table>
-
+</div>
 
 
 
