@@ -13,10 +13,8 @@
   </a>
   <a href="https://carlosfilho.vercel.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF"/>
-  </a>
-
+  </a>  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
 </td>
-  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
 </tr>
 </table>
 
