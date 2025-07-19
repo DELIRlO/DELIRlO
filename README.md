@@ -17,9 +17,7 @@
   </a>
 
 </td>
-<td style="vertical-align: top; width: 22%; border: none !important; padding: 0 !important; margin: 0 !important;">
   <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="80px" alt="Computador" style="display: block; margin-left: auto; margin-right: 0;">
-</td>
 </tr>
 </table>
 
