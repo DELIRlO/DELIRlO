@@ -1,5 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
