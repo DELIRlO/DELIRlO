@@ -20,6 +20,13 @@
           </td>
       </table>
   </tr>
+
+  <!-- segundo elemento --> 
+<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
+    <table><tr><td>
+  <!-- segundo elemento -->
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
@@ -55,10 +62,7 @@
   </tr>
 <!-- fim -->
 
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
-    <table><tr><td>
+
     
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
 
