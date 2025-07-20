@@ -183,5 +183,5 @@ C#                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
   </details>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
 </div>
