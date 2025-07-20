@@ -92,17 +92,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 <pre>
-
   ___   _      ___   _      ___   _      ___   _      ___   _
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|
-                             |            |            |
-                         ___  \_      ___  \_      ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|
-                        /mmm/        /mmm/        /mmm/
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
