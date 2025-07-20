@@ -1,0 +1,266 @@
+<!DOCTYPE html><html><head>
+      <title>markdowofficial</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=9745f5">
+<table width="1260px">
+<tbody><tr>
+<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
+<ul>
+<li><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21">&nbsp;&nbsp;<strong>I'm a computer engineer Front end developer, I from Brasil</strong> 🇧🇷</li>
+<li><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21">&nbsp;&nbsp;<strong>I'm here to learn and my interests are programming and data reading</strong></li>
+<li><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21">&nbsp;&nbsp;<strong>I am working: <code>NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |</code></strong></li>
+<li><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21">&nbsp;&nbsp;<strong>Meu Portifolio</strong>:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"></a><a href="https://carlosfilho.vercel.app" alt="Portfolio"><br>
+<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=FFF&amp;link=https://www.carlosfilho.vercel.app/"><br>
+</a></li></ul></td></tr></tbody></table>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+      </table><table width="100%" style="border-collapse: collapse; border: none;">
+        <tbody><tr>
+          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&amp;theme=2077"></td>
+          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&amp;show_icons=true&amp;title_color=FF0055&amp;text_color=00FFC8&amp;icon_color=FCEE0C&amp;bg_color=141321&amp;cache_seconds=2300">
+           </td><td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&amp;layout=compact&amp;show_icons=true&amp;title_color=FF0055&amp;text_color=00FFC8&amp;icon_color=FCEE0C&amp;bg_color=141321&amp;cache_seconds=2300"></td>
+          
+      </tr></tbody></table>
+  
+<p><img src="https://img.shields.io/badge/-Python-4F5D95?style=flat&amp;logoColor=fff&amp;logo=python" alt="python">&nbsp;<br>
+<img src="https://img.shields.io/badge/-PHP-369?style=flat&amp;logoColor=fff&amp;logo=php" alt="PHP">&nbsp;<br>
+<img src="https://img.shields.io/badge/-Quasar-1976D1?style=flat&amp;logoColor=fff&amp;logo=quasar" alt="Quasar">&nbsp;<br>
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&amp;logoColor=fff&amp;logo=typescript" alt="TypeScript">&nbsp;<br>
+<a href="http://carlosfilho.vercel.app"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&amp;logoColor=white"></a><br>
+<img src="https://img.shields.io/badge/-CSS3-099cec?style=flat&amp;logoColor=fff&amp;logo=css3" alt="Css3">&nbsp;<br>
+<img src="https://img.shields.io/badge/-React-098196?style=flat&amp;logoColor=fff&amp;logo=React" alt="react">&nbsp;<br>
+<img src="https://img.shields.io/badge/-Vue.js-41BA82?style=flat&amp;logoColor=fff&amp;logo=vue.js" alt="Vue">&nbsp;<br>
+<img src="https://img.shields.io/badge/-Node.js-5B9856?style=flat&amp;logoColor=fff&amp;logo=node.js" alt="Node">&nbsp;<br>
+<img src="https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&amp;logoColor=fff&amp;logo=javascript" alt="JavaScript">&nbsp;<br>
+<img src="https://img.shields.io/badge/-HTML5-E34C26?style=flat&amp;logoColor=fff&amp;logo=html5" alt="html5">&nbsp;</p>
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tbody><tr>
+    <!-- Coluna Tech Stack (30%) -->
+    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+      <h3>🛠️ Tech Stack</h3>
+      <table style="border: none;">
+        <tbody><tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB">&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=node.js&amp;logoColor=white">&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=mongodb&amp;logoColor=white">&nbsp;&nbsp;</td></tr>
+      </tbody></table>
+    </td>
+    <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tbody><tr>
+          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&amp;theme=2077"></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table><table><tbody><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&amp;theme=2077"></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&amp;theme=2077"></td><td>
+<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&amp;theme=2077"></td></tr></tbody></table>
+    <table><tbody><tr><td>
+<p><a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&amp;logo=youtube&amp;logoColor=00FFC8" target="_blank"></a><br>
+<a href="https://instagram.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23141321?style=for-the-badge&amp;logo=instagram&amp;logoColor=00FFC8" target="_blank"></a><br>
+<a href="mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&amp;logo=gmail&amp;logoColor=00FFC8" target="_blank"></a><br>
+<a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23141321?style=for-the-badge&amp;logo=linkedin&amp;logoColor=00FFC8" target="_blank"></a><br>
+<a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&amp;logo=facebook&amp;logoColor=00FFC8" target="_blank"></a><br>
+<a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&amp;label=Reload&amp;message=ysneshy&amp;color=%23141321&amp;style=for-the-badge&amp;logo=GitHub&amp;logoColor=00FFC8&amp;labelColor=141321"><br>
+<br><br>
+</a><a href="https://www.linkedin.com/in/ysneshy/"><img src="https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&amp;logo=Linkedin&amp;logoColor=00FFC8&amp;link=https://www.linkedin.com/in/ysneshy/" alt="Linkedin: DELIRlO"></a><br>
+<a href="mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&amp;logo=Gmail&amp;logoColor=00FFC8&amp;link=mailto:ysneshy@gmail.com" alt="Gmail Badge"></a><br>
+<a href="https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d"><img src="https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d.svg" alt="wakatime"></a><br>
+<img src="https://komarev.com/ghpvc/?username=delirlo&amp;color=red&amp;style=flat" alt="Profile Views"><br>
+<a href="https://github.com/delirlo/"><img src="https://img.shields.io/github/followers/delirlo?label=follow&amp;style=social" alt="GitHub DELIRlO"></a><br>
+<img src="https://img.shields.io/github/stars/delirio?style=square" alt="GitHub Org's stars"><br>
+<img src="https://img.shields.io/github/stars/delirlo?style=flat-square" alt="Stars"></p>
+<table>
+<thead>
+<tr>
+<th>Área</th>
+<th>Linguagem</th>
+<th>Framework</th>
+<th>Sistema</th>
+<th>Nível</th>
+<th>Finalidade</th>
+<th>Uso Típico</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&amp;logoColor=black" alt="JavaScript"></td>
+<td><img src="https://img.shields.io/badge/-React-61DAFB?logo=react&amp;logoColor=white" alt="React"></td>
+<td>-</td>
+<td>⭐⭐⭐⭐☆</td>
+<td>Web Interativa</td>
+<td>SPAs</td>
+</tr>
+<tr>
+<td></td>
+<td><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&amp;logoColor=white" alt="TypeScript"></td>
+<td><img src="https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&amp;logoColor=white" alt="Vue"></td>
+<td>-</td>
+<td>⭐⭐⭐☆☆</td>
+<td>Tipagem Escalável</td>
+<td>Apps Complexos</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&amp;logoColor=white" alt="Python"></td>
+<td><img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&amp;logoColor=white" alt="Laravel"></td>
+<td><img src="https://img.shields.io/badge/-Arch-1793D1?logo=arch-linux&amp;logoColor=white" alt="Arch"></td>
+<td>⭐⭐⭐⭐☆</td>
+<td>IA/Dados</td>
+<td>APIs</td>
+</tr>
+<tr>
+<td></td>
+<td><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&amp;logoColor=white" alt="PHP"></td>
+<td><img src="https://img.shields.io/badge/-Node-339933?logo=nodedotjs&amp;logoColor=white" alt="Node"></td>
+<td>-</td>
+<td>⭐⭐⭐☆☆</td>
+<td>Backend Web</td>
+<td>Microserviços</td>
+</tr>
+<tr>
+<td><strong>Mobile</strong></td>
+<td><img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&amp;logoColor=white" alt="Dart"></td>
+<td><img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&amp;logoColor=white" alt="Flutter"></td>
+<td>-</td>
+<td>⭐⭐⭐⭐☆</td>
+<td>Cross-Platform</td>
+<td>Apps iOS/Android</td>
+</tr>
+<tr>
+<td></td>
+<td><img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&amp;logoColor=white" alt="Kotlin"></td>
+<td>-</td>
+<td>-</td>
+<td>⭐⭐☆☆☆</td>
+<td>Android Nativo</td>
+<td>Apps Performáticos</td>
+</tr>
+<tr>
+<td><strong>Data/BI</strong></td>
+<td>-</td>
+<td>-</td>
+<td><img src="https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&amp;logoColor=black" alt="PowerBI"></td>
+<td>⭐⭐⭐☆☆</td>
+<td>Análise de Dados</td>
+<td>Dashboards</td>
+</tr>
+<tr>
+<td><strong>Web</strong></td>
+<td><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&amp;logoColor=white" alt="HTML5"></td>
+<td><img src="https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&amp;logoColor=white" alt="Quasar"></td>
+<td>-</td>
+<td>⭐⭐⭐⭐⭐</td>
+<td>Estrutura Web</td>
+<td>Páginas Estáticas</td>
+</tr>
+<tr>
+<td></td>
+<td><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&amp;logoColor=white" alt="CSS3"></td>
+<td>-</td>
+<td>-</td>
+<td>⭐⭐⭐⭐☆</td>
+<td>Estilização</td>
+<td>Layouts Responsivos</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://github.com/delirlo"><img src="https://github-readme-activity-graph.vercel.app/graph?username=delirlo&amp;theme=github-dark&amp;bg_color=0d1117&amp;hide_border=true" alt="GitHub Activity Graph"></a></p>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
+</picture>
+<details>
+  <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
+<p><img src="http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue" alt="Code Time"></p>
+<p><img src="http://img.shields.io/badge/Profile%20Views-580-blue" alt="Profile Views"></p>
+<p><img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue" alt="Lines of code"></p>
+<p><strong>🐱 My GitHub Data</strong></p>
+<blockquote>
+<p>🏆 519 Contributions in the Year 2022</p>
+<p>📦 257.5 kB Used in GitHub's Storage</p>
+<p>🚫 Not Opted to Hire</p>
+<p>📜 32 Public Repositories</p>
+<p>🔑 2 Private Repositories</p>
+</blockquote>
+<p><strong>I'm an Early 🐤</strong></p>
+<pre data-role="codeBlock" data-info="text" class="language-text text"><code>🌞 Morning    43 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29% 
+🌆 Daytime    90 commits     ████████████░░░░░░░░░░░░░   50.85% 
+🌃 Evening    44 commits     ██████░░░░░░░░░░░░░░░░░░░   24.86% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+</code></pre><p>📅 <strong>I'm Most Productive on Wednesday</strong></p>
+<pre data-role="codeBlock" data-info="text" class="language-text text"><code>Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Wednesday    59 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
+Thursday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.82% 
+Friday       42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+Saturday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.65%
+
+</code></pre><p>📊 <strong>This Week I Spent My Time On</strong></p>
+<pre data-role="codeBlock" data-info="text" class="language-text text"><code>⌚︎ Time Zone: America/Belem
+
+💬 Programming Languages: 
+JavaScript               11 hrs 28 mins      ██████████████░░░░░░░░░░░   56.42% 
+Other                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+JSON                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
+Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
+CSS                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+
+🔥 Editors: 
+VS Code                  20 hrs 20 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    20 hrs 20 mins      █████████████████████████   100.0%
+
+</code></pre><p><strong>I Mostly Code in JavaScript</strong></p>
+<pre data-role="codeBlock" data-info="text" class="language-text text"><code>JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
+PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+</code></pre><p><strong>Timeline</strong></p>
+<p><img src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/main/charts/bar_graph.png" alt="Chart not found"></p>
+<p>Last Updated on 22/10/2022 01:54:58 UTC</p>
+  </details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=9745f5&amp;height=100&amp;section=footer">
+
+</td></tr></tbody></table>
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
