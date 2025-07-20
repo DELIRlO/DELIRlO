@@ -20,7 +20,8 @@
           </td>
       </table>
   </tr>
-<!-- tabela 1 em evidencia -->
+
+
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
@@ -32,14 +33,17 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
-<!-- segundo element da tabela -->
+
+
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- segundo elemento --> 
+    
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <table><tr><td>
+      
   <!-- segundo elemento -->
     <!-- Coluna Tech Stack (30%) -->
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
