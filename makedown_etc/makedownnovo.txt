@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFBF&height=100&section=header&text=codigo_e_so_inicio&fontSize=30&fontColor=08565A&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
@@ -33,7 +33,6 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
-
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -77,7 +76,19 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
-
+<!-- coluna de linguagem -->
+| Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
+|-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
+|             | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Tipagem Escalável | Apps Complexos |
+| **Backend**  | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) | ![Arch](https://img.shields.io/badge/-Arch-1793D1?logo=arch-linux&logoColor=white) | ⭐⭐⭐⭐☆ | IA/Dados | APIs |
+|             | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Node](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white) | - | ⭐⭐⭐☆☆ | Backend Web | Microserviços |
+| **Mobile**   | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) | - | ⭐⭐⭐⭐☆ | Cross-Platform | Apps iOS/Android |
+|             | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | - | - | ⭐⭐☆☆☆ | Android Nativo | Apps Performáticos |
+| **Data/BI**  | - | - | ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) | ⭐⭐⭐☆☆ | Análise de Dados | Dashboards |
+| **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
+|             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
+<!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 <!--cobrinha -->
 <picture align="center">
@@ -172,5 +183,5 @@ C#                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
   </details>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08565a&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
 </div>
