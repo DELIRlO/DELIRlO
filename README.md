@@ -35,7 +35,6 @@
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- fim  -->
     <!-- segundo elemento --> 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
