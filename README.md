@@ -91,47 +91,42 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
-<div style="flex: 1; min-width: 250px;">
-<pre>
-┌──┤ MIDAVI ├─────────▰▰▰
+<pre style="margin: 0; flex: 1; min-width: 250px;">
+┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ WAPI
+├─▣ VAPT
 ├─▣ Author of seeker and finalrecon
-├─▣ theMittelkit's Blog
-├─▣ I am mostly available at The White Circle
+├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
+├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
-</div>
 
-<div style="flex: 1; min-width: 250px;">
-<pre>
+<pre style="margin: 0; flex: 1; min-width: 250px;">
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ YouTube
-├─◈ Telegram
-├─◈ LinkedIn
+├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
+├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
-</div>
 
-<div style="flex: 1; min-width: 250px;">
-<pre>
+<pre style="margin: 0; flex: 1; min-width: 250px;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ Seeker
-├─◈ FinalRecon
-├─◈ Next!
-├─◈ pundefixlet
-├─◈ KillCast
-├─◈ FlashSplit
+├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
+├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
-</div>
 
 </div>
 
