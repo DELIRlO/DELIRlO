@@ -109,6 +109,20 @@
   </tr>
 </table>
 </div>
+
+### 🚀 Meus Amigos no GitHub
+
+<a href="https://github.com/femar91">
+  <img src="https://github.com/amigo1.png" width="100" title="Amigo 1">
+</a>
+<a href="https://github.com/amigo2">
+  <img src="https://github.com/amigo2.png" width="100" title="Amigo 2">
+</a>
+<a href="https://github.com/amigo3">
+  <img src="https://github.com/amigo3.png" width="100" title="Amigo 3">
+</a>
+
+
 <!-- ola -->
     <table><tr><td>
     <!-- ola -->
