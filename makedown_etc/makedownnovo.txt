@@ -58,7 +58,58 @@
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
+   <!--ponto negro -->
+      <div align="lefth">
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ SOCIAL ├────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─◈ <a href="https://t.me/ysneshy">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
+├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+│
+└──────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ PROJECTS ├────────▰▰▰
+│
+├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+│
+└────────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="35%">
+      <pre>
+┌──┤ SKILLS ├─────▰▰▰
+│
+├─◈ HTML/CSS
+├─◈ JavaScript
+├─◈ Python
+├─◈ Git/GitHub
+├─◈ React
+├─◈ Node.js
+│
+└─────────────────────▰▰▰
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
+<!-- ola -->
     <table><tr><td>
+    <!-- ola -->
     
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
 
@@ -90,12 +141,19 @@
 |             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
+
 <!--cobrinha -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
+
+```diff
++ [================ CYBERPUNK MODE ACTIVATED ================]
+! PRÉVIA 2025:
+@@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
+```
 
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
