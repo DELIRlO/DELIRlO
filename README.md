@@ -198,6 +198,15 @@ $ npx DELIRIO
   <img src="https://github.com/amigo2.png" width="80" style="border-radius:50%; border:2px solid #9745f5">
 </a>
 
+
+
+### 👥 Amigos
+
+<a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:50%"></a>
+<a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" width="75" style="border-radius:50%"></a>
+
+
+
 <!-- fim -->
 <!-- funcao -->
 <details>
