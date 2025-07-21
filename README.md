@@ -109,20 +109,6 @@
   </tr>
 </table>
 </div>
-
-### 🚀 Meus Amigos no GitHub
-
-<a href="https://github.com/femar91">
-  <img src="https://github.com/amigo1.png" width="100" title="Amigo 1">
-</a>
-<a href="https://github.com/amigo2">
-  <img src="https://github.com/amigo2.png" width="100" title="Amigo 2">
-</a>
-<a href="https://github.com/amigo3">
-  <img src="https://github.com/amigo3.png" width="100" title="Amigo 3">
-</a>
-
-
 <!-- ola -->
     <table><tr><td>
     <!-- ola -->
@@ -164,6 +150,20 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+### 🚀 Meus Amigos no GitHub
+
+<a href="https://github.com/femar91">
+  <img src="https://github.com/amigo1.png" width="100" title="Amigo 1">
+</a>
+<a href="https://github.com/amigo2">
+  <img src="https://github.com/amigo2.png" width="100" title="Amigo 2">
+</a>
+<a href="https://github.com/amigo3">
+  <img src="https://github.com/amigo3.png" width="100" title="Amigo 3">
+</a>
+
 
 <table>
 <tr>
