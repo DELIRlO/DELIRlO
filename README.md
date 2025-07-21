@@ -8,8 +8,18 @@
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
-
+ </a></td></tr></table>
+    
 <!-- tabela 1 em evidencia -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
+          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
+           <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
+          </td>
+      </table>
+  </tr>
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
@@ -48,12 +58,8 @@
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
-    <!-- ola -->
-        <!-- fim --> 
-<div align="center">
-
-<!-- olaa -->
     <table><tr><td>
+    
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
 
   <a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&logo=youtube&logoColor=00FFC8" target="_blank"></a>
@@ -71,7 +77,6 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
 <!-- coluna de linguagem -->
-
 | Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
 |-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
 | **Frontend** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) | - | ⭐⭐⭐⭐☆ | Web Interativa | SPAs |
@@ -85,6 +90,42 @@
 |             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
+
+
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <pre>
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─◈ <a href="https://t.me/ysneshy">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
+├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="50%">
+      <pre>
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
 
 
 <!--cobrinha -->
