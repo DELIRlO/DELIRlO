@@ -92,11 +92,9 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 
-
 <div align="center">
 <table>
   <tr>
-    <!-- SOCIAL (40%) -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
@@ -111,8 +109,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- PROJECTS (40%) -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
@@ -127,8 +123,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- SKILLS (20%) -->
     <td valign="top" width="20%">
       <pre>
 ┌──┤ SKILLS ├──▰▰▰
@@ -146,6 +140,7 @@
   </tr>
 </table>
 </div>
+
 <!--cobrinha -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
