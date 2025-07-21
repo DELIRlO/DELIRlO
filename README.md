@@ -95,6 +95,7 @@
 <div align="center">
 <table>
   <tr>
+    <!-- SOCIAL -->
     <td valign="top" width="33%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
@@ -114,7 +115,7 @@
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
 ├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
 ├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
 ├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
