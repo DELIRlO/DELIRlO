@@ -149,6 +149,27 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+def generate_cyberpunk_banner(compatibility: int, mode: str = "CYBERPUNK"):
+    """Gera um banner estilo cyberpunk para README.md"""
+    banner = f"""
++ [{'=' * len(mode)} {mode} MODE ACTIVATED {'=' * len(mode)}]
+! PRÉVIA 2025:
+@@  SEU PERFIL JÁ ESTÁ {compatibility}% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                              █
+█  ███  █▄▄▀█ ▄█▀▄ ██ █ ▄▄██  █
+█  █▄▄█ █▀▀▄█ ██▄▀ ▀▄█ █▄▄▄█▀  █
+█                              █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+"""
+    return banner
+
+# Exemplo de uso:
+print(generate_cyberpunk_banner(89))
+
+
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
