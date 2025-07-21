@@ -1,3 +1,25 @@
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5&animation=fadeIn&section=header"/>
+
+<!-- Efeito de terminal hacker -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+PERFIL+AGORA+EST%C3%81+NO+MODO+CYBERPUNK;CODANDO+COMO+UM+HACKER+DA+NOITE;WELCOME+TO+THE+MATRIX" alt="Typing animation" />
+</div>
+
+<!-- Avatar animado -->
+<table width="1260px">
+<tr>
+<td valign="top" width="30%">
+  <img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" width="120px" align="right" alt="Avatar hacker">
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-plain.svg" width="21" /> **Computer Engineer | Front-End Dev** 🇧🇷  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-plain.svg" width="21" /> **Tech Stack:**  
+  ```diff
+  + NodeJS | JavaScript | React | Python 
+  + Flutter | Laravel | Power BI | Java
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 <table width="1260px">
 <tr>
