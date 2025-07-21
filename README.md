@@ -92,7 +92,7 @@
     </td>
     <td valign="top" width="20%">
       <pre>
-┌──┤ SKILLS ├──────▰▰▰
+┌──┤ SKILLS ├─────▰▰▰
 │
 ├─▣ HTML/CSS
 ├─▣ JavaScript
@@ -101,7 +101,7 @@
 ├─▣ React
 ├─▣ Node.js
 │
-└──────────────────────▰▰▰
+└─────────────────────▰▰▰&nbsp
       </pre>
     </td>
   </tr>
