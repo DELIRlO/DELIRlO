@@ -54,7 +54,7 @@
     </td>
     <td valign="top" width="35%">
       <pre>
-┌──┤ SKILLS ├────▰▰▰
+┌──┤ SKILLS ├─────▰▰▰
 │
 ├─◈ HTML/CSS
 ├─◈ JavaScript
@@ -63,7 +63,7 @@
 ├─◈ React
 ├─◈ Node.js
 │
-└────────────────────▰▰▰
+└─────────────────────▰▰▰
       </pre>
     </td>
   </tr>
