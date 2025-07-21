@@ -179,6 +179,36 @@ $ npx DELIRIO
 <a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" width="75" style="border-radius:50%"></a>
 
 
+<style>
+  .friend-box {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+  }
+  .friend-avatar {
+    border-radius: 50%;
+    width: 80px;
+    border: 2px solid #00ffc8;
+  }
+</style>
+
+### 👥 Amigos no GitHub
+
+<div class="friend-box">
+  <a href="https://github.com/username1">
+    <img class="friend-avatar" src="https://github.com/username1.png">
+  </a>
+  <p>Username1</p>
+</div>
+
+<div class="friend-box">
+  <a href="https://github.com/username2">
+    <img class="friend-avatar" src="https://github.com/username2.png">
+  </a>
+  <p>Username2</p>
+</div>
+
+
 
 <!-- fim -->
 <!-- funcao -->
