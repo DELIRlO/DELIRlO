@@ -93,7 +93,7 @@
 
 <div align="center">
 
-[![My Widget](https://cyberpunk2077.github.io/1.png)](https://cyberpunk2077.github.io/index.html)
+[![My Widget](https://delirlo/cyberpunk2077.github.io/1.png)](https://delirlo/cyberpunk2077.github.io/index.html)
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
