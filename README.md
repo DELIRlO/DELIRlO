@@ -150,21 +150,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-### 🚀 Meus Amigos no GitHub
-
-<a href="https://github.com/femar91">
-  <img src="https://github.com/amigo1.png" width="100" title="Amigo 1">
-</a>
-<a href="https://github.com/amigo2">
-  <img src="https://github.com/amigo2.png" width="100" title="Amigo 2">
-</a>
-<a href="https://github.com/amigo3">
-  <img src="https://github.com/amigo3.png" width="100" title="Amigo 3">
-</a>
-
-
 <table>
 <tr>
 <td>
@@ -187,23 +172,10 @@ $ npx DELIRIO
 </td>
 </tr>
 </table>
-
-
-### 👥 Amigos GitHub
-
-<a href="https://github.com/amigo1">
-  <img src="https://github.com/amigo1.png" width="80" style="border-radius:50%; border:2px solid #9745f5">
-</a>
-<a href="https://github.com/amigo2">
-  <img src="https://github.com/amigo2.png" width="80" style="border-radius:50%; border:2px solid #9745f5">
-</a>
-
-
-
-### 👥 Amigos
-
+### 🚀 Meus Amigos no GitHub
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:50%"></a>
 <a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" width="75" style="border-radius:50%"></a>
+<a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" width="75" style="border-radius:50%"></a>
 
 
 
