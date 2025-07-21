@@ -78,7 +78,7 @@
     </td>
     <td valign="top" width="40%">
       <pre>
-┌──┤ PROJECTS ├───────▰▰▰
+┌──┤ PROJECTS ├────────▰▰▰
 │
 ├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
 ├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
@@ -87,7 +87,7 @@
 ├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
 ├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
 │
-└───────────────────────────────▰▰▰
+└────────────────────────────────▰▰▰
       </pre>
     </td>
     <td valign="top" width="35%">
