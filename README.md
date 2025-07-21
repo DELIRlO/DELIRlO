@@ -91,24 +91,6 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-<div align="center">
-
-[![My Widget](https://delirlo/cyberpunk2077.github.io/1.png)](https://delirlo/cyberpunk2077.github.io/index.html)
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-
-<pre style="margin: 0; flex: 1; min-width: 250px;">
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ VAPT
-├─▣ Author of seeker and finalrecon
-├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
-├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
-
 <pre style="margin: 0; flex: 1; min-width: 250px;">
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -123,7 +105,7 @@
 <pre style="margin: 0; flex: 1; min-width: 250px;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">Seeker</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
