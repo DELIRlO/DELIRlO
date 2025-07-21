@@ -91,6 +91,8 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
+[![Cyberpunk 2077 Page](https://img.shields.io/badge/Cyberpunk_2077_Page-FF2A6D?style=for-the-badge&logo=gamepad&logoColor=white)](https://delirlo.github.io/cyberpunk2077/)
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
 <pre style="margin: 0; flex: 1; min-width: 250px;">
