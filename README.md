@@ -20,6 +20,55 @@
           </td>
       </table>
   </tr>
+
+  <div align="lefth">
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─◈ <a href="https://t.me/ysneshy">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
+├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="35%">
+      <pre>
+┌──┤ SKILLS ├──▰▰▰
+│
+├─◈ HTML/CSS
+├─◈ JavaScript
+├─◈ Python
+├─◈ Git/GitHub
+├─◈ React
+├─◈ Node.js
+│
+└──────────────────▰▰▰
+      </pre>
+    </td>
+  </tr>
+</table>
+</div>
 <!-- tabela 1 em evidencia -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
