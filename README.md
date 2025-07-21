@@ -91,7 +91,7 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="35%">
       <pre>
 ┌──┤ SKILLS ├──▰▰▰
 │
