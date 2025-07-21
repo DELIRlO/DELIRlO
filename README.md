@@ -63,16 +63,20 @@
 <table>
   <tr>
     <!-- SOCIAL (SEM ÍCONES) -->
+   <div align="left">
+<table>
+  <tr>
+    <!-- SOCIAL COM ÍCONES TECNOLÓGICOS -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ SOCIAL ├────────▰▰▰
 │
-├─▣ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─▣ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─▣ <a href="https://t.me/ysneshy">Telegram</a>
-├─▣ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─▣ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
-├─▣ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16"/> <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <a href="https://t.me/ysneshy">Telegram</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/> <a href="https://instagram.com/in/ysneshy">Instagram</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site Online</a>
 │
 └──────────────────────────────▰▰▰
       </pre>
