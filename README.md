@@ -110,12 +110,6 @@
   </tr>
 </table>
 </div>
-<!-- df --> 
-# WAKATIME STATS (SEUS HORÁRIOS DE CÓDIGO)
-! Morning: ██████████████████░░░░ 65% 
-+ Afternoon: ████████████░░░░░░░░░ 45% 
-- Night: █████░░░░░░░░░░░░░░░░ 20%
-
 <!-- ola -->
     <table><tr><td>
     <!-- ola -->
