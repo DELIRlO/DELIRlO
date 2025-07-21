@@ -91,7 +91,26 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-[![Cyberpunk 2077 Page](https://img.shields.io/badge/Cyberpunk_2077_Page-FF2A6D?style=for-the-badge&logo=gamepad&logoColor=white)](https://delirlo.github.io/cyberpunk2077/)
+<div align="center">
+
+<!-- Tabela invisível para alinhar os blocos -->
+| **WHOAMI**                          | **SOCIAL**                          |
+|-------------------------------------|-------------------------------------|
+| ▣ VAPT                              | ▣ [𝕏](https://twitter.com/thewhiteh4t) |
+| ▣ Author of seeker and finalrecon   | ▣ [YouTube](https://www.youtube.com/c/thewhiteh4t) |
+| ▣ [thewhiteh4t's Blog](https://thewhiteh4t.github.io/) | ▣ [Telegram](https://t.me/thewhiteh4t) |
+| ▣ Available at [The White Circle](https://twc1rcle.com/) | ▣ [LinkedIn](https://www.linkedin.com/in/lohityapushkar) |
+
+| **PROJECTS**                        | **LANGUAGES**                       |
+|-------------------------------------|-------------------------------------|
+| ▣ [Seeker](https://github.com/thewhiteh4t/seeker) | ▣ Python (Security Tools)          |
+| ▣ [FinalRecon](https://github.com/thewhiteh4t/FinalRecon) | ▣ JavaScript (Web Apps)    |
+| ▣ [NExfil](https://github.com/thewhiteh4t/nexfil) | ▣ Bash (Automation)         |
+| ▣ [pwnedOrNot](https://github.com/thewhiteh4t/pwnedornot) | ▣ HTML/CSS (Web)       |
+| ▣ [KillCast](https://github.com/thewhiteh4t/killcast) | ▣ SQL (Databases)          |
+| ▣ [FlashSploit](https://github.com/thewhiteh4t/flashsploit) | ▣ PHP (Legacy Projects) |
+
+</div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
