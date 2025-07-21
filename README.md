@@ -95,7 +95,8 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <!-- Coluna 1: SOCIAL -->
+    <td valign="top" width="33%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -109,7 +110,9 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="50%">
+
+    <!-- Coluna 2: PROJECTS -->
+    <td valign="top" width="33%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
@@ -123,10 +126,25 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
+
+    <!-- Coluna 3: SKILLS (Exemplo) -->
+    <td valign="top" width="33%">
+      <pre>
+┌──┤ SKILLS ├─────────▰▰▰
+│
+├─◈ HTML/CSS
+├─◈ JavaScript
+├─◈ Python
+├─◈ Git/GitHub
+├─◈ React
+├─◈ Node.js
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
   </tr>
 </table>
 </div>
-
 
 <!--cobrinha -->
 <picture align="center">
