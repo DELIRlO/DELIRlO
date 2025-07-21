@@ -137,20 +137,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="25%">
-      <pre>
-┌──┤ EXTRAS ├─────────▰▰▰
-│
-├─▣ <a href="#">Item 1</a>
-├─▣ <a href="#">Item 2</a>
-├─▣ <a href="#">Item 3</a>
-├─▣ <a href="#">Item 4</a>
-├─▣ <a href="#">Item 5</a>
-├─▣ <a href="#">Item 6</a>
-│
-└───────────────────────────────▰▰▰
-      </pre>
-    </td>
   </tr>
 </table>
 </div>
