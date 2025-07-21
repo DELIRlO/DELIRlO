@@ -91,39 +91,61 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-<pre>
-  ___   _      ___   _      ___   _      ___   _      ___   _
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <!-- Bloco WHOAMI -->
+  <pre style="margin: 0; flex: 1; min-width: 250px;">
+    ┌──┤ WHOAMI ├─────────▰▰▰
+    │
+    ├─▣ VAPT
+    ├─▣ Author of seeker and finalrecon
+    ├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
+    ├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
+    │
+    └───────────────────────────────▰▰▰
+  </pre>
 
-┌──┤ WHOAMI ├─────────▰▰▰
-│
-├─▣ VAPT
-├─▣ Author of seeker and finalrecon
-├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
-├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
-│
-└───────────────────────────────▰▰▰
+  <!-- Bloco SOCIAL -->
+  <pre style="margin: 0; flex: 1; min-width: 250px;">
+    ┌──┤ SOCIAL ├─────────▰▰▰
+    │
+    ├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
+    ├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+    ├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
+    ├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
+    │
+    └───────────────────────────────▰▰▰
+  </pre>
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
-├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
-├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
-│
-└───────────────────────────────▰▰▰
+  <!-- Bloco PROJECTS -->
+  <pre style="margin: 0; flex: 1; min-width: 250px;">
 
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
-├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+    ┌──┤ PROJECTS ├───────▰▰▰
+    │
+    ├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
+    ├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+    ├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
+    ├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
+    ├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
+    ├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+    │
+    └───────────────────────────────▰▰▰
+  </pre>
 
+  <!-- Novo Bloco LANGUAGES -->
+  <pre style="margin: 0; flex: 1; min-width: 250px;">
+
+    ┌──┤ LANGUAGES ├───────▰▰▰
+    │
+    ├─✦ Python (Security Tools)
+    ├─✦ JavaScript (Web Apps)
+    ├─✦ Bash (Automation)
+    ├─✦ HTML/CSS (Web)
+    ├─✦ SQL (Databases)
+    ├─✦ PHP (Legacy Projects)
+    │
+    └───────────────────────────────▰▰▰
+  </pre>
+</div>
 
 
 <!--cobrinha -->
