@@ -92,6 +92,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 
+<picture align="center">
 <div align="center">
 <table>
   <tr>
@@ -140,7 +141,7 @@
   </tr>
 </table>
 </div>
-
+</picture>
 <!--cobrinha -->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
