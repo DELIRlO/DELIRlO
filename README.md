@@ -59,47 +59,52 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
    <!--ponto negro -->
-      <div align="lefth">
+<div align="left">
 <table>
   <tr>
+    <!-- SOCIAL COM ÍCONES -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ SOCIAL ├────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─◈ <a href="https://t.me/ysneshy">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+├─▣ <a href="https://twitter.com/ysneshy"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="16" alt="Twitter"/> Twitter</a>
+├─▣ <a href="https://youtube.com/@comediante623"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" width="16" alt="YouTube"/> YouTube</a>
+├─▣ <a href="https://t.me/ysneshy"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="16" alt="Telegram"/> Telegram</a>
+├─▣ <a href="https://linkedin.com/in/ysneshy"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="16" alt="LinkedIn"/> LinkedIn</a>
+├─▣ <a href="https://instagram.com/in/ysneshy"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="16" alt="Instagram"/> Instagram</a>
+├─▣ <a href="https://carlosfilho.vercel.app"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/globe.svg" width="16" alt="Site"/> Site Online</a>
 │
 └──────────────────────────────▰▰▰
       </pre>
     </td>
+
+    <!-- PROJECTS COM ÍCONES -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ PROJECTS ├────────▰▰▰
 │
-├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
-├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+├─▣ <a href="https://github.com/delirlo/portfolio-carlos-filho"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="16" alt="GitHub"/> Portfolio</a>
+├─▣ <a href="https://github.com/delirlo/wordinvert"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" width="16" alt="Git"/> wordinvert</a>
+├─▣ <a href="https://github.com/DELIRlO/guiafrontend-main"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="16" alt="Frontend"/> Front-end</a>
+├─▣ <a href="https://github.com/DELIRlO/guiadobackend-main"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/server.svg" width="16" alt="Backend"/> Back-end</a>
+├─▣ <a href="https://github.com/DELIRlO/cafe-juju-maint"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/coffee.svg" width="16" alt="Café"/> Cafe-Juju</a>
+├─▣ <a href="https://github.com/DELIRlO/PythonRobotics-master"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/robot.svg" width="16" alt="Robótica"/> Robotica</a>
 │
 └────────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="35%">
+
+    <!-- SKILLS (SEM ÍCONES) -->
+    <td valign="top" width="20%">
       <pre>
 ┌──┤ SKILLS ├─────▰▰▰
 │
-├─◈ HTML/CSS
-├─◈ JavaScript
-├─◈ Python
-├─◈ Git/GitHub
-├─◈ React
-├─◈ Node.js
+├─▣ HTML/CSS
+├─▣ JavaScript
+├─▣ Python
+├─▣ Git/GitHub
+├─▣ React
+├─▣ Node.js
 │
 └─────────────────────▰▰▰
       </pre>
