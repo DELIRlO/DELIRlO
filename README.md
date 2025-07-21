@@ -173,6 +173,7 @@ $ npx DELIRIO
 </tr>
 </table>
 ### 🚀 Meus Amigos no GitHub
+
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:50%"></a>
 <a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" width="75" style="border-radius:50%"></a>
 <a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" width="75" style="border-radius:50%"></a>
