@@ -91,31 +91,45 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-<pre style="margin: 0; flex: 1; min-width: 250px;">
+
+<div align="center">
+
+<table>
+  <tr>
+    <!-- Coluna 1: SOCIAL -->
+    <td valign="top" width="50%">
+      <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
-├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
-├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
+├─◈ <a href="https://twitter.com/seu_perfil">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/seu_canal">YouTube</a>
+├─◈ <a href="https://t.me/seu_link">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/seu_perfil">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
-</pre>
+      </pre>
+    </td>
 
-<pre style="margin: 0; flex: 1; min-width: 250px;">
+    <!-- Coluna 2: PROJECTS -->
+    <td valign="top" width="50%">
+      <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
-├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
-├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
-├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
+├─◈ <a href="https://github.com/seu_user/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/seu_user/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/seu_user/NExfil">NExfil</a>
+├─◈ <a href="https://github.com/seu_user/pwnedOrNot">pwnedOrNot</a>
+├─◈ <a href="https://github.com/seu_user/KillCast">KillCast</a>
+├─◈ <a href="https://github.com/seu_user/FlashSploit">FlashSploit</a>
 │
 └───────────────────────────────▰▰▰
-</pre>
+      </pre>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <!--cobrinha -->
 <picture align="center">
