@@ -118,7 +118,7 @@
 ├─▣ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
 ├─▣ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
 ├─▣ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─▣ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+├─▣ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
 │
 └───────────────────────────────▰▰▰
       </pre>
