@@ -55,53 +55,49 @@
   </tr>
 <!-- fim -->
 
-<table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
-<img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
-   <!--ponto negro -->
-      <div align="lefth">
+<div align="left">
 <table>
   <tr>
-    <td valign="top" width="40%">
+    <td valign="height" width="35%">
       <pre>
-┌──┤ SOCIAL ├────────▰▰▰
+┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├─────────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─◈ <a href="https://t.me/ysneshy">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <a href="https://twitter.com/ysneshy">Twitter</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <a href="https://t.me/ysneshy">Telegram</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="https://linkedin.com/in/ysneshy">LinkedIn</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16"/> <a href="https://instagram.com/ysneshy">Instagram</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site</a> <small></small>
 │
-└──────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="40%">
-      <pre>
-┌──┤ PROJECTS ├────────▰▰▰
-│
-├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
-├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
-│
-└────────────────────────────────▰▰▰
+└────────────────────────────▰▰▰
       </pre>
     </td>
     <td valign="top" width="35%">
       <pre>
-┌──┤ SKILLS ├─────▰▰▰
+┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├───────────▰▰▰
 │
-├─◈ HTML/CSS
-├─◈ JavaScript
-├─◈ Python
-├─◈ Git/GitHub
-├─◈ React
-├─◈ Node.js
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
 │
-└─────────────────────▰▰▰
+└────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="30%">
+      <pre>
+┌──┤ <span style="color:#9D00FF">SKILLS</span> ├────────────▰▰▰
+│
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML/CSS
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Python
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git/GitHub
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
+│
+└───────────────────────────▰▰▰
       </pre>
     </td>
   </tr>
@@ -149,12 +145,30 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
 
+<table>
+<tr>
+<td>
+
 ```diff
 + [================ CYBERPUNK MODE ACTIVATED ================]
 ! PRÉVIA 2025:
 @@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
 ```
 
+</td>
+<td>
+
+```bash
+$ npx ysneshy
+> 🔍 Analisando seu perfil...
+> ✅ 89% compatível com Cyberpunk Mode!
+```
+
+</td>
+</tr>
+</table>
+<!-- fim -->
+<!-- funcao -->
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
   
