@@ -91,56 +91,27 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
-  <!-- SOCIAL -->
-  <div style="flex: 1; min-width: 0;">
-    <pre style="margin: 0;">
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─◈ <a href="https://t.me/ysneshy">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a>
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a>
-│
-└───────────────────────────────▰▰▰
-    </pre>
-  </div>
+<div align="center">
 
-  <!-- PROJECTS -->
-  <div style="flex: 1; min-width: 0;">
-    <pre style="margin: 0;">
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
-├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
-│
-└───────────────────────────────▰▰▰
-    </pre>
-  </div>
+### ┌──┤ SOCIAL ├─────────▰▰▰  
+◈ [𝕏 (Twitter)](https://twitter.com/ysneshy)  
+◈ [YouTube](https://youtube.com/@comediante623)  
+◈ [Telegram](https://t.me/ysneshy)  
+◈ [LinkedIn](https://linkedin.com/in/ysneshy)  
+◈ [Instagram](https://instagram.com/in/ysneshy)  
+◈ [Site Online](https://carlosfilho.vercel.app)  
+└───────────────────────────────▰▰▰  
 
+### ┌──┤ PROJECTS ├───────▰▰▰  
+◈ [Portfolio](https://github.com/delirlo/portfolio-carlos-filho)  
+◈ [WordInvert](https://github.com/delirlo/wordinvert)  
+◈ [Front-end](https://github.com/DELIRlO/guiafrontend-main)  
+◈ [Back-end](https://github.com/DELIRlO/guiadobackend-main)  
+◈ [Cafe-Juju](https://github.com/DELIRlO/cafe-juju-maint)  
+◈ [Robótica](https://github.com/DELIRlO/PythonRobotics-master)  
+└───────────────────────────────▰▰▰  
 
-  <div style="flex: 1; min-width: 0;">
-    <pre style="margin: 0;">
-┌──┤ SKILLS ├─────────▰▰▰
-│
-├─◈ HTML/CSS
-├─◈ JavaScript
-├─◈ Python
-├─◈ Git/GitHub
-├─◈ React
-├─◈ Node.js
-│
-└───────────────────────────────▰▰▰
-    </pre>
-  </div>
 </div>
-
 
 <!--cobrinha -->
 <picture align="center">
