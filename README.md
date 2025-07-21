@@ -77,8 +77,6 @@
 └──────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- PROJECTS (SEM ÍCONES) -->
     <td valign="top" width="40%">
       <pre>
 ┌──┤ PROJECTS ├────────▰▰▰
@@ -93,8 +91,6 @@
 └────────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- SKILLS COM ÍCONES -->
     <td valign="top" width="20%">
       <pre>
 ┌──┤ SKILLS ├─────▰▰▰
