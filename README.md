@@ -95,7 +95,6 @@
 <div align="center">
 <table>
   <tr>
-    <!-- Coluna 1: SOCIAL -->
     <td valign="top" width="33%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
@@ -110,8 +109,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- Coluna 2: PROJECTS -->
     <td valign="top" width="33%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
@@ -126,8 +123,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- Coluna 3: SKILLS (Exemplo) -->
     <td valign="top" width="33%">
       <pre>
 ┌──┤ SKILLS ├─────────▰▰▰
