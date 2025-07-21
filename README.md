@@ -172,42 +172,11 @@ $ npx DELIRIO
 </td>
 </tr>
 </table>
-### 🚀 Meus Amigos no GitHub
+### 🌟 Meus Amigos no GitHub
 
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:50%"></a>
 <a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" width="75" style="border-radius:50%"></a>
 <a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" width="75" style="border-radius:50%"></a>
-
-
-
-
-<style>
-  .amigos-github img {
-    border-radius: 50%;          /* Isso faz a imagem ficar redonda */
-    width: 80px;                /* Tamanho ajustável */
-    height: 80px;               /* Mantém a proporção */
-    object-fit: cover;          /* Garante que a imagem preencha o círculo */
-    border: 2px solid #9745f5;  /* Borda roxa estilo cyberpunk */
-    margin: 5px;                /* Espaçamento entre fotos */
-    transition: 0.3s;           /* Suaviza efeitos hover */
-  }
-  .amigos-github img:hover {
-    transform: scale(1.1);      /* Efeito de zoom ao passar o mouse */
-    box-shadow: 0 0 15px #9745f5; /* Glow roxo */
-  }
-</style>
-
-### 🌟 Meus Amigos no GitHub
-
-<div class="amigos-github" align="center">
-  <!-- Substitua pelos usuários reais -->
-  <a href="https://github.com/username1"><img src="https://github.com/username1.png" alt="Amigo 1"></a>
-  <a href="https://github.com/username2"><img src="https://github.com/username2.png" alt="Amigo 2"></a>
-  <a href="https://github.com/username3"><img src="https://github.com/username3.png" alt="Amigo 3"></a>
-</div>
-
-
-
 <!-- fim -->
 <!-- funcao -->
 <details>
