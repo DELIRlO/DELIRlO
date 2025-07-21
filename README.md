@@ -78,8 +78,6 @@
 └───────────────────────────────▰▰▰
         </pre>
       </td>
-      
-      <!-- PROJECTS -->
       <td style="width: 33%; vertical-align: top; padding: 5px;">
         <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ PROJECTS ├───────▰▰▰
@@ -93,9 +91,6 @@
 │
 └───────────────────────────────▰▰▰
         </pre>
-      </td>
-      
-      <!-- SKILLS -->
       <td style="width: 34%; vertical-align: top; padding: 5px;">
         <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ SKILLS ├─────────▰▰▰
