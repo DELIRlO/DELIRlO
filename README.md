@@ -154,7 +154,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
 
-```diff
+```
 + [CYBERPUNK MODE ACTIVATED]  
 ! Prévia 2025:  
 @@  Seu perfil já está 89% compatível com o estilo Night City @@
