@@ -20,7 +20,40 @@
           </td>
       </table>
   </tr>
+<!-- tabela 1 em evidencia -->
 
+![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+<a href="http://carlosfilho.vercel.app"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp;
+![react](https://img.shields.io/badge/-React-098196?style=flat&logoColor=fff&logo=React)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
+![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
+<!-- segundo element da tabela -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Coluna Tech Stack (30%) -->
+    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+      <h3>🛠️ Tech Stack</h3>
+      <table style="border: none;">
+        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
+      </table>
+    </td>
+    <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+      <table width="100%" style="border-collapse: collapse; border: none;">
+        <tr>
+          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+<!-- fim -->
   <div align="lefth">
 <table>
   <tr>
@@ -69,40 +102,7 @@
   </tr>
 </table>
 </div>
-<!-- tabela 1 em evidencia -->
-
-![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-<a href="http://carlosfilho.vercel.app"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp;
-![react](https://img.shields.io/badge/-React-098196?style=flat&logoColor=fff&logo=React)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
-<!-- segundo element da tabela -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Coluna Tech Stack (30%) -->
-    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <h3>🛠️ Tech Stack</h3>
-      <table style="border: none;">
-        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-      </table>
-    </td>
-    <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-<!-- fim -->
+<!-- ola -->
 
 <table><tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
