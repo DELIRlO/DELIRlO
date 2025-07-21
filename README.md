@@ -109,9 +109,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- Coluna 2: PROJECTS -->
-    <td valign="top" width="50%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
