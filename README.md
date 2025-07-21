@@ -2,12 +2,9 @@
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+PERFIL+AGORA+EST%C3%81+NO+MODO+CYBERPUNK;CODANDO+COMO+UM+HACKER+DA+NOITE;WELCOME+TO+THE+MATRIX" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+PERFIL+AGORA+EST%C3%81+NO+MODO+CYBERPUNK;CODANDO+COMO+UM+HACKER+DA+NOITE;WELCOME+TO+THE+MATRIX" alt="Typing animation" />
 </div>
-
-
 <!-- lepo -->
-
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
