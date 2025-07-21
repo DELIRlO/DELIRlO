@@ -2,9 +2,8 @@
 
 <!-- Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+DELIRIO+ESTÁ+NA+REALIDADE+QUE+VOCÊ;NÃO+QUER+ACREDITAR+ACORDE+PARA+VIDA;TÃO+DELIRANTE+QUANTO+A+TECNOLOGIA" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+DEL%C3%8DRIO+EST%C3%81+NA+REALIDADE+QUE+VOC%C3%8A+N%C3%83O+QUER+ACREDITAR" alt="Typing animation" />
 </div>
-
 <!-- Profile Section -->
 <table width="100%">
   <tr>
