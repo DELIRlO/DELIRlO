@@ -91,27 +91,56 @@
 <!-- coluna de linguagem -->
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
+
 <div align="center">
-
-### ┌──┤ SOCIAL ├─────────▰▰▰  
-◈ [𝕏 (Twitter)](https://twitter.com/ysneshy)  
-◈ [YouTube](https://youtube.com/@comediante623)  
-◈ [Telegram](https://t.me/ysneshy)  
-◈ [LinkedIn](https://linkedin.com/in/ysneshy)  
-◈ [Instagram](https://instagram.com/in/ysneshy)  
-◈ [Site Online](https://carlosfilho.vercel.app)  
-└───────────────────────────────▰▰▰  
-
-### ┌──┤ PROJECTS ├───────▰▰▰  
-◈ [Portfolio](https://github.com/delirlo/portfolio-carlos-filho)  
-◈ [WordInvert](https://github.com/delirlo/wordinvert)  
-◈ [Front-end](https://github.com/DELIRlO/guiafrontend-main)  
-◈ [Back-end](https://github.com/DELIRlO/guiadobackend-main)  
-◈ [Cafe-Juju](https://github.com/DELIRlO/cafe-juju-maint)  
-◈ [Robótica](https://github.com/DELIRlO/PythonRobotics-master)  
-└───────────────────────────────▰▰▰  
-
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─◈ <a href="https://t.me/ysneshy">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
+├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+│
+└───────────────────────────────▰▰▰
+      </pre>
+    </td>
+    <td valign="top" width="20%">
+      <pre>
+┌──┤ SKILLS ├──▰▰▰
+│
+├─◈ HTML/CSS
+├─◈ JavaScript
+├─◈ Python
+├─◈ Git/GitHub
+├─◈ React
+├─◈ Node.js
+│
+└──────────────────▰▰▰
+      </pre>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 <!--cobrinha -->
 <picture align="center">
