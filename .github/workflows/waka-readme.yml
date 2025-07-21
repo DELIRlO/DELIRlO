@@ -1,22 +1,30 @@
-name: Waka Readme
+name: Waka Readme Stats
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    - cron: '0 0 * * *'
-#   push:
-#     branches: 
-#       - master
+    - cron: '0 0 * * *'  # Executa diariamente à meia-noite UTC
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-stats:
+    name: Update WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permissão necessária para atualizar o README
+    
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # Importante para o token funcionar
+
+      - name: Update README with WakaTime stats
+        uses: anmol098/waka-readme-stats@v5.1  # Versão estável mais nova
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token automático do GitHub
+          SHOW_TITLE: "False"
+          SHOW_TIMEZONE: "True"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
+          LOCALE: "pt"  # Configuração para português
