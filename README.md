@@ -97,7 +97,6 @@
 
 <table>
   <tr>
-    <!-- Coluna 1: SOCIAL -->
     <td valign="top" width="50%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
@@ -110,8 +109,6 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-
-    <!-- Coluna 2: PROJECTS -->
     <td valign="top" width="50%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
