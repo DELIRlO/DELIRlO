@@ -92,12 +92,10 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 <!-- alinhamento -->
-<div align="center">
-<table>
-  <tr>
-    <!-- SOCIAL -->
-    <td valign="top" width="20%">
-      <pre>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+  <!-- SOCIAL -->
+  <div style="flex: 1; min-width: 0;">
+    <pre style="margin: 0;">
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
@@ -108,10 +106,12 @@
 ├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a>
 │
 └───────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="20%">
-      <pre>
+    </pre>
+  </div>
+
+  <!-- PROJECTS -->
+  <div style="flex: 1; min-width: 0;">
+    <pre style="margin: 0;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
@@ -122,10 +122,12 @@
 ├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
 │
 └───────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="15%">
-      <pre>
+    </pre>
+  </div>
+
+  <!-- SKILLS -->
+  <div style="flex: 1; min-width: 0;">
+    <pre style="margin: 0;">
 ┌──┤ SKILLS ├─────────▰▰▰
 │
 ├─◈ HTML/CSS
@@ -136,10 +138,8 @@
 ├─◈ Node.js
 │
 └───────────────────────────────▰▰▰
-      </pre>
-    </td>
-  </tr>
-</table>
+    </pre>
+  </div>
 </div>
 <!-- alinhamento -->
 <!--cobrinha -->
