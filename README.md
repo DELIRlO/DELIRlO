@@ -60,40 +60,45 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <!-- ola -->
         <!-- fim --> 
-<div align="lefth">
-<table>
-  <tr>
-    <td valign="top" width="40%">
-      <pre>
+<div align="center" style="width: 100%; overflow-x: auto;">
+  <table style="width: 100%; min-width: 600px; border-collapse: collapse;">
+    <tr>
+      <!-- SOCIAL -->
+      <td style="width: 33%; vertical-align: top; padding: 5px;">
+        <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 Twitter</a>
 ├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
 ├─◈ <a href="https://t.me/ysneshy">Telegram</a>
 ├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
+├─◈ <a href="https://instagram.com/ysneshy">Instagram</a>
+├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a>
 │
 └───────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="40%">
-      <pre>
+        </pre>
+      </td>
+      
+      <!-- PROJECTS -->
+      <td style="width: 33%; vertical-align: top; padding: 5px;">
+        <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
 ├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordInvert</a>
 ├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
 ├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
 ├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
 ├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
 │
 └───────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="35%">
-      <pre>
-┌──┤ SKILLS ├──▰▰▰
+        </pre>
+      </td>
+      
+      <!-- SKILLS -->
+      <td style="width: 34%; vertical-align: top; padding: 5px;">
+        <pre style="margin: 0; white-space: pre-wrap;">
+┌──┤ SKILLS ├─────────▰▰▰
 │
 ├─◈ HTML/CSS
 ├─◈ JavaScript
@@ -102,11 +107,11 @@
 ├─◈ React
 ├─◈ Node.js
 │
-└──────────────────▰▰▰
-      </pre>
-    </td>
-  </tr>
-</table>
+└───────────────────────────────▰▰▰
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 <!-- olaa -->
     <table><tr><td>
