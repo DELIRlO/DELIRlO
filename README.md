@@ -59,39 +59,58 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
    <!--ponto negro -->
-<div align="left" style="font-family: 'Courier New', monospace; background-color: #000; padding: 15px; border: 2px solid #0ff;">
-<!-- SOCIAL COM ÍCONES DE REDES SOCIAIS -->
-<pre style="color: #ff0; border: 1px solid #f0f; padding: 10px; display: inline-block; margin: 5px;">
-<span style="color: #f00;">┌──┤ <img src="https://cdn-icons-png.flaticon.com/512/1240/1240971.png" width="16"/> SOCIAL ├─────▰▰▰</span>
+<div align="left">
+<table>
+  <tr>
+    <!-- SOCIAL (SEM ÍCONES) -->
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ SOCIAL ├────────▰▰▰
 │
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="16"/> <a href="#" style="color: #ff0;">YouTube</a>
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="16"/> <a href="#" style="color: #ff0;">Telegram</a>
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"/> <a href="#" style="color: #ff0;">LinkedIn</a>
+├─▣ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─▣ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─▣ <a href="https://t.me/ysneshy">Telegram</a>
+├─▣ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─▣ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
+├─▣ <a href="https://carlosfilho.vercel.app">Site Online</a> 
 │
-<span style="color: #0ff;">└──────────────────────▰▰▰</span>
-</pre>
+└──────────────────────────────▰▰▰
+      </pre>
+    </td>
 
-<!-- PROJECTS COM ÍCONES DE TECNOLOGIAS -->
-<pre style="color: #ff0; border: 1px solid #0f0; padding: 10px; display: inline-block; margin: 5px;">
-<span style="color: #f00;">┌──┤ <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="16"/> PROJECTS ├───▰▰▰</span>
+    <!-- PROJECTS COM ÍCONES REACT/NEXT -->
+    <td valign="top" width="40%">
+      <pre>
+┌──┤ PROJECTS ├────────▰▰▰
 │
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" width="16"/> <a href="#" style="color: #ff0;">Portfolio</a>
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="16"/> <a href="#" style="color: #ff0;">WordInvert</a>
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="16"/> <a href="#" style="color: #ff0;">Front-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
 │
-<span style="color: #f0f;">└──────────────────────▰▰▰</span>
-</pre>
+└────────────────────────────────▰▰▰
+      </pre>
+    </td>
 
-<!-- SKILLS COM ÍCONES DE LINGUAGENS -->
-<pre style="color: #ff0; border: 1px solid #f0f; padding: 10px; display: inline-block; margin: 5px;">
-<span style="color: #f00;">┌──┤ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="16"/> SKILLS ├──────▰▰▰</span>
+    <!-- SKILLS COM ÍCONES -->
+    <td valign="top" width="20%">
+      <pre>
+┌──┤ SKILLS ├─────▰▰▰
 │
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"/> HTML/CSS
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"/> JavaScript
-├─◈ <img src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width="16"/> Python
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML/CSS
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Python
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git/GitHub
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
 │
-<span style="color: #0ff;">└──────────────────────▰▰▰</span>
-</pre>
+└─────────────────────▰▰▰
+      </pre>
+    </td>
+  </tr>
+</table>
 </div>
 <!-- ola -->
     <table><tr><td>
