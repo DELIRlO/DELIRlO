@@ -60,54 +60,8 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <!-- ola -->
         <!-- fim --> 
-<div align="center" style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; min-width: 20px; border-collapse: collapse;">
-    <tr>
-      <!-- SOCIAL -->
-      <td style="width: 15%; vertical-align: top; padding: 5px;">
-        <pre style="margin: 0; white-space: pre-wrap;">
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 Twitter</a>
-├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─◈ <a href="https://t.me/ysneshy">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/ysneshy">Instagram</a>
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a>
-│
-└───────────────────────────────▰▰▰
-        </pre>
-      </td>
-      <td style="width: 15%; vertical-align: top; padding: 5px;">
-        <pre style="margin: 0; white-space: pre-wrap;">
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordInvert</a>
-├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
-│
-└───────────────────────────────▰▰▰
-        </pre>
-      <td style="width: 15%; vertical-align: top; padding: 5px;">
-        <pre style="margin: 0; white-space: pre-wrap;">
-┌──┤ SKILLS ├─────────▰▰▰
-│
-├─◈ HTML/CSS
-├─◈ JavaScript
-├─◈ Python
-├─◈ Git/GitHub
-├─◈ React
-├─◈ Node.js
-│
-└───────────────────────────────▰▰▰
-        </pre>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center">
+
 <!-- olaa -->
     <table><tr><td>
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
