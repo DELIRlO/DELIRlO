@@ -149,18 +149,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 ```diff
 + [================ CYBERPUNK MODE ACTIVATED ================]
 ! PRÉVIA 2025:
 @@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
-
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                              █
-█  ███  █▄▄▀█ ▄█▀▄ ██ █ ▄▄██  █
-█  █▄▄█ █▀▀▄█ ██▄▀ ▀▄█ █▄▄▄█▀  █
-█                              █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ```
 
 <details>
