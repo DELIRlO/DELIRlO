@@ -92,19 +92,18 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 
-
 <div align="center">
-
 <table>
   <tr>
     <td valign="top" width="50%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/seu_perfil">𝕏 (Twitter)</a>
-├─◈ <a href="https://youtube.com/seu_canal">YouTube</a>
-├─◈ <a href="https://t.me/seu_link">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/seu_perfil">LinkedIn</a>
+├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
+├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
+├─◈ <a href="https://t.me/ysneshy">Telegram</a>
+├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
+├─◈ <a href="https://instagram.com/in/ysneshy">LinkedIn</a>    
 │
 └───────────────────────────────▰▰▰
       </pre>
@@ -113,21 +112,19 @@
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/seu_user/FlashSploit">FlashSploit</a>
-├─◈ <a href="https://github.com/seu_user/wordinvert">wordinvert</a>
-├─◈ <a href="https://github.com/seu_user/FinalRecon">FinalRecon</a>
-├─◈ <a href="https://github.com/seu_user/NExfil">NExfil</a>
-├─◈ <a href="https://github.com/seu_user/pwnedOrNot">pwnedOrNot</a>
-├─◈ <a href="https://github.com/seu_user/KillCast">KillCast</a>
+├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
+├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
+├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
+├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
+├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
 │
 └───────────────────────────────▰▰▰
       </pre>
     </td>
   </tr>
 </table>
-
 </div>
-
 
 
 <!--cobrinha -->
