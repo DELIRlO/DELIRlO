@@ -63,7 +63,7 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top" width="20%">
+    <td valign="top" width="23%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -77,7 +77,7 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="20%">
+    <td valign="top" width="23%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
