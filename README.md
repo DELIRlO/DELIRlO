@@ -172,12 +172,16 @@ $ npx DELIRIO
 </td>
 </tr>
 </table>
-🌟🌟🌟🌟🌟🌟 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
+ <table><tr><td>
+🌟🌟🌟🌟🌟 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
 
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:30%"></a>
 <a href="https://github.com/iagocavalcante"><img src="https://github.com/iagocavalcante.png" width="75" style="border-radius:30%"></a>
 <a href="https://github.com/kbmbarreto"><img src="https://github.com/kbmbarreto.png" width="75" style="border-radius:30%"></a>
 <!-- fim -->
+</td>
+</tr>
+</table>
 <!-- funcao -->
 <details>
   <summary><b>:rocket: &nbsp;Meu Tempo de programacao click no foguete</b></summary>
