@@ -59,54 +59,49 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
    <!--ponto negro -->
-<div align="left">
+<div align="left" style="background-color: #141321; padding: 20px; border-radius: 10px;">
 <table>
   <tr>
-    <!-- SOCIAL (SEM ÍCONES) -->
-   <div align="left">
-<table>
-  <tr>
-    <!-- SOCIAL COM ÍCONES TECNOLÓGICOS -->
     <td valign="top" width="40%">
-      <pre>
-┌──┤ SOCIAL ├────────▰▰▰
+      <pre style="color: #00ffc8; font-family: monospace;">
+┌──<span style="color: #ff0055;">┤ SOCIAL ├</span>────────<span style="color: #ff0055;">▰▰▰</span>
 │
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16"/> <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <a href="https://t.me/ysneshy">Telegram</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/> <a href="https://instagram.com/in/ysneshy">Instagram</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site Online</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16"/> <a href="https://twitter.com/ysneshy" style="color: #fcee0c; text-decoration: none;">𝕏 (Twitter)</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623" style="color: #fcee0c; text-decoration: none;">YouTube</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <a href="https://t.me/ysneshy" style="color: #fcee0c; text-decoration: none;">Telegram</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="https://linkedin.com/in/ysneshy" style="color: #fcee0c; text-decoration: none;">LinkedIn</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/> <a href="https://instagram.com/in/ysneshy" style="color: #fcee0c; text-decoration: none;">Instagram</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app" style="color: #fcee0c; text-decoration: none;">Site Online</a>
 │
-└──────────────────────────────▰▰▰
+└──────────────────────────────<span style="color: #ff0055;">▰▰▰</span>
       </pre>
     </td>
     <td valign="top" width="40%">
-      <pre>
-┌──┤ PROJECTS ├────────▰▰▰
+      <pre style="color: #00ffc8; font-family: monospace;">
+┌──<span style="color: #ff0055;">┤ PROJECTS ├</span>────────<span style="color: #ff0055;">▰▰▰</span>
 │
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho" style="color: #fcee0c; text-decoration: none;">Portfolio</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert" style="color: #fcee0c; text-decoration: none;">wordinvert</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiafrontend-main" style="color: #fcee0c; text-decoration: none;">Front-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiadobackend-main" style="color: #fcee0c; text-decoration: none;">Back-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint" style="color: #fcee0c; text-decoration: none;">Cafe-Juju</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master" style="color: #fcee0c; text-decoration: none;">Robotica</a>
 │
-└────────────────────────────────▰▰▰
+└────────────────────────────────<span style="color: #ff0055;">▰▰▰</span>
       </pre>
     </td>
     <td valign="top" width="20%">
-      <pre>
-┌──┤ SKILLS ├─────▰▰▰
+      <pre style="color: #00ffc8; font-family: monospace;">
+┌──<span style="color: #ff0055;">┤ SKILLS ├</span>─────<span style="color: #ff0055;">▰▰▰</span>
 │
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML/CSS
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> Python
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Git/GitHub
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> <span style="color: #fcee0c;">HTML/CSS</span>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <span style="color: #fcee0c;">JavaScript</span>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <span style="color: #fcee0c;">Python</span>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> <span style="color: #fcee0c;">Git/GitHub</span>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color: #fcee0c;">React</span>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> <span style="color: #fcee0c;">Node.js</span>
 │
-└─────────────────────▰▰▰
+└─────────────────────<span style="color: #ff0055;">▰▰▰</span>
       </pre>
     </td>
   </tr>
