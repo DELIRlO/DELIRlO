@@ -173,7 +173,7 @@ $ npx DELIRIO
 </tr>
 </table>
  <table><tr><td>
-🌟🌟🌟🌟🌟 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
+🏆 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
 
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:30%"></a>
 <a href="https://github.com/iagocavalcante"><img src="https://github.com/iagocavalcante.png" width="75" style="border-radius:30%"></a>
