@@ -175,8 +175,8 @@ $ npx DELIRIO
 ### 🌟 Meus Amigos no GitHub
 
 <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:50%"></a>
-<a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" width="75" style="border-radius:50%"></a>
-<a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" width="75" style="border-radius:50%"></a>
+<a href="https://github.com/iagocavalcante"><img src="https://github.com/iagocavalcante.png" width="75" style="border-radius:50%"></a>
+<a href="https://github.com/kbmbarreto"><img src="https://github.com/kbmbarreto.png" width="75" style="border-radius:50%"></a>
 <!-- fim -->
 <!-- funcao -->
 <details>
