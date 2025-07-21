@@ -187,6 +187,23 @@ $ npx DELIRIO
 </td>
 </tr>
 </table>
+
+<style>
+  .friends img { 
+    border-radius: 50%;
+    width: 80px;
+    border: 2px solid #9745f5;
+  }
+</style>
+
+### 👥 Amigos GitHub
+
+<div class="friends">
+  <a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" title="Amigo 1"></a>
+  <a href="https://github.com/amigo2"><img src="https://github.com/amigo2.png" title="Amigo 2"></a>
+  <a href="https://github.com/amigo3"><img src="https://github.com/amigo3.png" title="Amigo 3"></a>
+</div>
+
 <!-- fim -->
 <!-- funcao -->
 <details>
