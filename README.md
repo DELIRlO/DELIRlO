@@ -177,7 +177,7 @@ $ npx DELIRIO
 <!-- fim -->
 <!-- funcao -->
 <details>
-  <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
+  <summary><b>:rocket: &nbsp;Meu Tempo de programacao click no foguete</b></summary>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue)
