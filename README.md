@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 <!-- lepo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5&animation=fadeIn&section=header"/>
 
 <!-- Efeito de terminal hacker -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+DELIRIO+AGORA+EST%C3%81+NO+MODO+CYBERPUNK;CODANDO+COMO+UM+HACKER+DA+NOITE;WELCOME+TO+THE+MATRIX" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=SEU+DELIRIO+EST%C3%81+NA+REALIDADE+QUE+VOCE;NAO+QUER+ACREDITAR+ACORDE+PARA+REALIDADE;DELIRANTE+COMO+A+VIDA" alt="Typing animation" />
 </div>
 <!-- lepo -->
 <table width="1260px">
