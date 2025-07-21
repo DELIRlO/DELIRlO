@@ -110,6 +110,13 @@
   </tr>
 </table>
 </div>
+<!-- df --> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/globe/globe-original.svg" width="21" /> Portfolio:
+https://img.shields.io/badge/%F0%9F%9A%80_Portfolio-000?style=flat&logo=vercel&logoColor=white&link=https://carlosfilho.vercel.app
+
+</td> </tr> </table><!-- Stats com tema neon --><table width="100%"> <tr> <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&theme=radical&title_color=FF00FF&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&border_color=9745F5"/></td> <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&theme=radical&title_color=FF00FF&text_color=00FFC8&bg_color=141321&border_color=9745F5"/></td> <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=radical&utcOffset=-3"/></td> </tr> </table><!-- Seção WAKATIME -->
+
 <!-- ola -->
     <table><tr><td>
     <!-- ola -->
