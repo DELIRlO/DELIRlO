@@ -166,7 +166,7 @@
 <td>
 
 ```bash
-$ npx ysneshy
+$ npx DELIRIO
 > 🔍 Analisando seu perfil...
 > ✅ 89% compatível com Cyberpunk Mode!
 ```
