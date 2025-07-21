@@ -60,10 +60,10 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
     <!-- ola -->
         <!-- fim --> 
-<div align="center">
+<div align="lefth">
 <table>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
       <pre>
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -77,7 +77,7 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="40%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
