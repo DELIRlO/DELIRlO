@@ -61,7 +61,7 @@
     <!-- ola -->
         <!-- fim --> 
 <div align="center" style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; min-width: 520px; border-collapse: collapse;">
+  <table style="width: 100%; min-width: 420px; border-collapse: collapse;">
     <tr>
       <!-- SOCIAL -->
       <td style="width: 33%; vertical-align: top; padding: 5px;">
