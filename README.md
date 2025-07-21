@@ -105,7 +105,7 @@
 <pre style="margin: 0; flex: 1; min-width: 250px;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/delirlo/wordinvert">Seeker</a>
+├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
