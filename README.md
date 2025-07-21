@@ -159,6 +159,9 @@
 ! Prévia 2025:  
 @@  Seu perfil já está 89% compatível com o estilo Night City @@
 ```
+<span style="color: #FF5555">[</span><span style="color: #55FF55">CYBERPUNK</span> <span style="color: #5555FF">MODE</span> <span style="color: #FFFF55">ACTIVATED</span><span style="color: #FF5555">]</span>  
+<span style="color: #FF55FF">!</span><span style="color: #55FFFF"> Prévia 2025:</span>  
+<span style="color: #FFAA00">@@</span> <span style="color: #FFFFFF">Seu perfil já está 89% compatível com o estilo Night City</span> <span style="color: #FFAA00">@@</span>
 
 <details>
   <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
