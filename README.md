@@ -92,6 +92,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
 
 
+
 <div align="center">
 
 <table>
@@ -109,15 +110,18 @@
 └───────────────────────────────▰▰▰
       </pre>
     </td>
+
+    <!-- Coluna 2: PROJECTS -->
+    <td valign="top" width="50%">
       <pre>
 ┌──┤ PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/seu_user/FlashSploit">FlashSploit</a>
 ├─◈ <a href="https://github.com/seu_user/wordinvert">wordinvert</a>
 ├─◈ <a href="https://github.com/seu_user/FinalRecon">FinalRecon</a>
 ├─◈ <a href="https://github.com/seu_user/NExfil">NExfil</a>
 ├─◈ <a href="https://github.com/seu_user/pwnedOrNot">pwnedOrNot</a>
 ├─◈ <a href="https://github.com/seu_user/KillCast">KillCast</a>
-├─◈ <a href="https://github.com/seu_user/FlashSploit">FlashSploit</a>
 │
 └───────────────────────────────▰▰▰
       </pre>
@@ -126,6 +130,7 @@
 </table>
 
 </div>
+
 
 
 <!--cobrinha -->
