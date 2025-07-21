@@ -61,10 +61,10 @@
     <!-- ola -->
         <!-- fim --> 
 <div align="center" style="width: 100%; overflow-x: auto;">
-  <table style="width: 100%; min-width: 420px; border-collapse: collapse;">
+  <table style="width: 100%; min-width: 220px; border-collapse: collapse;">
     <tr>
       <!-- SOCIAL -->
-      <td style="width: 33%; vertical-align: top; padding: 5px;">
+      <td style="width: 25%; vertical-align: top; padding: 5px;">
         <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
@@ -78,7 +78,7 @@
 └───────────────────────────────▰▰▰
         </pre>
       </td>
-      <td style="width: 33%; vertical-align: top; padding: 5px;">
+      <td style="width: 25%; vertical-align: top; padding: 5px;">
         <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ PROJECTS ├───────▰▰▰
 │
@@ -91,7 +91,7 @@
 │
 └───────────────────────────────▰▰▰
         </pre>
-      <td style="width: 34%; vertical-align: top; padding: 5px;">
+      <td style="width: 25%; vertical-align: top; padding: 5px;">
         <pre style="margin: 0; white-space: pre-wrap;">
 ┌──┤ SKILLS ├─────────▰▰▰
 │
