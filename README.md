@@ -59,54 +59,38 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ysneshy&theme=2077"/></td><td>
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ysneshy&theme=2077"/></td></tr></table>
    <!--ponto negro -->
-      <div align="lefth">
-<table>
-  <tr>
-    <td valign="top" width="40%">
-      <pre>
-┌──┤ SOCIAL ├────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/ysneshy">𝕏 (Twitter)</a>
-├─◈ <a href="https://youtube.com/@comediante623">YouTube</a>
-├─◈ <a href="https://t.me/ysneshy">Telegram</a>
-├─◈ <a href="https://linkedin.com/in/ysneshy">LinkedIn</a>
-├─◈ <a href="https://instagram.com/in/ysneshy">Instagram</a> 
-├─◈ <a href="https://carlosfilho.vercel.app">Site Online</a> 
-│
-└──────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="40%">
-      <pre>
-┌──┤ PROJECTS ├────────▰▰▰
-│
-├─◈ <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─◈ <a href="https://github.com/delirlo/wordinvert">wordinvert</a>
-├─◈ <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─◈ <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─◈ <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─◈ <a href="https://github.com/DELIRlO/PythonRobotics-master">Robotica</a>
-│
-└────────────────────────────────▰▰▰
-      </pre>
-    </td>
-    <td valign="top" width="35%">
-      <pre>
-┌──┤ SKILLS ├─────▰▰▰
-│
-├─◈ HTML/CSS
-├─◈ JavaScript
-├─◈ Python
-├─◈ Git/GitHub
-├─◈ React
-├─◈ Node.js
-│
-└─────────────────────▰▰▰
-      </pre>
-    </td>
-  </tr>
-</table>
-</div>
+# <span style="color:#ff0055">SOCIAL</span>
+
+<p style="color:#00ffc8">
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="16"/> <span style="color:#fcee0c">𝕏 (Twitter)</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <span style="color:#fcee0c">YouTube</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <span style="color:#fcee0c">Telegram</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <span style="color:#fcee0c">LinkedIn</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/> <span style="color:#fcee0c">Instagram</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color:#fcee0c">Site Online</span>
+</p>
+
+# <span style="color:#ff0055">PROJECTS</span>
+
+<p style="color:#00ffc8">
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color:#fcee0c">Portfolio</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <span style="color:#fcee0c">wordinvert</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color:#fcee0c">Front-end</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <span style="color:#fcee0c">Back-end</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color:#fcee0c">Cafe-Juju</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <span style="color:#fcee0c">Robotica</span>
+</p>
+
+# <span style="color:#ff0055">SKILLS</span>
+
+<p style="color:#00ffc8">
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> <span style="color:#fcee0c">HTML/CSS</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <span style="color:#fcee0c">JavaScript</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <span style="color:#fcee0c">Python</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> <span style="color:#fcee0c">Git/GitHub</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> <span style="color:#fcee0c">React</span><br>
+▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> <span style="color:#fcee0c">Node.js</span>
+</p>
 <!-- ola -->
     <table><tr><td>
     <!-- ola -->
