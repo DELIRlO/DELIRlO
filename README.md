@@ -49,7 +49,7 @@
     </td>
     <!-- Segundo elemento com altura aumentada -->
     <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
-      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto;"/>
+      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto;"/>
     </td>
   </tr>
 </table>
