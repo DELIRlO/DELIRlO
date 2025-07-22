@@ -58,7 +58,7 @@
         </tr>
           <table width="100%" style="border-collapse: collapse; border: none;"> 
         <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+          <td><img src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"</td>
         </tr>
       </table>
     </td>
@@ -190,13 +190,9 @@ $ npx DELIRIO
 > 🔍 Analisando seu perfil...
 > ✅ 89% compatível com Cyberpunk Mode!
 ```
-
 </td>
 </tr>
 </table>
-
-  <img src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-
 
 <!-- funcao -->
 <details>
