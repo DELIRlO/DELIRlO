@@ -51,12 +51,12 @@
         <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
       </table>
     </td>
-    <td width="50%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
           <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
         </tr>
-         <td width="50%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
+         <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
           <td> <img src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /></td>
