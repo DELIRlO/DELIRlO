@@ -58,11 +58,11 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Streak Stats (Reduzido) -->
-    <td width="60%" align="center" valign="middle" style="padding: 10px; border: none;">
+    <td width="55%" align="center" valign="middle" style="padding: 10px; border: none;">
       <img height="100" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto;"/>
     </td>
     <!-- GitHub Profile Card (Aumentado) -->
-    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
+    <td width="60%" align="center" valign="middle" style="padding: 10px; border: none;">
       <img height="250" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077&height=250" style="display: block; margin: 0 auto; width: 100%;"/>
     </td>
   </tr>
