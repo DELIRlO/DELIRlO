@@ -44,7 +44,7 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Tech Stack -->
-    <td width="33%" valign="top" style="padding: 10px; border: none; vertical-align: top; height: 300px;">
+    <td width="33%" valign="top" style="padding: 10px; border: none; vertical-align: top; height: 400px;">
       <h3 style="margin-top: 0;">🛠️ Tech Stack</h3>
       <table style="border: none;">
         <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
@@ -52,16 +52,18 @@
         <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
       </table>
     </td>
-    <!-- Streak Stats -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+    
+    <!-- Streak Stats (Elemento 2 - Altura aumentada) -->
+    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
       <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
-        <img height="130" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="max-width: 100%;"/>
+        <img height="180" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="max-width: 100%;"/>
       </div>
     </td>
-    <!-- GitHub Profile Card -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
-      <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077&height=300" 
-     style="display: block; margin: 0 auto; max-width: 100%; height: 100%; object-fit: contain;"/>
+    
+    <!-- GitHub Profile Card (Elemento 3 - Altura aumentada) -->
+    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
+     style="display: block; margin: 0 auto; width: 100%; height: 100%; object-fit: contain;"/>
     </td>
   </tr>
 </table>
