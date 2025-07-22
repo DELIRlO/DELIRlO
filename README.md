@@ -273,5 +273,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
   </details>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
-<!-- o --> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/> -->
 </div>
