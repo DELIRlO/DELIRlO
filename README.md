@@ -49,7 +49,8 @@
     </td>
     <!-- GitHub Profile Card (ALTURA AUMENTADA) -->
     <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
-      <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077&height=220" style="display: block; margin: 0 auto;"/>
+      <img height="300" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077&height=300" 
+     style="display: block; margin: 0 auto; max-width: 100%; object-fit: contain;"/>
     </td>
   </tr>
 </table>
