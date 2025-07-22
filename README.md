@@ -57,7 +57,7 @@
       </div>
     </td>
     <!-- GitHub Profile Card -->
-    <td width="43%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+    <td width="53%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
            style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
     </td>
