@@ -42,22 +42,6 @@
 <!-- segundo element da tabela -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- tabela 1 em evidencia -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <h3>🛠️ Tech Stack</h3>
-      <table style="border: none;">
-        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-           <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
-          </td>
-      </table>
-  </tr>
-<!-- tabela 1 em evidencia -->
     <!-- Coluna Tech Stack (30%) -->
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <h3>🛠️ Tech Stack</h3>
@@ -70,11 +54,7 @@
     <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-          <td><img height="120" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td> <!-- xxxxx  -->
-        </tr>
-          <table width="100%" style="border-collapse: collapse; border: none;"> 
-        <tr>
-          <td><img  height="120"  src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"</td>
+          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
         </tr>
       </table>
     </td>
@@ -206,9 +186,13 @@ $ npx DELIRIO
 > 🔍 Analisando seu perfil...
 > ✅ 89% compatível com Cyberpunk Mode!
 ```
+
 </td>
 </tr>
 </table>
+
+  <img src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+
 
 <!-- funcao -->
 <details>
