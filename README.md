@@ -47,23 +47,6 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
     <!-- Primeiro elemento -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Streak Stats -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
-      <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
-        <img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/>
-      </div>
-    </td>
-    <!-- GitHub Profile Card -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
-     style="display: block; margin: 0 auto; width: 100%; height: 100%; object-fit: contain;"/>
-    </td>
-  </tr>
-</table>
-
-
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
     <!-- Streak Stats -->
@@ -74,7 +57,7 @@
       </div>
     </td>
     <!-- GitHub Profile Card -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+    <td width="43%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
            style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
     </td>
