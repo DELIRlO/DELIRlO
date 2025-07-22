@@ -21,7 +21,7 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-          <td> <img height="180" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="max-width: 100%;"/></td>
+          <td> <img height="160" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="max-width: 100%;"/></td>
           <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
            <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
           </td>
