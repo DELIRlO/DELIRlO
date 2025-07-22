@@ -1,26 +1,40 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
+<!-- lepo -->
+<!-- Efeito de terminal hacker -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=26&duration=4000&pause=1000&color=0:e61c9b,100:10002B&center=true&vCenter=true&width=600&lines=DELIRIO+%C3%89+A+REALIDADE+QUE+VC+N%C3%83O+ACREDITA" alt="Typing animation" />
+</div>
+<!-- lepo -->
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ```NodeJS | JavaScript | CSS3 | HTML5 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```**
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ``` NodeJS | JavaScript | CSS3 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
   <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
  </a></td></tr></table>
     
 <!-- tabela 1 em evidencia -->
-<table width="100%" style="border-collapse: collapse; border: none;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <td><img height="154em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077"/></td>
-          <td><img height="154em" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/>
-           <td><img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300"/></td>
-          </td>
-      </table>
+  <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
+  <tr>
+    <!-- GitHub Stats -->
+    <td width="34%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="154" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
+    <!-- Streak Stats -->
+    <td width="36%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
+    <!-- Top Languages -->
+    <td width="27%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
   </tr>
-<!-- tabela 1 em evidencia -->
+</table>
+<!-- ola -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
@@ -32,27 +46,23 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
-<!-- segundo element da tabela -->
-<table width="100%" style="border-collapse: collapse; border: none;">
+    <!-- Primeiro elemento -->
+<table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
-    <!-- Coluna Tech Stack (30%) -->
-    <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <h3>🛠️ Tech Stack</h3>
-      <table style="border: none;">
-        <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
-      </table>
+    <!-- Streak Stats -->
+    <td width="34%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+      <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077" 
+             style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
+      </div>
     </td>
-    <td width="70%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
-        </tr>
-      </table>
+    <!-- GitHub Profile Card -->
+    <td width="67%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
+           style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
     </td>
   </tr>
+</table>
 <!-- fim -->
 
 <div align="left">
@@ -114,15 +124,16 @@
   <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23141321?style=for-the-badge&logo=linkedin&logoColor=00FFC8" target="_blank"></a> 
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
-<a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=ysneshy&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
+<a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=delirlo&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
-[![Linkedin: DELIRlO](https://img.shields.io/badge/-ysneshy-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
+[![Linkedin: DELIRlO](https://img.shields.io/badge/-DELIRlO-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d.svg)](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d)
 ![Profile Views](https://komarev.com/ghpvc/?username=delirlo&color=red&style=flat)
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=delirlo-dev.delirlo&left_color=darkviolet&right_color=orchid" width="70" />
 <!-- coluna de linguagem -->
 | Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
 |-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
@@ -136,30 +147,46 @@
 | **Web**      | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Quasar](https://img.shields.io/badge/-Quasar-1976D2?logo=quasar&logoColor=white) | - | ⭐⭐⭐⭐⭐ | Estrutura Web | Páginas Estáticas |
 |             | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | - | - | ⭐⭐⭐⭐☆ | Estilização | Layouts Responsivos |
 <!-- coluna de linguagem -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo)
-
+<div align="center">
+  
+  [![delirlo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo) -->
 <!--cobrinha -->
-<picture align="center">
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
+</picture>
+ <table><tr><td>
+🏆 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
+
+<a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:30%"></a>
+<a href="https://github.com/iagocavalcante"><img src="https://github.com/iagocavalcante.png" width="75" style="border-radius:30%"></a>
+<a href="https://github.com/kbmbarreto"><img src="https://github.com/kbmbarreto.png" width="75" style="border-radius:30%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<!-- fim -->
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td>
-
+  
 ```diff
 + [================ CYBERPUNK MODE ACTIVATED ================]
 ! PRÉVIA 2025:
 @@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
 ```
-
 </td>
 <td>
 
 ```bash
-$ npx ysneshy
+$ npx DELIRIO
 > 🔍 Analisando seu perfil...
 > ✅ 89% compatível com Cyberpunk Mode!
 ```
@@ -167,10 +194,9 @@ $ npx ysneshy
 </td>
 </tr>
 </table>
-<!-- fim -->
 <!-- funcao -->
 <details>
-  <summary><b>:rocket: &nbsp;My Coding Time</b></summary>
+  <summary><b>:rocket: &nbsp;Meu Tempo de programacao click no foguete</b></summary>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2050%20mins-blue)
@@ -255,5 +281,7 @@ C#                       1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
   </details>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/> -->
 </div>
