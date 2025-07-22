@@ -149,15 +149,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DELIRlO/DELIRlO/output/github-contribution-grid-snake.svg">
 </picture> -->
- [![delirlo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo-dev&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <img src="https://streak-stats.demolab.com?user=eduardavieira-dev&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?delirlo-dev&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
-<!-- <picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg"> -->
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
 </picture>
  <table><tr><td>
 🏆 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
