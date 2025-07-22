@@ -29,7 +29,7 @@
       <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
     <!-- Top Languages -->
-    <td width="29%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+    <td width="25%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
       <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
   </tr>
