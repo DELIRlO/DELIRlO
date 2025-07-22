@@ -21,7 +21,7 @@
   <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
     <!-- GitHub Stats -->
-    <td width="33%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+    <td width="34%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
       <img height="154" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
     <!-- Streak Stats -->
