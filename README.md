@@ -46,7 +46,7 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
+<!-- ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp; -->
     <!-- Primeiro elemento -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
