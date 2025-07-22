@@ -41,17 +41,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![html5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logoColor=fff&logo=html5)&nbsp;
     <!-- Primeiro elemento -->
-    <table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="height: 200px;"> <!-- Altura da linha -->
+    <!-- Primeiro elemento -->
+    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none; height: 200px;">
       <img height="130" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto;"/>
     </td>
     <!-- Segundo elemento -->
-    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
-      <img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto;"/>
+    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none; height: 200px;">
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto; height: 180px;"/>
     </td>
   </tr>
-</table>
+</table>  
+
 <!-- fim -->
 
 <div align="left">
