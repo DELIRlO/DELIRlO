@@ -3,7 +3,7 @@
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=26&duration=4000&pause=1000&color=9745F5&center=true&vCenter=true&width=600&lines=DELIRIO+%C3%89+A+REALIDADE+QUE+VC+N%C3%83O+ACREDITA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=26&duration=4000&pause=1000&color=0:e61c9b,100:10002B&center=true&vCenter=true&width=600&lines=DELIRIO+%C3%89+A+REALIDADE+QUE+VC+N%C3%83O+ACREDITA" alt="Typing animation" />
 </div>
 <!-- lepo -->
 <table width="1260px">
@@ -144,7 +144,7 @@
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
 <a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=delirlo&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
-[![Linkedin: DELIRlO](https://img.shields.io/badge/-DELIRLO-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
+[![Linkedin: DELIRlO](https://img.shields.io/badge/-DELIRlO-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d.svg)](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d)
 ![Profile Views](https://komarev.com/ghpvc/?username=delirlo&color=red&style=flat)
