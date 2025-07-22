@@ -50,20 +50,19 @@
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
     <!-- Streak Stats -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+    <td width="34%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
       <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ysneshy&theme=2077" 
              style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
       </div>
     </td>
     <!-- GitHub Profile Card -->
-    <td width="68%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
+    <td width="67%" align="center" valign="middle" style="padding: 10px; border: none; height: 300px;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" 
            style="display: block; width: 100%; height: 100%; object-fit: contain;"/>
     </td>
   </tr>
 </table>
- 
 <!-- fim -->
 
 <div align="left">
