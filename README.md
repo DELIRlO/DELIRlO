@@ -43,13 +43,14 @@
     <!-- Primeiro elemento -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- Primeiro elemento (mantido igual) -->
+    <!-- Streak Stats (mantido o original) -->
     <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
       <img height="130" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto;"/>
     </td>
-    <!-- Segundo elemento com altura aumentada -->
+    
+    <!-- GitHub Profile Card (ALTURA AUMENTADA) -->
     <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
-      <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto;"/>
+      <img height="220" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077&height=220" style="display: block; margin: 0 auto;"/>
     </td>
   </tr>
 </table>
