@@ -47,7 +47,7 @@
       <h3>🛠️ Tech Stack</h3>
       <table style="border: none;">
         <tr><td><strong>Frontend</strong></td><td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;</td></tr>
-        <tr><td><strong>Backend</strong></td><td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp;&nbsp;</td></tr>
+        <tr><td><strong>Backend</strong></td><td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/>&nbsp;&nbsp;</td></tr>
         <tr><td><strong>Database</strong></td><td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;</td></tr>
       </table>
     </td>
@@ -56,7 +56,7 @@
           </td>
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+          <td></td>
         </tr>
       </table>
     </td>
