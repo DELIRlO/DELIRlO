@@ -41,7 +41,7 @@
     </td>
     <!-- Top Languages -->
     <td width="31%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
-      <img height="144" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
+      <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
   </tr>
 </table>
