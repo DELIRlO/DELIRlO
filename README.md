@@ -44,18 +44,18 @@
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <!-- Coluna Tech Stack (30%) -->
-    <td width="30%" valign="center" style="padding: 10px; border: none; vertical-align: top;">
-      <table style="border: none;">
-        <tr><img height="130" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /></td> &nbsp;&nbsp;</tr>
-      </table>
-    <td width="30%" valign="center" style="padding: 10px; border: none; vertical-align: top;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <tr>
-          <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/>
-        </tr>
-      </table>
+   <table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- Primeiro elemento -->
+    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
+      <img height="130" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto;"/>
+    </td>
+    <!-- Segundo elemento -->
+    <td width="50%" align="center" valign="middle" style="padding: 10px; border: none;">
+      <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077" style="display: block; margin: 0 auto;"/>
     </td>
   </tr>
+</table>
 <!-- fim -->
 
 <div align="left">
