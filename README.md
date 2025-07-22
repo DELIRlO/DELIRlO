@@ -129,6 +129,7 @@
 [![GitHub DELIRlO]( https://img.shields.io/github/followers/delirlo?label=follow&style=social)](https://github.com/delirlo/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/delirio?style=square)
 ![Stars](https://img.shields.io/github/stars/delirlo?style=flat-square)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=delirlo-dev.delirlo&left_color=darkviolet&right_color=orchid" width="80" />
 <!-- coluna de linguagem -->
 | Área        | Linguagem       | Framework    | Sistema       | Nível  | Finalidade          | Uso Típico          |
 |-------------|-----------------|--------------|---------------|--------|---------------------|---------------------|
