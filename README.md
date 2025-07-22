@@ -45,13 +45,13 @@
     <!-- Coluna Tech Stack (30%) -->
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table style="border: none;">
-        <tr><td><strong><img src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /></strong></td> &nbsp;&nbsp;</tr>
+        <tr><td><strong><img height="60" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /></strong></td> &nbsp;&nbsp;</tr>
       </table>
     </td>
     <td width="30%" valign="top" style="padding: 10px; border: none; vertical-align: top;">
       <table width="100%" style="border-collapse: collapse; border: none;">
         <tr>
-          <td><img height="160" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
+          <td><img height="100" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DELIRlO&theme=2077"/></td>
         </tr>
       </table>
     </td>
