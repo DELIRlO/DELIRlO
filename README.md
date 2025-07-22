@@ -154,7 +154,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/delirlo/delirlo/output/pacman-contribution-graph.svg">
 </picture>
-###
 <table>
 <tr>
 <td>
@@ -164,7 +163,6 @@
 ! PRÉVIA 2025:
 @@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
 ```
-
 </td>
 <td>
 
