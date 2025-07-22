@@ -29,6 +29,24 @@
   </tr>
 <!-- tabela 1 em evidencia -->
 
+  <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
+  <tr>
+    <!-- GitHub Stats -->
+    <td width="33%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="154" src="https://github-readme-stats.vercel.app/api?username=ysneshy&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
+    <!-- Streak Stats -->
+    <td width="33%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="160" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
+    <!-- Top Languages -->
+    <td width="33%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysneshy&layout=compact&show_icons=true&title_color=FF0055&text_color=00FFC8&icon_color=FCEE0C&bg_color=141321&cache_seconds=2300" style="display: block; margin: 0 auto; max-width: 100%;"/>
+    </td>
+  </tr>
+</table>
+<!-- ola -->
+
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
