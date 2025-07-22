@@ -49,15 +49,6 @@
     <!-- Primeiro elemento -->
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <!-- Tech Stack (simplificado) -->
-    <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
-      <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
-        <h3 style="margin: 0;">🛠️ Tech Stack</h3>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-      </div>
-    </td>
     <!-- Streak Stats -->
     <td width="33%" align="center" valign="middle" style="padding: 10px; border: none; height: 400px;">
       <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
