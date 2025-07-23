@@ -192,13 +192,15 @@ JavaScript █████░░░░░░░░░░░ 58m  (15.80%)
 Other      ███░░░░░░░░░░░░░ 37m  (10.09%)
 JSON       ██░░░░░░░░░░░░░░ 31m  (08.56%)
 </td>
-</tr> </table>
+</tr> 
 ```
+</table>
 <!--END_SECTION:waka-->
 
 <!-- funcao -->
 <p style="text-align: left;">
 <details>
+  
   <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
 
 # 🚀 Meu Perfil de Desenvolvedor
