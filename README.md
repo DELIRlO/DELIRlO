@@ -68,7 +68,7 @@
 <div align="left">
 <table>
   <tr>
-    <td valign="height" width="35%">
+    <td valign="height" width="32%">
       <pre>
 ┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├─────────────▰▰▰
 │
@@ -82,7 +82,7 @@
 └────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="35%">
+    <td valign="top" width="32%">
       <pre>
 ┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├───────────▰▰▰
 │
@@ -96,7 +96,7 @@
 └────────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="30%">
+    <td valign="top" width="28%">
       <pre>
 ┌──┤ <span style="color:#9D00FF">SKILLS</span> ├────────────▰▰▰
 │
