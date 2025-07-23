@@ -210,7 +210,7 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
