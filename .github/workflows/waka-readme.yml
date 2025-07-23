@@ -10,13 +10,13 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # CRUCIAL para atualizar o README
+      contents: write
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Importante para o histórico
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -24,10 +24,10 @@ jobs:
           node-version: '18'
 
       - name: Run WakaTime Stats
-        uses: anmol098/waka-readme-stats@master  # Usando a branch master ou uma versão específica mais recente
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "false"
+          # REMOVIDO: SHOW_TITLE não é um parâmetro válido
           SHOW_OS: "true"
           LOCALE: "pt"
           SHOW_LINES_OF_CODE: "true"
