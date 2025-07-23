@@ -105,7 +105,7 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
 │
-└────────────────────────▰▰▰ <!-- $~~~~~~~~$ -->
+└────────────────────────▰▰▰ <!-- $~~~~~~~~~~~~~~$ -->
       </pre>
     </td>
   </tr>
