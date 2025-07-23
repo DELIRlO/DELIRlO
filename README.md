@@ -171,17 +171,28 @@
 </tr>
 </table>
 <table>
-  <tr>
-    <td width="50%" valign="top" style="border-right: 1px dashed #00ff99; padding-right: 15px; font-family: 'Courier New', monospace; color: #00ff99; text-shadow: 0 0 5px #00ff99; background: #121212;">
-    
+<tr>
+<td>
+  
 ```diff
-+ [============ CYBERPUNK MODE ============]
-! SYSTEM REPORT 2025:
-@@  PROFILE SYNC: 89% WITH NIGHT CITY @@
-- WARNING: NEON OVERLOAD DETECTED
++ [================ CYBERPUNK MODE ACTIVATED ================]
+! PRÉVIA 2025:
+@@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
 ```
 </td>
-<td width="50%" valign="top" style="padding-left: 15px; font-family: 'Courier New', monospace; color: #00ff99; text-shadow: 0 0 5px #00ff99; background: #121212;">
+<td>
+
+```bash
+$ npx DELIRIO
+> 🔍 Analisando seu perfil...
+> ✅ 89% compatível com Cyberpunk Mode!
+```
+
+</td>
+</tr>
+</table>
+
+
 <!--START_SECTION:waka-->
 
 ```rust
