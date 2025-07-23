@@ -208,33 +208,6 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
-# 🚀 Meu Perfil de Desenvolvedor
-
-## ⏳ Tempo de Programação (Atualizado Automaticamente)
-<!--START_SECTION:waka-->
-**📊 Estatísticas da Semana**  
-**Tempo Total:** 5 hrs 34 mins  
-
-| Linguagem  | Barra                          | Porcentagem |
-|------------|--------------------------------|-------------|
-| HTML       | ████████████████░░░░░░░░░░     | 30.49%      |
-| Markdown   | █████████████░░░░░░░░░░░░░     | 24.71%      |
-| JavaScript | ████████░░░░░░░░░░░░░░░░░░     | 15.80%      |
-
-**🔧 Top Linguagens:**  
-- HTML (30.49%)  
-- Markdown (24.71%)  
-- JavaScript (15.80%)  
-- Other (10.09%)  
-- JSON (8.56%)  
-
-**🛠️ Ferramentas:**  
-- **Editor:** VS Code  
-- **Sistema:** Windows  
-- **Categoria Principal:** Coding  
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🛠️ Habilidades Técnicas
