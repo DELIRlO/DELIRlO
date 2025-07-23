@@ -37,3 +37,4 @@ jobs:
           # Configurações opcionais
           COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"      # Blocos de progresso personalizados
+          LOCALE: "br"
