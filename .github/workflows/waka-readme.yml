@@ -3,33 +3,20 @@ name: WakaTime Stats Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'  # Executa ao meio-dia UTC (9h BR)
+    - cron: '0 12 * * *'
 
 jobs:
-  update-readme:
-    name: Update WakaTime Stats
+  update-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+    
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Run WakaTime Stats
-        uses: anmol098/waka-readme-stats@main  # Usando a branch main diretamente
+      - uses: actions/checkout@v4
+        
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: "true"
-          LOCALE: "pt"
-          SHOW_LINES_OF_CODE: "true"
-          SHOW_PROFILE_VIEWS: "true"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
