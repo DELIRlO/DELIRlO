@@ -82,7 +82,7 @@
     </td>
     <td valign="top" width="35%">
       <pre>
-┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├─────────▰▰▰
+┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├───────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
@@ -91,12 +91,12 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
 │
-└──────────────────────────▰▰▰
+└────────────────────────────▰▰▰
       </pre>
     </td>
     <td valign="top" width="30%">
       <pre>
-┌──┤ <span style="color:#9D00FF">SKILLS</span> ├─────────▰▰▰
+┌──┤ <span style="color:#9D00FF">SKILLS</span> ├───────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML/CSS
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript
@@ -105,7 +105,7 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
 │
-└────────────────────────▰▰▰ <!-- $~~~~~~~~~~~~~~$ -->
+└──────────────────────────▰▰▰ <!-- $~~~~~~$ -->
       </pre>
     </td>
   </tr>
