@@ -35,7 +35,7 @@
 </table>
 <!-- ola -->
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-FEAE32?style=flat&logoColor=fff&logo=flutter)&nbsp;
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
@@ -47,7 +47,8 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
                                           
-    <!-- Primeiro elemento -->
+<!-- Primeiro elemento -->
+    
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
     <!-- Streak Stats -->
@@ -117,11 +118,9 @@
     <table><tr><td>
     <!-- ola -->
     
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=delirlo&theme=gotham&hide_border=true&area=true)</td></tr></table> -->
-
   <a href="https://www.youtube.com/channel/UCiZ5qCAO5aATSZD8XjLz1pQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23141321?style=for-the-badge&logo=youtube&logoColor=00FFC8" target="_blank"></a>
   <a href="https://instagram.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23141321?style=for-the-badge&logo=instagram&logoColor=00FFC8" target="_blank"></a>
-  <!-- <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a> -->
+  <a href = "mailto:ysneshy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23141321?style=for-the-badge&logo=gmail&logoColor=00FFC8" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/ysneshy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23141321?style=for-the-badge&logo=linkedin&logoColor=00FFC8" target="_blank"></a> 
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
 <a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=delirlo&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
