@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
@@ -33,7 +32,6 @@
   </tr>
 </table>
 <!-- ola -->
-<div align="center">
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
@@ -46,7 +44,6 @@
 ![flutter](https://img.shields.io/badge/-flutter-e44d26?style=flat&logoColor=fff&logo=flutter)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-ff0000?style=flat&logoColor=fff&logo=C++)&nbsp;
 <!-- ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp; -->                                
-</div>
     
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
