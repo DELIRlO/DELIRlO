@@ -246,14 +246,15 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 ---
 
 ## 📈 Estatísticas GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&hide_border=true&theme=default)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&hide_border=true)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&hide_border=true&theme=2077)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&hide_border=true&theme=2077)
 
 ---
 
 ## 📌 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ysneshy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ysneshys)
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/> -->
