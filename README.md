@@ -200,7 +200,7 @@ $ npx DELIRIO
   
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 HTML         1 hr 53 mins    ███████▓░░░░░░░░░░░░░░░░░   30.49 %
 Markdown     1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
 JavaScript   58 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
