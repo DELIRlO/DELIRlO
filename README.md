@@ -193,6 +193,13 @@ $ npx DELIRIO
 </table>
 
 
+<!-- funcao -->
+<p style="text-align: left;">
+<details>
+  <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
+
+# 🚀 Meu Perfil de Desenvolvedor
+  
 <!--START_SECTION:waka-->
 
 ```rust
