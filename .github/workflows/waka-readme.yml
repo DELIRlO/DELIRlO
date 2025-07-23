@@ -24,7 +24,7 @@ jobs:
           node-version: '18'
 
       - name: Run WakaTime Stats
-        uses: anmol098/waka-readme-stats@v5.2
+        uses: anmol098/waka-readme-stats@master  # Usando a branch master ou uma versão específica mais recente
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: "false"
