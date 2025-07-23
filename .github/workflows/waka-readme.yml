@@ -2,8 +2,8 @@ name: Update README with WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Executa diariamente à meia-noite UTC (21:00 -03)
-  workflow_dispatch: # Permite execução manual
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -12,7 +12,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: Update README with WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol098/waka-readme-stats@v2.7.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_TRAFFIC: "false" # Tenta desativar métricas de tráfego, se suportado
