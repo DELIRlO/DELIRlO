@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write    # Permite editar o README
-      pull-requests: write  # Opcional para PRs
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -18,30 +18,22 @@ jobs:
       - name: Update README with WakaTime Stats
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Nome correto da secret
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}                  # Nome correto da secret
+          # Configurações obrigatórias
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Configurações básicas
           SHOW_TITLE: "false"            # Remove título padrão
-          SHOW_EDITORS: "true"           # Mostra editores (ex: VS Code)
+          SHOW_EDITORS: "true"           # Mostra editores (VS Code)
           SHOW_OS: "true"                # Mostra sistemas operacionais
           SHOW_CATEGORIES: "true"        # Mostra categorias
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: delirlo/ # optional
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: main # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: delirlo # optional
-          AUTHOR_EMAIL: ysneshy@gMAIL.com # optional
-          # you can populate email-id with secrets instead
+          
+          # Configurações recomendadas
+          TIME_RANGE: all_time           # Mostra dados acumulados
+          LANG_COUNT: 5                  # Top 5 linguagens (mude para 10 se preferir)
+          SHOW_TIME: "true"              # Mostra tempo total
+          SECTION_NAME: "waka"           # Seção no README <!--START_SECTION:waka-->
+          
+          # Configurações opcionais
+          COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
+          BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"      # Blocos de progresso personalizados
