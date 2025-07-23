@@ -68,9 +68,9 @@
 <div align="left">
 <table>
   <tr>
-    <td valign="height" width="32%">
+    <td valign="height" width="35%">
       <pre>
-┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├──────────▰▰▰
+┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├───────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <a href="https://twitter.com/ysneshy">Twitter</a> <small></small>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a> <small></small>
@@ -79,12 +79,12 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16"/> <a href="https://instagram.com/ysneshy">Instagram</a> <small></small>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site</a> <small></small>
 │
-└─────────────────────────▰▰▰
+└──────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="32%">
+    <td valign="top" width="35%">
       <pre>
-┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├────────▰▰▰
+┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├─────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
@@ -93,10 +93,10 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
 │
-└─────────────────────────▰▰▰
+└──────────────────────────▰▰▰
       </pre>
     </td>
-    <td valign="top" width="28%">
+    <td valign="top" width="30%">
       <pre>
 ┌──┤ <span style="color:#9D00FF">SKILLS</span> ├─────────▰▰▰
 │
@@ -126,7 +126,7 @@
   <a href="https://www.facebook.com/ysneshy" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23141321?style=for-the-badge&logo=facebook&logoColor=00FFC8" target="_blank"></a>
 <a href="https://github.com/delirlo"> <img src="https://img.shields.io/static/v1?&label=Reload&message=delirlo&color=%23141321&style=for-the-badge&logo=GitHub&logoColor=00FFC8&labelColor=141321">
  </br>
-[![Linkedin: DELIRlO](https://img.shields.io/badge/-DELIRlO-%23141321?style=flat-square&logo=Linkedin&logoColor=00FFC8&link=https://www.linkedin.com/in/ysneshy/)](https://www.linkedin.com/in/ysneshy/)
+ 
 [![Gmail Badge](https://img.shields.io/badge/-ysneshy@gmail.com-%23141321?style=flat-square&logo=Gmail&logoColor=00FFC8&link=mailto:ysneshy@gmail.com)](mailto:ysneshy@gmail.com)
 [![wakatime](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d.svg)](https://wakatime.com/badge/user/0cad2f25-f040-477b-a31b-fb2637babf9b/project/6cd75ab1-a2f7-4ed2-b86b-befee9eb030d)
 ![Profile Views](https://komarev.com/ghpvc/?username=delirlo&color=red&style=flat)
