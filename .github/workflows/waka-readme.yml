@@ -1,23 +1,16 @@
-name: Build Graph
-# Visit https://github.com/avinal/Profile-Readme-WakaTime for more description about this GitHub Action.
+name: Update README with WakaTime Stats
 
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '1 0 * * *'
+    - cron: '0 0 * * *' # Executa diariamente à meia-noite UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
-      # Do not change the line below except the word master with tag number maybe
-      - uses: delirlo/Profile-Readme-WakaTime@master
+      - uses: actions/checkout@v3
+      - uses: delirlo/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
-          BRANCH: "main"
-          COMMIT_MSG: "new stats received :dog:"
-          STATS_RANGE: last_30_days
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
