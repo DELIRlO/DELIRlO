@@ -1,35 +1,38 @@
 name: WakaTime Stats Update
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Permite execução manual
   schedule:
-    - cron: '0 12 * * *'  # Executa ao meio-dia UTC (9h BR)
+    - cron: '0 12 * * *'  # Executa diariamente ao meio-dia UTC (9h BR)
 
 jobs:
-  update-readme:
+  update-stats:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # Permite atualizar o README.md
 
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Importante para histórico de commits
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: '18'  # Versão compatível com a ação
 
-      - name: Run WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@v5.1.0  # Versão estável confirmada
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # REMOVIDO: SHOW_TITLE não é um parâmetro válido
-          SHOW_OS: "true"
-          LOCALE: "pt"
-          SHOW_LINES_OF_CODE: "true"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Chave da API do WakaTime
+          LOCALE: "pt"  # Define o idioma para português
+          SHOW_OS: "true"  # Mostra o sistema operacional
+          SHOW_LINES_OF_CODE: "true"  # Exibe linhas de código
+          SHOW_PROFILE_VIEWS: "true"  # Mostra visualizações do perfil (opcional)
+          # Outros parâmetros úteis (opcionais):
+          # SHOW_EDITORS: "true"  # Editores usados
+          # SHOW_LANGUAGE: "true"  # Linguagens mais usadas
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token para atualizar o README
