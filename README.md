@@ -194,7 +194,9 @@ $ npx DELIRIO
 <!-- funcao -->
 <p style="text-align: left;">
 <details>
-  <summary><b>:rocket: &nbsp;Meu Tempo de programacao click no foguete</b></summary>
+  <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
+
+# 🚀 Meu Perfil de Desenvolvedor
   
 <!--START_SECTION:waka-->
 
@@ -208,14 +210,10 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# 🚀 Meu Perfil de Desenvolvedor
-
 ## ⏳ Tempo de Programação (Atualizado Automaticamente)
 <!--START_SECTION:waka-->
 **📊 Estatísticas da Semana**  
 **Tempo Total:** 5 hrs 34 mins  
-
-
 
 **🔧 Linguagens Mais Usadas:**  
 - HTML        ████████████████░░░░░░░░░░ 30.49%  
@@ -254,6 +252,7 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 ---
 
 ## 📈 Estatísticas GitHub
+
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&hide_border=true&theme=dark)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&hide_border=dark)
 
