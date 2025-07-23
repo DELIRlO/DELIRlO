@@ -183,29 +183,6 @@
 </td>
 <td width="50%" valign="top" style="padding-left: 15px; font-family: 'Courier New', monospace; color: #00ff99; text-shadow: 0 0 5px #00ff99; background: #121212;">
 <!--START_SECTION:waka-->
-  
-```rust
-// CODING ACTIVITY [LAST 7 DAYS]
-HTML       ████████████░░░░ 1h53m (30.49%) 
-Markdown   █████████░░░░░░░ 1h31m (24.71%)
-JavaScript █████░░░░░░░░░░░ 58m  (15.80%)
-Other      ███░░░░░░░░░░░░░ 37m  (10.09%)
-JSON       ██░░░░░░░░░░░░░░ 31m  (08.56%)
-```
-</td>
-</tr> 
-</table>
-<!--END_SECTION:waka-->
-
-<!-- funcao -->
-<p style="text-align: left;">
-<details>
-  
-  <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
-
-# 🚀 Meu Perfil de Desenvolvedor
-  
-<!--START_SECTION:waka-->
 
 ```rust
 HTML         1 hr 53 mins    ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.49 %
