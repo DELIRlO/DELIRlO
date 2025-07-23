@@ -192,6 +192,7 @@ $ npx DELIRIO
 </tr>
 </table>
 <!-- funcao -->
+<p style="text-align: left;">
 <details>
   <summary><b>:rocket: &nbsp;Meu Tempo de programacao click no foguete</b></summary>
   
@@ -206,7 +207,7 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
   </details>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
