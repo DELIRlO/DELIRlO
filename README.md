@@ -9,7 +9,6 @@
 <table width="1260px">
 <tr>
 <td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/ysneshy/ysneshy/blob/main/charts/RQt6.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
-
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ``` NodeJS | JavaScript | CSS3 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```
@@ -34,7 +33,7 @@
   </tr>
 </table>
 <!-- ola -->
-
+<div align="center">
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
@@ -46,7 +45,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-e44d26?style=flat&logoColor=fff&logo=flutter)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-ff0000?style=flat&logoColor=fff&logo=C++)&nbsp;
-<!-- ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp; -->                              
+<!-- ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp; -->                                
+</div>
     
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
