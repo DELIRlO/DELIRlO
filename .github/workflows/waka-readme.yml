@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         
       - name: Update WakaTime Stats
-        uses: anmol098/waka-readme-stats@main
+        uses: delirlo/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         env:
