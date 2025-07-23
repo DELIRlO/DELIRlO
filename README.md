@@ -171,30 +171,31 @@
 </tr>
 </table>
 <table>
-<tr>
-<td>
-  
+  <tr>
+    <td width="50%" valign="top" style="border-right: 1px dashed #00ff99; padding-right: 15px; font-family: 'Courier New', monospace; color: #00ff99; text-shadow: 0 0 5px #00ff99; background: #121212;">
+    
 ```diff
-+ [================ CYBERPUNK MODE ACTIVATED ================]
-! PRÉVIA 2025:
-@@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
++ [============ CYBERPUNK MODE ============]
+! SYSTEM REPORT 2025:
+@@  PROFILE SYNC: 89% WITH NIGHT CITY @@
+- WARNING: NEON OVERLOAD DETECTED
 ```
 </td>
-<td>
+<td width="50%" valign="top" style="padding-left: 15px; font-family: 'Courier New', monospace; color: #00ff99; text-shadow: 0 0 5px #00ff99; background: #121212;">
 <!--START_SECTION:waka-->
   
 ```rust
-HTML         1 hr 53 mins    ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.49 %
-Markdown     1 hr 31 mins    ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.71 %
-JavaScript   58 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.80 %
-Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.09 %
-JSON         31 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.56 %
+// CODING ACTIVITY [LAST 7 DAYS]
+HTML       ████████████░░░░ 1h53m (30.49%) 
+Markdown   █████████░░░░░░░ 1h31m (24.71%)
+JavaScript █████░░░░░░░░░░░ 58m  (15.80%)
+Other      ███░░░░░░░░░░░░░ 37m  (10.09%)
+JSON       ██░░░░░░░░░░░░░░ 31m  (08.56%)
+</td>
+</tr> </table>
 ```
 <!--END_SECTION:waka-->
 
-</td>
-</tr>
-</table>
 <!-- funcao -->
 <p style="text-align: left;">
 <details>
