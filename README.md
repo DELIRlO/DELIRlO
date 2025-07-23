@@ -242,7 +242,6 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 <div align="center">
   
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&theme=dark)
-  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&theme=dark)
 
 </div>
