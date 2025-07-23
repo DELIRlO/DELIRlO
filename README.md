@@ -46,7 +46,7 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-e44d26?style=flat&logoColor=fff&logo=flutter)&nbsp;
-![C#](https://img.shields.io/badge/-C#-FF0000?style=flat&logoColor=fff&logo=C#)&nbsp;
+![C](https://img.shields.io/badge/-C-ff0000?style=flat&logoColor=fff&logo=C)&nbsp;
                                           
 <!-- Primeiro elemento -->
     
