@@ -174,7 +174,7 @@
 <tr>
 <td>
   
-```diff
+```rust
 + [================ CYBERPUNK MODE ACTIVATED ================]
 ! PRÉVIA 2025:
 @@  SEU PERFIL JÁ ESTÁ 89% COMPATÍVEL COM O ESTILO NIGHT CITY  @@
@@ -250,16 +250,6 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 - JSON, YAML  
 
 ---
-
-<div style="display: flex; gap: 20px;">
-  <div>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-  </div>
-  <div>
-    ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=delirlo)
-  </div>
-</div>
 
 ## 📈 Estatísticas GitHub
 
