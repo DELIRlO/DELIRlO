@@ -24,3 +24,24 @@ jobs:
           SHOW_EDITORS: "true"           # Mostra editores (ex: VS Code)
           SHOW_OS: "true"                # Mostra sistemas operacionais
           SHOW_CATEGORIES: "true"        # Mostra categorias
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: delirlo/ # optional
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: delirlo # optional
+          AUTHOR_EMAIL: ysneshy@gMAIL.com # optional
+          # you can populate email-id with secrets instead
