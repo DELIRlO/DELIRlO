@@ -68,7 +68,7 @@
   <tr>
     <td valign="height" width="35%">
       <pre>
-┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├───────────▰▰▰
+┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├─────────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <a href="https://twitter.com/ysneshy">Twitter</a> <small></small>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a> <small></small>
@@ -77,7 +77,7 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16"/> <a href="https://instagram.com/ysneshy">Instagram</a> <small></small>
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site</a> <small></small>
 │
-└──────────────────────────▰▰▰
+└────────────────────────────▰▰▰
       </pre>
     </td>
     <td valign="top" width="35%">
