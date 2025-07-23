@@ -206,6 +206,47 @@ Other        37 mins         ██▓░░░░░░░░░░░░░░
 JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
+# 🚀 Meu Perfil de Desenvolvedor
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark)](https://git.io/streak-stats)
+  
+</div>
+
+## ⏳ Tempo de Programação (Atualizado Automaticamente)
+
+<!--START_SECTION:waka-->
+**📊 Estatísticas da Semana** 
+
+⌚ **Tempo Total:** 5 hrs 34 mins
+
+**🔧 Linguagens Mais Usadas:**  
+- HTML ████████████████░░░░░░░░░░ 30.49%  
+- Markdown █████████████░░░░░░░░░░░░░ 24.71%  
+- JavaScript ████████░░░░░░░░░░░░░░░░░░ 15.80%  
+- Other █████░░░░░░░░░░░░░░░░░░░░░ 10.09%  
+- JSON ████░░░░░░░░░░░░░░░░░░░░░░ 08.56%  
+
+**💻 Editor Principal:** VS Code  
+**🖥️ Sistema Operacional:** Windows  
+**📌 Categoria Principal:** Coding  
+<!--END_SECTION:waka-->
+
+## 🛠️ Habilidades Técnicas
+- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Ferramentas:** Git, VS Code, GitHub
+- **Outros:** Markdown, JSON
+
+## 📈 Estatísticas do GitHub
+<div align="center">
+  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+
+</div>
+
 <!--END_SECTION:waka-->
 </p>
   </details>
