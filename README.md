@@ -241,9 +241,9 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 ## 📈 Estatísticas do GitHub
 <div align="center">
   
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&theme=dark)
   
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&theme=dark)
 
 </div>
 
