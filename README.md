@@ -251,6 +251,16 @@ JSON         31 mins         ██░░░░░░░░░░░░░░░
 
 ---
 
+<div style="display: flex; gap: 20px;">
+  <div>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </div>
+  <div>
+    ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=delirlo)
+  </div>
+</div>
+
 ## 📈 Estatísticas GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&hide_border=true&theme=dark)
