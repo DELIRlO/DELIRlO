@@ -1,3 +1,11 @@
+[![Clique aqui para fork](https://img.shields.io/badge/🔓_Desbloqueie_o_código-Fork_agora!-brightgreen)](https://github.com/delirlo/seu-repo/fork)
+<div align="center">
+  ```diff
+  ! ANTES DE ACESSAR O CÓDIGO:
+  + Considere dar um fork para experimentar localmente!
+  + Isso ajuda no crescimento do projeto :)
+</div>```
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
