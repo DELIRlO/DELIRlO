@@ -4,7 +4,7 @@
   ! ANTES DE ACESSAR O CÓDIGO:
   + Considere dar um fork para experimentar localmente!
   + Isso ajuda no crescimento do projeto :)
-</div>```
+```</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
 <!-- lepo -->
