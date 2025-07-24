@@ -211,7 +211,16 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-->
+**Tempo de Codificação (Semanal):**  
+📅 5h 34min (36.5% produtividade)  
+🔧 HTML: 1h53min | Python: 2h12min (etc.)
 
+**GitHub (2025):**  
+⭐ 13 Stars | 📌 2 PRs | 🛠️ 744 Commits  
+🌍 Contribuições Públicas: 0 (verifique repositórios privados)
+
+<!--END_SECTION:waka-->
 
 
 ## 📈 Estatísticas GitHub
