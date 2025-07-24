@@ -19,34 +19,27 @@ jobs:
       - name: Update README with WakaTime Stats
         uses: athul/waka-readme@master
         with:
-          # Configurações obrigatórias
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          # Configurações básicas
-          SHOW_TITLE: "false"            # Remove título padrão
-          SHOW_EDITORS: "true"           # Mostra editores (ex: VS Code)
-          SHOW_OS: "true"                # Mostra sistemas operacionais
-          SHOW_CATEGORIES: "true"        # Mostra categorias
-          SHOW_LOCATION: "true"          # Mostra localização
-          SHOW_EMAIL: "true"             # Mostra e-mail
-          SHOW_WEBSITE: "true"           # Mostra website
-          SHOW_JOINED_DATE: "true"       # Mostra data de cadastro
-
-          # Configurações de exibição
-          TIME_RANGE: all_time           # Período dos dados
-          LANG_COUNT: 10                 # Número de linguagens
-          SHOW_TIME: "true"              # Mostra tempo total
-          SHOW_TOTAL: "true"             # Mostra contagem total
-          SHOW_MASKED_TIME: "false"      # Oculta tempo mascarado
-          STOP_AT_OTHER: "true"          # Para em "Other"
-          SECTION_NAME: "waka"           # Seção no README
-          LOCALE: "br"                   # Localização BR
-
-          # Personalização avançada
-          CODE_LANG: "rust"              # Estilo de código
-          BLOCKS: "▱▰"                   # Blocos personalizados
-          IGNORED_LANGUAGES: "YAML,JSON,TOML"  # Linguagens ignoradas
+          SHOW_TITLE: "false"
+          SHOW_EDITORS: "true"
+          SHOW_OS: "true"
+          SHOW_CATEGORIES: "true"
+          SHOW_LOCATION: "true"
+          SHOW_EMAIL: "true"
+          SHOW_WEBSITE: "true"
+          SHOW_JOINED_DATE: "true"
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "true"
+          SHOW_MASKED_TIME: "false"
+          STOP_AT_OTHER: "true"
+          SECTION_NAME: "waka"
+          LOCALE: "br"
+          CODE_LANG: "rust"
+          BLOCKS: "▱▰"
+          IGNORED_LANGUAGES: "YAML,JSON,TOML"
           COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
-          TARGET_BRANCH: "main"          # Branch alvo
-          TARGET_PATH: "README.md"       # Arquivo alvo
+          TARGET_BRANCH: "main"
+          TARGET_PATH: "README.md"
