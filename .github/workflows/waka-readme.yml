@@ -50,3 +50,11 @@ jobs:
           COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
           TARGET_BRANCH: "main"          # Branch alvo
           TARGET_PATH: "README.md"       # Arquivo alvo
+- name: Update README
+  uses: athul/waka-readme@master
+  with:
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    SECTION_NAME: "waka"  # Deve bater com <!--START_SECTION:waka-->
+    TARGET_PATH: "README.md"  # Especifica o arquivo exato
+    PRESERVE_EXTRA_SECTIONS: true  # 🔥 Opção crucial que protege outras seções
