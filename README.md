@@ -229,12 +229,6 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 <!--END_SECTION:waka-->
 
 
-## 📈 Estatísticas GitHub
-
-
-# Meu Perfil GitHub
-
-
 ---
 
 ## 📌 Contato
