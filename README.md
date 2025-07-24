@@ -6,6 +6,8 @@
   + Isso ajuda no crescimento do projeto :)
 ```</div>
 
+[![Fork Required](https://img.shields.io/badge/🚀_Acesso_Experimental-Fork_Recomendado-blueviolet?style=for-the-badge&logo=github)](https://github.com/delirlo/seu-repo/fork)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e61c9b,100:10002B"/>
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
