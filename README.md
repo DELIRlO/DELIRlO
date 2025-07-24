@@ -212,6 +212,7 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 <!--END_SECTION:waka-->
 
 <img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
+
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
 
