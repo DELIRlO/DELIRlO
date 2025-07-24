@@ -24,6 +24,7 @@
     </td>
     <!-- Streak Stats -->
     <td width="36%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
+      [![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
     <!-- Top Languages -->
@@ -214,6 +215,8 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 <img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+   <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
 
 
 
