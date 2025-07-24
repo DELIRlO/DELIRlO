@@ -211,6 +211,9 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 <!--END_SECTION:waka-->
 
+<img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/bf64cf5f-b3d4-46cc-8f3c-d470a773c85e" />
+
+
 <!--START_SECTION:waka-->
 **Tempo de Codificação (Semanal):**  
 📅 5h 34min (36.5% produtividade)  
