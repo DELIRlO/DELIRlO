@@ -201,29 +201,13 @@ $ npx DELIRIO
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 5 hrs 34 mins
+Total Time: 5 hrs 57 mins
 
-HTML         1 hr 53 mins    ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.49 %
-Markdown     1 hr 31 mins    ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.71 %
-JavaScript   58 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.80 %
-Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.09 %
+HTML         1 hr 53 mins    ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   28.73 %
+Markdown     1 hr 43 mins    ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   26.17 %
+JavaScript   58 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   14.88 %
+Other        37 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   09.50 %
 ```
-
-<!--END_SECTION:waka-->
-
-<img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
-
-<!--START_SECTION:waka-->
-**Tempo de Codificação (Semanal):**  
-📅 5h 34min (36.5% produtividade)  
-🔧 HTML: 1h53min | Python: 2h12min (etc.)
-
-**GitHub (2025):**  
-⭐ 13 Stars | 📌 2 PRs | 🛠️ 744 Commits  
-🌍 Contribuições Públicas: 0 (verifique repositórios privados)
 
 <!--END_SECTION:waka-->
 
