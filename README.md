@@ -234,10 +234,6 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 # Meu Perfil GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=dark)](https://git.io/streak-stats)  
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
