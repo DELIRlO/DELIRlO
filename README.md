@@ -213,9 +213,6 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 <img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
    <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
 
 
@@ -234,8 +231,8 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 ## 📈 Estatísticas GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&hide_border=true&theme=dark)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&hide_border=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delirlo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirlo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
