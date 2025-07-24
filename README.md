@@ -201,54 +201,13 @@ $ npx DELIRIO
 <!--START_SECTION:waka-->
 
 ```rust
+Total Time: 5 hrs 34 mins
+
 HTML         1 hr 53 mins    ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.49 %
 Markdown     1 hr 31 mins    ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   24.71 %
 JavaScript   58 mins         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.80 %
 Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.09 %
-JSON         31 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   08.56 %
 ```
-
-<!--END_SECTION:waka-->
-
----
-
-## 🛠️ Habilidades Técnicas
-**Linguagens:**  
-- HTML, CSS, JavaScript  
-- Python, Markdown  
-
-**Ferramentas:**  
-- Git, GitHub  
-- VS Code  
-
-**Outros:**  
-- JSON, YAML  
-
----
-
-
-
-## 🕒 Minhas Estatísticas de Código
-
-<!--START_SECTION:waka-->
-```text
-⏳ **Tempo Total de Codificação:** 127 hrs 32 mins
-
-📊 **Top Linguagens:**
-1. JavaScript   ████████████████░░░░░░░░░ 42.8% (54 hrs 36 mins)
-2. Python       ████████████░░░░░░░░░░░░░ 32.1% (40 hrs 54 mins)
-3. TypeScript   ███████░░░░░░░░░░░░░░░░░░ 15.3% (19 hrs 30 mins)
-4. HTML         ████░░░░░░░░░░░░░░░░░░░░░ 05.7% (07 hrs 15 mins)
-5. CSS          ██░░░░░░░░░░░░░░░░░░░░░░░ 03.2% (04 hrs 03 mins)
-6. Rust         █░░░░░░░░░░░░░░░░░░░░░░░░ 01.9% (02 hrs 25 mins)
-```
-
-🛠️ **Ambiente de Desenvolvimento:**
-- Editor Principal: VS Code (92%)
-- Sistema Operacional: Windows (85%)
-- Categoria Principal: Desenvolvimento Web (78%)
-
-📅 **Atualizado em:** 25/07/2025
 
 <!--END_SECTION:waka-->
 
