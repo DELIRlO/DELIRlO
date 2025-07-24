@@ -10,11 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write    # Permite editar o README
+      pull-requests: write  # Permite criar PRs (opcional)
 
     steps:
-        ```yaml 
-      - name: Waka - Readme
-        uses: athul/waka-readme@v0.3.1
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           # Configurações obrigatórias
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -22,19 +25,28 @@ jobs:
 
           # Configurações básicas
           SHOW_TITLE: "false"            # Remove título padrão
-          SHOW_EDITORS: "true"           # Mostra editores (VS Code)
+          SHOW_EDITORS: "true"           # Mostra editores (ex: VS Code)
           SHOW_OS: "true"                # Mostra sistemas operacionais
           SHOW_CATEGORIES: "true"        # Mostra categorias
-          
-          # Configurações recomendadas
-          TIME_RANGE: all_time           # Mostra dados acumulados
-          LANG_COUNT: 6                  # Top 5 linguagens (mude para 10 se preferir)
+          SHOW_LOCATION: "true"          # Mostra localização
+          SHOW_EMAIL: "true"             # Mostra e-mail
+          SHOW_WEBSITE: "true"           # Mostra website
+          SHOW_JOINED_DATE: "true"       # Mostra data de cadastro
+
+          # Configurações de exibição
+          TIME_RANGE: all_time           # Período dos dados
+          LANG_COUNT: 10                 # Número de linguagens
           SHOW_TIME: "true"              # Mostra tempo total
-          SECTION_NAME: "waka"           # Seção no README <!--START_SECTION:waka-->
-          
-          # Configurações opcionais
-          TIME_RANGE: all_time          # Período dos dados ("last_7_days" ou "all_time")
+          SHOW_TOTAL: "true"             # Mostra contagem total
+          SHOW_MASKED_TIME: "false"      # Oculta tempo mascarado
+          STOP_AT_OTHER: "true"          # Para em "Other"
+          SECTION_NAME: "waka"           # Seção no README
+          LOCALE: "br"                   # Localização BR
+
+          # Personalização avançada
+          CODE_LANG: "rust"              # Estilo de código
+          BLOCKS: "▱▰"                   # Blocos personalizados
+          IGNORED_LANGUAGES: "YAML,JSON,TOML"  # Linguagens ignoradas
           COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
-          CODE_LANG: rust
-          BLOCKS: "▱▰"      # Blocos de progresso personalizados
-          LOCALE: "br"
+          TARGET_BRANCH: "main"          # Branch alvo
+          TARGET_PATH: "README.md"       # Arquivo alvo
