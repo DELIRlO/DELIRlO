@@ -24,7 +24,7 @@
     </td>
     <!-- Streak Stats -->
     <td width="36%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
-      <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
+      <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
     </td>
     <!-- Top Languages -->
     <td width="27%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
