@@ -24,7 +24,7 @@
     </td>
     <!-- Streak Stats -->
     <td width="36%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=radical&locale=pt_BR&card_width=350&card_height=170&type=png)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=radical&locale=pt_BR&card_width=350&card_height=170&type=png)]
     </td>
     <!-- Top Languages -->
     <td width="27%" align="center" style="padding: 10px; border: none; vertical-align: middle;">
