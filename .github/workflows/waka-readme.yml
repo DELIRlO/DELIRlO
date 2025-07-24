@@ -19,8 +19,11 @@ jobs:
       - name: Update README with WakaTime Stats
         uses: athul/waka-readme@master
         with:
+          # Configurações obrigatórias
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Configurações básicas
           SHOW_TITLE: "false"
           SHOW_EDITORS: "true"
           SHOW_OS: "true"
@@ -29,6 +32,8 @@ jobs:
           SHOW_EMAIL: "true"
           SHOW_WEBSITE: "true"
           SHOW_JOINED_DATE: "true"
+
+          # Configurações de exibição
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: "true"
@@ -37,6 +42,8 @@ jobs:
           STOP_AT_OTHER: "true"
           SECTION_NAME: "waka"
           LOCALE: "br"
+
+          # Personalização avançada
           CODE_LANG: "rust"
           BLOCKS: "▱▰"
           IGNORED_LANGUAGES: "YAML,JSON,TOML"
