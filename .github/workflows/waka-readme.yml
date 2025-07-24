@@ -14,9 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
-
-      - name: Update README with WakaTime Stats
-        uses: athul/waka-readme@master
+      - name: Waka - Readme
+        uses: athul/waka-readme@v0.3.1
         with:
           # Configurações obrigatórias
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -30,11 +29,12 @@ jobs:
           
           # Configurações recomendadas
           TIME_RANGE: all_time           # Mostra dados acumulados
-          LANG_COUNT: 5                  # Top 5 linguagens (mude para 10 se preferir)
+          LANG_COUNT: 6                  # Top 5 linguagens (mude para 10 se preferir)
           SHOW_TIME: "true"              # Mostra tempo total
           SECTION_NAME: "waka"           # Seção no README <!--START_SECTION:waka-->
           
           # Configurações opcionais
+          TIME_RANGE: all_time          # Período dos dados ("last_7_days" ou "all_time")
           COMMIT_MESSAGE: "📊 Atualização automática das estatísticas WakaTime"
           CODE_LANG: rust
           BLOCKS: "▱▰"      # Blocos de progresso personalizados
