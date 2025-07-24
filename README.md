@@ -213,6 +213,8 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 <img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=delirlo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 <!--START_SECTION:waka-->
