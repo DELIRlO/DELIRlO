@@ -212,12 +212,6 @@ Other        37 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 <!--END_SECTION:waka-->
 
 <img width="676" height="221" alt="image" src="https://github.com/user-attachments/assets/c2060881-290f-403d-a31a-d86459766c1f" />
-
-   <img height="140" src="https://streak-stats.demolab.com?user=delirlo&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" alt="streak graph" style="display: block; margin: 0 auto; max-width: 100%;"/>
-
-
-![Banner](https://media.giphy.com/media/Z9WQLSrsQKH3uBbiX6/giphy.gif)
-
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
 
