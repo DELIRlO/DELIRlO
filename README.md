@@ -7,7 +7,7 @@
 <!-- lepo -->
 <table width="1260px">
 <tr>
-<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/DELIRlO/DELIRlO/blob/main/charts/pinkpc.gif" min-width="80px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
+<td valign="top" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp<img src="https://github.com/DELIRlO/DELIRlO/blob/main/charts/pinkpc.gif" min-width="100px" max-width="80px" width="80px" align="right" alt="Computador ysneshy">
 
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
