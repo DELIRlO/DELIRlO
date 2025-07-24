@@ -12,8 +12,7 @@ jobs:
       contents: write    # Permite editar o README
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
+        ```yaml 
       - name: Waka - Readme
         uses: athul/waka-readme@v0.3.1
         with:
