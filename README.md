@@ -2,7 +2,7 @@
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=26&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=DELIRIO+%C3%89+A+REALIDADE+QUE+VC+N%C3%83O+ACREDITA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=DELIRIO+%C3%89+A+REALIDADE+QUE+VC+N%C3%83O+ACREDITA" alt="Typing animation" />
 </div>
 <!-- lepo -->
 <table width="1260px">
