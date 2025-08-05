@@ -201,14 +201,15 @@ $ npx DELIRIO
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 71 hrs 10 mins
+Total Time: 82 hrs 33 mins
 
-HTML         32 hrs 16 mins  ▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱   44.87 %
-JavaScript   16 hrs 49 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.40 %
-CSS          16 hrs 7 mins   ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   22.41 %
-Markdown     3 hrs           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.19 %
-JSON         1 hr 22 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.91 %
-Other        45 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.06 %
+HTML         33 hrs 8 mins   ▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   39.77 %
+JavaScript   23 hrs 19 mins  ▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   27.99 %
+CSS          19 hrs 37 mins  ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.55 %
+Markdown     3 hrs           ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.62 %
+JSON         1 hr 22 mins    ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.66 %
+Text         49 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.00 %
+Other        46 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.92 %
 ```
 
 <!--END_SECTION:waka-->
