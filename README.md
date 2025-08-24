@@ -97,7 +97,7 @@
     </td>
     <td valign="top" width="30%">
       <pre>
-┌──┤ <span style="color:#9D00FF">SKILLS</span> ├───────────▰▰▰
+┌──┤ <span style="color:#9D00FF">SKILLS</span> ├──────────────▰▰▰
 │
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/> HTML/CSS
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> JavaScript
@@ -106,7 +106,7 @@
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/> React
 ├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/> Node.js
 │
-└──────────────────────────▰▰▰ <!-- $~~~~~~$ -->
+└─────────────────────────────▰▰▰ <!-- $~~~~~~$ -->
       </pre>
     </td>
   </tr>
