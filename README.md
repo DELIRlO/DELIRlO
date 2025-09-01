@@ -167,7 +167,7 @@
 <a href="https://github.com/ipqwery"><img src="https://github.com/ipqwery.png" width="75" style="border-radius:30%">
 <a href="https://github.com/kbmbarreto"><img src="https://github.com/kbmbarreto.png" width="75" style="border-radius:30%">
 <a href="https://github.com/Reistr12"><img src="https://github.com/Reistr12.png" width="75" style="border-radius:30%">
-<a href="https://github.com/lloonne"><img src="https://github.com/lloonne.png" width="75" style="border-radius:30%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/lloonne"><img src="https://github.com/lloonne.png" width="75" style="border-radius:30%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
 <!-- fim -->
 </td>
 </tr>
